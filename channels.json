@@ -1,0 +1,137 @@
+{
+  "channels": [
+    {
+      "name": "Fireship",
+      "handle": "@Fireship",
+      "id": "UCsBjURrPoezykLs9EqgamOA",
+      "lang": "en",
+      "group": "Explainers"
+    },
+    {
+      "name": "Prompt Engineering",
+      "handle": "@engineerprompt",
+      "id": "UCDq7SjbgRKty5TgGafW8Clg",
+      "lang": "en",
+      "group": "Builders"
+    },
+    {
+      "name": "Aish Reganti",
+      "handle": "@aish_reganti",
+      "id": "UCf9CdAgj8AHmpMwyoe67w7w",
+      "lang": "en",
+      "group": "Builders"
+    },
+    {
+      "name": "ByteMonk",
+      "handle": "@ByteMonk",
+      "id": "UCzCsyvyrq38R6TnztEzOmgg",
+      "lang": "en",
+      "group": "Explainers"
+    },
+    {
+      "name": "Caleb Writes Code",
+      "handle": "@CalebWritesCode",
+      "id": "UCuU9jE4MHHEIyYMbDfUPSew",
+      "lang": "en",
+      "group": "Builders"
+    },
+    {
+      "name": "Cole Medin",
+      "handle": "@ColeMedin",
+      "id": "UCMwVTLZIRRUyyVrkjDpn4pA",
+      "lang": "en",
+      "group": "Builders"
+    },
+    {
+      "name": "AI Engineer",
+      "handle": "@aiDotEngineer",
+      "id": "UCLKPca3kwwd-B59HNr-_lvA",
+      "lang": "en",
+      "group": "Institutions"
+    },
+    {
+      "name": "IBM Technology",
+      "handle": "@IBMTechnology",
+      "id": "UCKWaEZ-_VweaEx1j62do_vQ",
+      "lang": "en",
+      "group": "Institutions"
+    },
+    {
+      "name": "Y Combinator",
+      "handle": "@ycombinator",
+      "id": "UCcefcZRL2oaA_uBNeo5UOWg",
+      "lang": "en",
+      "group": "Institutions"
+    },
+    {
+      "name": "Nick Saraev",
+      "handle": "@nicksaraev",
+      "id": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+      "lang": "en",
+      "group": "Builders"
+    },
+    {
+      "name": "Matthew Berman",
+      "handle": "@matthew_berman",
+      "id": "UCawZsQWqfGSbCI5yjkdVkTA",
+      "lang": "en",
+      "group": "Explainers"
+    },
+    {
+      "name": "AI Explained",
+      "handle": "@aiexplained-official",
+      "id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "lang": "en",
+      "group": "Explainers"
+    },
+    {
+      "name": "Sam Witteveen",
+      "handle": "@samwitteveenai",
+      "id": "UC55ODQSvARtgSyc8ThfiepQ",
+      "lang": "en",
+      "group": "Builders"
+    },
+    {
+      "name": "Theo - t3.gg",
+      "handle": "@t3dotgg",
+      "id": "UCbRP3c757lWg9M-U7TyEkXA",
+      "lang": "en",
+      "group": "Explainers"
+    },
+    {
+      "name": "Two Minute Papers",
+      "handle": "@TwoMinutePapers",
+      "id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "lang": "en",
+      "group": "Explainers"
+    },
+    {
+      "name": "Harkirat Singh",
+      "handle": "@harkirat1",
+      "id": "UCWX0cUR2rZcqKei1Vstww-A",
+      "lang": "hi",
+      "group": "India"
+    },
+    {
+      "name": "CodeWithHarry",
+      "handle": "@CodeWithHarry",
+      "id": "UCeVMnSShP_Iviwkknt83cww",
+      "lang": "hi",
+      "group": "India"
+    },
+    {
+      "name": "Codebasics",
+      "handle": "@codebasics",
+      "id": "UCh9nVJoWXmFb7sLApWGcLPQ",
+      "lang": "en",
+      "group": "India"
+    },
+    {
+      "name": "Krish Naik",
+      "handle": "@krishnaik06",
+      "id": "UCNU_lfiiWBdtULKOw6X0Dig",
+      "lang": "en",
+      "group": "India"
+    }
+  ]
+}
