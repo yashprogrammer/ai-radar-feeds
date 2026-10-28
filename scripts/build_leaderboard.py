@@ -26,7 +26,7 @@ PHASE_ADVICE = {
     "heating": "Your window: several creators are on it and the audience is forming.",
     "peak": "Ride it with a different angle: everyone is covering this.",
     "cooling": "Late: only cover it if there's genuinely new news.",
-    "niche": "Small audience so far: fine as a Short, not a main video.",
+    "niche": "One or two creators with little traction: fine as a Short, not a main video.",
 }
 
 
@@ -101,12 +101,12 @@ def main():
             phase = "peak"
         elif n >= 3:
             phase = "heating"
-        elif age_first <= 5:
+        elif age_first <= 5 and (t.get("radar") or views >= 20000):
             phase = "emerging"
         else:
             phase = "niche"
 
-        hype = 45 * min(n / 6, 1) + 30 * fresh + 25 * min(math.log10(views + 1) / 6.5, 1)
+        hype = 50 * min(n / 6, 1) + 20 * fresh + 30 * min(math.log10(views + 1) / 6.5, 1)
         if phase == "cooling":
             hype *= 0.6
         topics.append({
