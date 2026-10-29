@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-28T05:28:28+00:00",
+ "fetchedAt": "2026-10-29T06:41:05+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -138,8 +138,8 @@
  "status": [
   {
    "channel": "Fireship",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Prompt Engineering",
@@ -149,12 +149,12 @@
   {
    "channel": "Aish Reganti",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "ByteMonk",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "Caleb Writes Code",
@@ -163,33 +163,33 @@
   },
   {
    "channel": "Cole Medin",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "AI Engineer",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "IBM Technology",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Y Combinator",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Nick Saraev",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Matthew Berman",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "AI Explained",
@@ -203,13 +203,13 @@
   },
   {
    "channel": "Theo - t3.gg",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Two Minute Papers",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Harkirat Singh",
