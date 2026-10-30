@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-29T06:41:05+00:00",
+ "fetchedAt": "2026-10-30T06:41:13+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -149,12 +149,12 @@
   {
    "channel": "Aish Reganti",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "ByteMonk",
-   "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Caleb Writes Code",
@@ -254,7 +254,7 @@
    "published": "2026-10-28T02:57:36+00:00",
    "url": "https://www.youtube.com/watch?v=Gy4ECDG_hI4",
    "isShort": false,
-   "views": 761,
+   "views": 13709,
    "description": "In this video I want to follow one engineering task all the way down to the infrastructure that makes it run. Because once you give an agent tools, the environment becomes part of the system. And that is where coding agents are getting genuinely interesting. Sponsored by Coder remote development workspaces and agentic coding infrastructure for engineering teams. \n\nTry it here → https://fandf.co/4r"
   },
   {
@@ -482,7 +482,7 @@
    "published": "2026-10-27T02:32:01+00:00",
    "url": "https://www.youtube.com/shorts/PcU-IaHElKM",
    "isShort": true,
-   "views": 3454,
+   "views": 5122,
    "description": "China's Kimi K3.1 Pro comes very close to Claude on Moonshot’s own coding benchmark. But there’s a catch: they used the Claude Code harness to run the test, not the Claude model. The tools aren’t neutral — they’re part of the score.\n\nIf you’re choosing a coding AI, don’t just look at the model. Look at model + tools together, on your actual task, with the same time and budget constraints.\n\n#KimiK3"
   },
   {
@@ -734,7 +734,7 @@
    "published": "2026-10-25T16:04:43+00:00",
    "url": "https://www.youtube.com/watch?v=nAwTtbSV130",
    "isShort": false,
-   "views": 14675,
+   "views": 16155,
    "description": "Two critical PHP runtime vulnerabilities have been identified with a 9.2 severity score, putting countless servers at risk.\n\nWe analyze the mechanics of these flaws, which allow for malicious code execution and were being actively exploited before emergency patches were released. This breakdown examines why relying on single-developer dependencies poses a significant supply chain risk for modern w"
   },
   {
@@ -1106,7 +1106,7 @@
    "published": "2026-10-23T03:09:52+00:00",
    "url": "https://www.youtube.com/shorts/tjE7G0UfWRE",
    "isShort": true,
-   "views": 4549,
+   "views": 4639,
    "description": "Imagine 10 AI coding agents working in parallel, fixing bugs, running tests, and investigating issues.\n\nBut how do we manage them safely?\n\nThe secret is separating the AI model, agent software, execution environment, and security policies.\n\nIn this Short, we explore how multi-agent coding systems work, why isolated workspaces matter, and how AI is changing software engineering.\n\n#AIAgents #Agentic"
   },
   {
@@ -1814,7 +1814,7 @@
    "published": "2026-10-16T03:54:08+00:00",
    "url": "https://www.youtube.com/watch?v=R_wWbHqpQTg",
    "isShort": false,
-   "views": 29471,
+   "views": 30791,
    "description": "How does Uber make millions of little cars move smoothly across your screen? It’s not one database. It’s not a clever SQL query. It’s a pipeline where every stage is designed to be bad at everything except the one thing it is responsible for.\n\nThis video breaks down the full system design behind Uber’s real-time location infrastructure — from the GPS ingestion problem (5M phones, 1 update/sec) to "
   },
   {
@@ -2126,7 +2126,7 @@
    "published": "2026-10-13T02:56:08+00:00",
    "url": "https://www.youtube.com/watch?v=iSpWw6Ak6Hk",
    "isShort": false,
-   "views": 38798,
+   "views": 39035,
    "description": "👉 Databricks Free Edition → https://databricks.plug.dev/gZhiFtC\n\nMost teams wire Claude Code to a few MCP tools and call it done. Then a production 503 hits and the agent sits there, missing context it needed,  tool access it doesn't have, and guardrails nobody set up.\n\nIn this video we fix that. Using a real production 503 incident on a \nFastAPI + PostgreSQL + Kubernetes service as the teaching e"
   },
   {
@@ -2330,7 +2330,7 @@
    "published": "2026-10-09T03:02:37+00:00",
    "url": "https://www.youtube.com/watch?v=jvySeY-DVPY",
    "isShort": false,
-   "views": 41649,
+   "views": 41746,
    "description": "India built a payment network that processes more than 24 billion transactions a month. You scan a QR code, enter a PIN, and in a few seconds the merchant has the money. For years, that experience looked almost free — the customer paid nothing, and UPI merchants paid zero. Yet NPCI, which runs UPI, has been making thousands of crores in revenue. At the same time, the US has been complaining that I"
   },
   {
@@ -2558,7 +2558,7 @@
    "published": "2026-10-05T04:12:12+00:00",
    "url": "https://www.youtube.com/shorts/YSLXRerJ_u4",
    "isShort": true,
-   "views": 7081,
+   "views": 7114,
    "description": "Meet DOTS, a personal AI agent designed to run its own cloud computer and handle complex tasks autonomously.\n\nMost AI tools require constant input, but DOTS changes the workflow by maintaining its own environment. This AI agent acts as a persistent digital worker, utilizing a dedicated cloud computer to browse the web and execute workflows even when you are offline.\n\nWe look at how you can interac"
   },
   {
@@ -2594,7 +2594,7 @@
    "published": "2026-10-03T02:20:58+00:00",
    "url": "https://www.youtube.com/watch?v=77owx_9zLvY",
    "isShort": false,
-   "views": 66102,
+   "views": 66290,
    "description": "A new AI company called TypeSafe has gone in almost the opposite direction of everyone else. While labs like OpenAI build models that think longer and write better answers, TypeSafe built a model that barely generates text at all. It's called JEV.\n\nIn this video, we see how JEV actually works, how to use it, and where it fits in a real system and then put it to the test using a small decision lab,"
   },
   {
@@ -2762,7 +2762,7 @@
    "published": "2026-09-30T04:01:23+00:00",
    "url": "https://www.youtube.com/watch?v=CZUtIIK4fdw",
    "isShort": false,
-   "views": 76278,
+   "views": 78304,
    "description": "This video's sponsor, ORGN, solves a real gap in cloud coding agents → https://orgn.plug.dev/1bGqaqX\n\nThink of the AI inside Cursor as a brilliant engineer who just joined your team. It knows every language and framework, but knows nothing about your specific codebase, your conventions, or your folder structure. Your job is to give it that context, fast.\n\n⏱ Chapters\n0:00 Cursor's mental model (the"
   },
   {
@@ -2882,7 +2882,7 @@
    "published": "2026-09-26T03:00:20+00:00",
    "url": "https://www.youtube.com/watch?v=dBBEjLzaZqI",
    "isShort": false,
-   "views": 30485,
+   "views": 30531,
    "description": "A hacking group claims it breached the FBI itself. They say they got in through the FBI's recruitment website, exploiting an unknown flaw in Oracle PeopleSoft to run their own code on the server. The exact path is still unverified. We analyze a cyber attack scenario targeting recruitment application servers to expose how attackers compromise sensitive systems. See the attack path from exploit to e"
   },
   {
@@ -3086,7 +3086,7 @@
    "published": "2026-09-23T02:30:25+00:00",
    "url": "https://www.youtube.com/watch?v=SgFYe9zS5Ek",
    "isShort": false,
-   "views": 27465,
+   "views": 27493,
    "description": "SWIFT is the messaging network banks use to tell each other to move money across borders. Most people get the next part wrong: SWIFT doesn't move the money, it moves the message. Almost everything about this system comes from that one distinction including how a group of hackers used it to steal $81 million from Bangladesh Bank, and why a single typo saved $850 million more.\n\n⏱️ CHAPTERS\n0:00 What"
   },
   {
@@ -3194,7 +3194,7 @@
    "published": "2026-09-18T02:30:09+00:00",
    "url": "https://www.youtube.com/watch?v=NUKgas9Fd5g",
    "isShort": false,
-   "views": 94133,
+   "views": 94300,
    "description": "Groups of AI agents explored different approaches. Codex consolidated their findings. And partway through the 88-hour effort, OpenAI swapped in a better model and kept going without stopping the research.\n\nThat's not recursive self-improvement yet. But the pieces of the loop are starting to show up. This video connects that story to two others: OpenAI's own research organization now getting roughl"
   },
   {
@@ -3278,7 +3278,7 @@
    "published": "2026-09-15T04:05:20+00:00",
    "url": "https://www.youtube.com/watch?v=UftYcziWO3g",
    "isShort": false,
-   "views": 34302,
+   "views": 34513,
    "description": "Secure your AI agents and MCP servers with Descope's Agentic Identity Hub, our sponsor of this video. \nFree Forever tier, no credit card → https://descope.plug.dev/Ud8PEya\n\nIn this video, instead of memorizing OWASP's new Top 10 for agentic applications, we build one small AI agent from scratch and watch each of those ten risks appear, one at a time, as we give it more capability.\n\n⏱️ TIMESTAMPS\n0"
   },
   {
@@ -3314,7 +3314,7 @@
    "published": "2026-09-12T04:02:14+00:00",
    "url": "https://www.youtube.com/watch?v=TL3cWILYr6I",
    "isShort": false,
-   "views": 61691,
+   "views": 61720,
    "description": "Jensen Huang just said AGI has arrived. He was talking about OpenAI's GPT-6 Astra, trained on more than 100,000 Nvidia Blackwell GPUs, with 400,000 more coming online. At the same time, OpenAI is building its own AI chip. These things are all connected. Let's understand what's actually happening.\n\n⏱️ TIMESTAMPS\n0:00 Jensen Huang: AGI has arrived\n0:29 What does AGI actually mean?\n0:57 The real defi"
   },
   {
@@ -3460,18 +3460,6 @@
    "isShort": false,
    "views": 186011,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GLM 5.3 Flash:\nhttps://z.ai/blog/glm-5.3-flash\n\nSources:\nhttps://x.com/louszbd/status/2092694163104113016\nhttps://x.com/semianalysis_/status/2092623833630998556\nhttps://x.com/skalskip92/status/2092748209802154201\nhttps://x.com/louszbd/status/2093047548550525165\nhttps://x.com/atomic_chat_hq/status/2093433913238552"
-  },
-  {
-   "id": "ldgl9Bd3lLg",
-   "channel": "CodeWithHarry",
-   "channelId": "UCeVMnSShP_Iviwkknt83cww",
-   "lang": "hi",
-   "title": "Linux Tutorial For Beginners | Complete Linux Course for DevOps",
-   "published": "2026-08-30T12:27:12+00:00",
-   "url": "https://www.youtube.com/watch?v=ldgl9Bd3lLg",
-   "isShort": false,
-   "views": 1508223,
-   "description": "Use this link along with coupon code \"HARRYVPS\" to get the best discount deal from Hostinger: https://hostinger.com/HARRYVPS\n\nDownload Handbook: https://www.codewithharry.com/notes#handbooks\nCrontab Website: https://crontab.guru/\n\n\nData Science Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course\nData Analytics Course: https://www.codewithharry.com/courses/the-u"
   }
  ]
 }
