@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-30T06:41:13+00:00",
+ "fetchedAt": "2026-10-31T06:30:56+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -149,12 +149,12 @@
   {
    "channel": "Aish Reganti",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "ByteMonk",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Caleb Writes Code",
