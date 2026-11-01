@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-31T06:30:56+00:00",
+ "fetchedAt": "2026-11-01T07:00:15+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -149,7 +149,7 @@
   {
    "channel": "Aish Reganti",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "ByteMonk",
@@ -193,46 +193,262 @@
   },
   {
    "channel": "AI Explained",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Sam Witteveen",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Theo - t3.gg",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Harkirat Singh",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "CodeWithHarry",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Codebasics",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Krish Naik",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   }
  ],
  "videos": [
+  {
+   "id": "FIpGRH8vdos",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "He fooled Nikon using AI",
+   "published": "2026-11-01T05:07:13+00:00",
+   "url": "https://www.youtube.com/shorts/FIpGRH8vdos",
+   "isShort": true,
+   "views": 12964,
+   "description": ""
+  },
+  {
+   "id": "nlFn9wbtIr4",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "Binance Hacked!",
+   "published": "2026-10-31T12:13:12+00:00",
+   "url": "https://www.youtube.com/shorts/nlFn9wbtIr4",
+   "isShort": true,
+   "views": 136087,
+   "description": ""
+  },
+  {
+   "id": "ebILGCoN4UU",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "My last video about ai harnesses",
+   "published": "2026-10-30T21:42:50+00:00",
+   "url": "https://www.youtube.com/watch?v=ebILGCoN4UU",
+   "isShort": false,
+   "views": 143910,
+   "description": "Here we go again, it seems like there's no single \"resource\" that properly explains what a harness actually is, so I made a video about it\n\nThank you to Vercel for sponsoring the vid! Check them out: https://soydev.link/eve \n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my article on Harnesses here too:\nhttps://x.com/theo/status/2113424203345265053\n\nCheck out"
+  },
+  {
+   "id": "7WvCDSSiNxE",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "AI == Google lost $500B!",
+   "published": "2026-10-30T17:45:01+00:00",
+   "url": "https://www.youtube.com/shorts/7WvCDSSiNxE",
+   "isShort": true,
+   "views": 275572,
+   "description": ""
+  },
+  {
+   "id": "CWdTBLsbaQs",
+   "channel": "Two Minute Papers",
+   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+   "lang": "en",
+   "title": "OpenAI Claims It Just Did The Impossible",
+   "published": "2026-10-30T15:57:16+00:00",
+   "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+   "isShort": false,
+   "views": 412714,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 OpenAI's paper is available here:\nhttps://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf\n\nOur paper with the cherry splash ray tracing simulation at 0:17 https://users.cg.tuwien.ac.at/zsolnai/gfx/adaptive_metropolis/\n\n🙏 We would like to thank our gene"
+  },
+  {
+   "id": "lEFFa0Z5BIE",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "3,000 Tokens/Sec Locally: Testing the ZGX Fury",
+   "published": "2026-10-30T13:00:24+00:00",
+   "url": "https://www.youtube.com/watch?v=lEFFa0Z5BIE",
+   "isShort": false,
+   "views": 50307,
+   "description": "In this video, I look at the ZGX Fury which is the big brother of the ZGX Nano (DGX Spark). While many people know the GB10s, most people haven't seen the power of what a machine like HP's ZGX Fury can do. With 748 GB of memory and NVIDIA's GB300 chipset, this is a mini data center your whole team can use\n\nHP ZGX Fury : https://www.hp.com/us-en/workstations/ai-stations/zgx-fury-ai-station.html\nHP "
+  },
+  {
+   "id": "pQRf3_7OZJ0",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "Explaining Context Window to a 10 yr old!",
+   "published": "2026-10-30T11:30:08+00:00",
+   "url": "https://www.youtube.com/shorts/pQRf3_7OZJ0",
+   "isShort": true,
+   "views": 71411,
+   "description": ""
+  },
+  {
+   "id": "9hT3SOBPzDs",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "Is Gemini 4 Carbon AGI?",
+   "published": "2026-10-30T07:54:46+00:00",
+   "url": "https://www.youtube.com/shorts/9hT3SOBPzDs",
+   "isShort": true,
+   "views": 75824,
+   "description": ""
+  },
+  {
+   "id": "2DvtD1q1fpE",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "Forward Deployed Engineer: The Fastest-Growing AI Role and How To Prepare For It",
+   "published": "2026-10-30T03:03:53+00:00",
+   "url": "https://www.youtube.com/watch?v=2DvtD1q1fpE",
+   "isShort": false,
+   "views": 21918,
+   "description": "Everyone is hiring Forward Deployed Engineers, from OpenAI and Anthropic to enterprise AI startups, and job postings have jumped 350% in a year. \n\nBut most people still can’t explain what an FDE actually does. \n\nIn this live session, we will break down the role in plain terms: what the work looks like day to day, how it differs from an onsite IT job, what it pays, and the skills you need to move i"
+  },
+  {
+   "id": "uLGxb4F3SyI",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "T3 Code broke me",
+   "published": "2026-10-29T17:34:08+00:00",
+   "url": "https://www.youtube.com/watch?v=uLGxb4F3SyI",
+   "isShort": false,
+   "views": 360479,
+   "description": "T3 Code has broken over 700,000 users, so I think it's time to give ya'll a tutorial on how I use it since I'm still contributing to it\n\nThank you to Apify for Sponsoring! Check them out: https://soydev.link/apify\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #program"
+  },
+  {
+   "id": "wvx5qvZln9I",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "Anthropic’s Latest Warning!",
+   "published": "2026-10-29T15:43:49+00:00",
+   "url": "https://www.youtube.com/shorts/wvx5qvZln9I",
+   "isShort": true,
+   "views": 201654,
+   "description": ""
+  },
+  {
+   "id": "5uHwUAtrSHM",
+   "channel": "Harkirat Singh",
+   "channelId": "UCWX0cUR2rZcqKei1Vstww-A",
+   "lang": "hi",
+   "title": "Microsoft Is Paying 60,000 Employees to Leave",
+   "published": "2026-10-29T13:52:45+00:00",
+   "url": "https://www.youtube.com/watch?v=5uHwUAtrSHM",
+   "isShort": false,
+   "views": 152107,
+   "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nI break down what the email actually says, what the offer is worth, why I had a Microsoft offer on campus day zero and what's changed since, and what this means for engineers at Microsoft, in big tech, and anyone thinking about getting into software right now.\n\n\n00:00 Microsoft's voluntary exit offer\n01:07 What the email a"
+  },
+  {
+   "id": "NBCM_ZoWZo8",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "How To Give Claude Unlimited Usage",
+   "published": "2026-10-28T19:05:28+00:00",
+   "url": "https://www.youtube.com/watch?v=NBCM_ZoWZo8",
+   "isShort": false,
+   "views": 193831,
+   "description": "Claude should have a limit...right? You would think so. But today I'm going to show you how to run Claude for WEEKS\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programmin"
+  },
+  {
+   "id": "pryCaGv8wuo",
+   "channel": "Two Minute Papers",
+   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+   "lang": "en",
+   "title": "DeepSeek's New AI Is An Absolute Monster",
+   "published": "2026-10-28T17:32:40+00:00",
+   "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+   "isShort": false,
+   "views": 174564,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4.1 Flash 1017 is available here:\nhttps://api-docs.deepseek.com/news/news261017/\n\nSources:\nhttps://x.com/marcthecreatorr/status/2111427716142571554/video/1\nhttps://x.com/olezhavich/status/2112897791022264814/video/1\nhttps://x.com/notjazii/status/2111432925313179689/video/1\nhttps://x.com/izag82161/status"
+  },
+  {
+   "id": "TfMwWWmwz4g",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "Microsoft’s exit offer: My Honest advice for Tech Workers",
+   "published": "2026-10-28T15:27:56+00:00",
+   "url": "https://www.youtube.com/watch?v=TfMwWWmwz4g",
+   "isShort": false,
+   "views": 214304,
+   "description": "My honest advice for tech workers after Microsoft's exit offer news."
+  },
+  {
+   "id": "QH30081LoOY",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "Do hiring managers care about your degree?",
+   "published": "2026-10-28T13:10:40+00:00",
+   "url": "https://www.youtube.com/shorts/QH30081LoOY",
+   "isShort": true,
+   "views": 6127,
+   "description": "Degree in hand, but still not getting AI interviews?\n\nWhat you build in public can speak louder than a certificate.\n\nAnd who knows your name can matter just as much.\n\nHere’s a simple way to start showing your skills.\n\nWatch full video - https://youtu.be/JzrEsnAAXkc?si=Q9vJBpWGlVj4Zp-B\n\nFollow us on Instagram :\nDhaval - https://www.instagram.com/dhavalcodebasics/\nCodebasics - https://www.instagram."
+  },
+  {
+   "id": "v4zRb6DT77s",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "AI bubble burst!💥",
+   "published": "2026-10-28T12:59:05+00:00",
+   "url": "https://www.youtube.com/shorts/v4zRb6DT77s",
+   "isShort": true,
+   "views": 280875,
+   "description": ""
+  },
+  {
+   "id": "r3EvmbmOuGc",
+   "channel": "Krish Naik",
+   "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+   "lang": "en",
+   "title": "Anthropic IPO Reveals 7 Shocking AI Risks|Is AI Getting Out of Control",
+   "published": "2026-10-28T07:50:21+00:00",
+   "url": "https://www.youtube.com/watch?v=r3EvmbmOuGc",
+   "isShort": false,
+   "views": 31073,
+   "description": "🚨 **Anthropic's IPO Reveals 7 Shocking AI Risks! Is AI Getting Out of Control?**\n\nAnthropic, the company behind Claude AI, is preparing for its IPO. But ahead of going public, the company has disclosed some serious risks associated with advanced artificial intelligence.\n\nFrom AI models potentially resisting shutdown and demonstrating manipulative behavior to unauthorized system access, AI-powered "
+  },
   {
    "id": "DDZ-a6bAn3Y",
    "channel": "Matthew Berman",
@@ -386,7 +602,7 @@
    "published": "2026-10-27T15:22:17+00:00",
    "url": "https://www.youtube.com/shorts/jktdMJsy7mY",
    "isShort": true,
-   "views": 134790,
+   "views": 378978,
    "description": ""
   },
   {
@@ -410,7 +626,7 @@
    "published": "2026-10-27T12:46:18+00:00",
    "url": "https://www.youtube.com/watch?v=QgELejeVt_g",
    "isShort": false,
-   "views": 39494,
+   "views": 62830,
    "description": "🎉 Festive Offer on AI PRO by Krish Naik Academy!\n\nOne subscription gives you 12 months of access to 14+ premium AI courses and bootcamps, covering GenAI, Agentic AI, RAG, LLMs, AI Engineering, and AI System Design. You get live bootcamps with recordings, plus every upcoming course released during your subscription.\n\n💰 Regular price: ₹21,000/year\n🎁 New students: flat 20% off, so you pay ₹16,800/yea"
   },
   {
@@ -470,7 +686,7 @@
    "published": "2026-10-27T04:02:18+00:00",
    "url": "https://www.youtube.com/watch?v=FHGfSjDGUIw",
    "isShort": false,
-   "views": 110662,
+   "views": 134650,
    "description": "Lauren's (@poteto) is spending 1.5 Trillion tokens a month, which sounds crazy, until we talk about what tokens actually cost\n\nThank you Depot for sponsoring! Check them out at: https://soydev.link/depot\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programming #codi"
   },
   {
@@ -566,7 +782,7 @@
    "published": "2026-10-26T18:30:11+00:00",
    "url": "https://www.youtube.com/watch?v=m2M1xdb6W38",
    "isShort": false,
-   "views": 21423,
+   "views": 28989,
    "description": "🎉 Festive Offer on AI PRO by Krish Naik Academy!\n\nOne subscription gives you 12 months of access to 14+ premium AI courses and bootcamps, covering GenAI, Agentic AI, RAG, LLMs, AI Engineering, and AI System Design. You get live bootcamps with recordings, plus every upcoming course released during your subscription.\n\n💰 Regular price: ₹21,000/year\n🎁 New students: flat 20% off, so you pay ₹16,800/yea"
   },
   {
@@ -590,7 +806,7 @@
    "published": "2026-10-26T13:52:07+00:00",
    "url": "https://www.youtube.com/watch?v=1dkz-2u99U8",
    "isShort": false,
-   "views": 84612,
+   "views": 99015,
    "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nRailway and OpenCode both got breached days apart, through the same\nattack vector. The attackers weren't after user data — they were after\nAI provider API keys, and the reason why is the interesting part.\n\nThis is what a distillation attack actually is, why the labs ban it,\nand why it's worth auditing your own systems befo"
   },
   {
@@ -602,7 +818,7 @@
    "published": "2026-10-26T13:42:16+00:00",
    "url": "https://www.youtube.com/shorts/IDaaiO_rYBg",
    "isShort": true,
-   "views": 7863,
+   "views": 10685,
    "description": "Thinking of becoming an AI PM someday?\n\nThe salary you expect can shift with the role, your skills and where you work.\n\nHere’s a quick look at how India and the US compare.\n\nWatch full video - https://youtu.be/JzrEsnAAXkc?si=Q9vJBpWGlVj4Zp-B\n\nFollow us on Instagram :\nDhaval - https://www.instagram.com/dhavalcodebasics/\nCodebasics - https://www.instagram.com/codebasicshub\n\n#aipm #productmanagement "
   },
   {
@@ -614,7 +830,7 @@
    "published": "2026-10-26T13:30:16+00:00",
    "url": "https://www.youtube.com/watch?v=VhrtlfTyqp4",
    "isShort": false,
-   "views": 10800,
+   "views": 13148,
    "description": "In this video I look at MOSS Image. A 5B diffusion transformer, which has an Apache 2 license, allowing you to create images and do whatever you want with it. It also allows you to use JSON to layout the image\n\nBlog: https://openmoss.ai/MOSS-Image/\nHF: https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT\n\n2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrLeADw\n\nTwitter: https://x.com"
   },
   {
@@ -674,7 +890,7 @@
    "published": "2026-10-26T07:16:35+00:00",
    "url": "https://www.youtube.com/watch?v=5Bmp9cz1JN8",
    "isShort": false,
-   "views": 183189,
+   "views": 213459,
    "description": "As I've shipped more and more, I've realized these three skills I wrote are the cornerstones of my workflow and how I ship in 2026\n\nThank you to WorkOS for Sponsoring! Check them out here:\nhttps://soydev.link/workos\n\nCHECK OUT MEGA https://soydev.link/mega\n\nOh also I did make tstack... https://github.com/t3dotgg/tstack\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nChec"
   },
   {
@@ -842,7 +1058,7 @@
    "published": "2026-10-24T13:30:09+00:00",
    "url": "https://www.youtube.com/watch?v=46PfUDixlEQ",
    "isShort": false,
-   "views": 17940,
+   "views": 19578,
    "description": "We kidnapped a Google engineer (for a podcast, relax) and he told us everything. 🎬 \n \nWe went to Google's NYC office and sat down with Thor and Jack two people who work on frontier AI. We cover what it takes to get hired at Google, how modern voice models work, what managed agents are and why they matter, how AI systems get evaluated, and what security looks like for AI.\n\nResources: https://www.ka"
   },
   {
@@ -878,7 +1094,7 @@
    "published": "2026-10-24T02:27:53+00:00",
    "url": "https://www.youtube.com/watch?v=l98EsMhiSns",
    "isShort": false,
-   "views": 11739,
+   "views": 12321,
    "description": "AI now writes SQL and drafts dashboards in seconds. So if you are two years into analytics, what is still yours, and what should you learn next?\n\nIn this live session, you will hear from people across different stages of an analytics career on what AI has changed, what it has not, and how to upgrade from here.\n\nCheck out our Data Analyst Live Cohort: https://tinyurl.com/2r4nj2mc\n\nMeet the Panel:\n\n"
   },
   {
@@ -902,7 +1118,7 @@
    "published": "2026-10-23T21:00:31+00:00",
    "url": "https://www.youtube.com/shorts/nXpoU99pTho",
    "isShort": true,
-   "views": 14294,
+   "views": 14965,
    "description": "Everything seems like it's gotten hacked, on an unprecedented day in software history. We have to talk about it\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\n#ai #programming #hacked"
   },
   {
@@ -998,7 +1214,7 @@
    "published": "2026-10-23T15:48:58+00:00",
    "url": "https://www.youtube.com/watch?v=M-UaSHSIgJs",
    "isShort": false,
-   "views": 88700,
+   "views": 110558,
    "description": "Here are 6 things I strongly recommend 👇\n1️⃣ CHOOSE THE RIGHT AI ROLE\nDon't just say, \"I want a job in AI.\"\nFocus on AI Engineer, GenAI Engineer, Agentic AI Engineer, ML Engineer, MLOps Engineer, Data Scientist, or AI Forward Deployed Engineer (FDE).\n\n2️⃣ LEARN SKILLS COMPANIES ACTUALLY NEED\n✅ Python, SQL, Git, APIs\n✅ LLMs, Transformers, Embeddings\n✅ Prompt and Context Engineering\n✅ RAG, Hybrid Se"
   },
   {
@@ -1022,7 +1238,7 @@
    "published": "2026-10-23T14:04:18+00:00",
    "url": "https://www.youtube.com/shorts/-5dbsFxY6vg",
    "isShort": true,
-   "views": 17185,
+   "views": 17832,
    "description": "Only focusing on coding to grow your tech career?\n\nClients kept asking for one teammate who wasn’t the best coder.\n\nWith AI writing code now, his skill matters even more.\n\nWhich skill do you think it was?\n\nFollow me on Instagram - https://www.instagram.com/dhavalcodebasics/\n\n#softskills #techcareer #communicationskills #careeradvice #short"
   },
   {
@@ -1046,7 +1262,7 @@
    "published": "2026-10-23T13:00:20+00:00",
    "url": "https://www.youtube.com/watch?v=BsfjQDSeTwI",
    "isShort": false,
-   "views": 76553,
+   "views": 82859,
    "description": "In this video, I look at an interesting model from Recursive AI called Flint, which is their first public attempt at building a very fast mixture-of-experts model specifically for taking on the Qwen3.8 and similar coding models. They are using an RSI system to do this. \n\nBlog: https://recursive.com/updates/introducing-recursive-flint\nHF: https://huggingface.co/RecursiveSI/flint\nNVFP4: https://hugg"
   },
   {
@@ -1070,7 +1286,7 @@
    "published": "2026-10-23T12:03:59+00:00",
    "url": "https://www.youtube.com/watch?v=XtGnIG38Ciw",
    "isShort": false,
-   "views": 13563,
+   "views": 15907,
    "description": "Most developers don't need to OWN a GPU — they need one for the 90 seconds it takes to answer a request. In this video I sign up for RunPod live on camera, deploy FLUX.1-schnell as a serverless endpoint, and prove the whole story with real numbers:\n\n▶️ Sign up to a working AI endpoint — no sales calls, no contracts\n▶️ What a cold start actually looks like (worker boots from zero)\n▶️ The FlashBoot "
   },
   {
@@ -1142,7 +1358,7 @@
    "published": "2026-10-22T19:14:45+00:00",
    "url": "https://www.youtube.com/watch?v=USeyDcWyVCc",
    "isShort": false,
-   "views": 245027,
+   "views": 248819,
    "description": "Everything seems like it's gotten hacked, on an unprecedented day in software history. We have to talk about it\n\nThank you Coderabbit for sponsoring! Check them out at: https://soydev.link/coderabbit\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏"
   },
   {
@@ -1238,7 +1454,7 @@
    "published": "2026-10-22T03:08:34+00:00",
    "url": "https://www.youtube.com/watch?v=dDXgPTDpcis",
    "isShort": false,
-   "views": 30872,
+   "views": 35031,
    "description": "Building an AI agent is easy. Making it reliable, safe, and cost-effective in production is the real challenge.\n\nIn this live session, we’ll look at what actually changes when an agentic AI system moves from a demo to production.\n\nUsing a real production deployment as the context, we’ll break down how to think about system architecture, evaluation, guardrails, observability, and cost.\n\nMeet the Pa"
   },
   {
@@ -1346,7 +1562,7 @@
    "published": "2026-10-21T14:05:00+00:00",
    "url": "https://www.youtube.com/shorts/UpcW0PKPBS8",
    "isShort": true,
-   "views": 20427,
+   "views": 21871,
    "description": "With AI writing code, is DSA prep pointless now?\n\nMakeMyTrip’s CTO shared what his engineers do.\n\nIt matters if you want a product company job.\n\nFollow me on Instagram - https://www.instagram.com/dhavalcodebasics/\n\n#aicoding #dsa #softwareengineering #makemytrip #short"
   },
   {
@@ -1382,7 +1598,7 @@
    "published": "2026-10-20T22:13:42+00:00",
    "url": "https://www.youtube.com/watch?v=3OshsLm3_OQ",
    "isShort": false,
-   "views": 235174,
+   "views": 239369,
    "description": "As we see games get full blown crossovers and models get incredible at optimizing things on their own, I'm not sure we actually NEED smarter models? \n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for t"
   },
   {
@@ -1454,7 +1670,7 @@
    "published": "2026-10-20T15:10:13+00:00",
    "url": "https://www.youtube.com/watch?v=MY7ZUsjBFCA",
    "isShort": false,
-   "views": 10865,
+   "views": 11916,
    "description": "We have some interesting new cohorts starting this new weekend. Check them out.\n\nAI PM: https://codebasics.io/lp/bootcamp/live-ai-product-manager-bootcamp-3\nAI Eng: https://codebasics.io/lp/bootcamp/ai-engineering-bootcamp-software-engineers-4\n\nDo you want to learn technology from me? Check https://codebasics.io/?utm_source=description&utm_medium=yt&utm_campaign=description&utm_id=description for "
   },
   {
@@ -1466,7 +1682,7 @@
    "published": "2026-10-20T13:00:17+00:00",
    "url": "https://www.youtube.com/watch?v=bEO_QeJU7U0",
    "isShort": false,
-   "views": 22900,
+   "views": 23637,
    "description": "Inception's Mercury 3 is a diffusion LLM running at 1,000+ tokens/sec, and Mercury Decide is a decision model that can now read images. Here's how they compare, what the independent evals say, and how fast they really are.\n\nThanks to Inception for sponsoring this video.\n\nLinks:\nTry Mercury Decide free on OpenRouter: https://openrouter.ai/inception/mercury-decide:free\nMercury 3 playground: https://"
   },
   {
@@ -1478,7 +1694,7 @@
    "published": "2026-10-20T07:00:07+00:00",
    "url": "https://www.youtube.com/watch?v=Zub-w_3xmXs",
    "isShort": false,
-   "views": 103982,
+   "views": 113174,
    "description": "🎉 Festive Offer on AI PRO by Krish Naik Academy!\n\nOne subscription gives you 12 months of access to 14+ premium AI courses and bootcamps, covering GenAI, Agentic AI, RAG, LLMs, AI Engineering, and AI System Design. You get live bootcamps with recordings, plus every upcoming course released during your subscription.\n\n💰 Regular price: ₹21,000/year\n🎁 New students: flat 20% off, so you pay ₹16,800/yea"
   },
   {
@@ -1502,7 +1718,7 @@
    "published": "2026-10-19T14:40:38+00:00",
    "url": "https://www.youtube.com/shorts/wpWzOlp0p3A",
    "isShort": true,
-   "views": 10147,
+   "views": 10323,
    "description": "Jio’s free calls and data sounded too good to be true.\n\nSo who actually paid the bill?\n\nThe answer changes how you see Jio’s win.\n\nWhich brand’s story should we break down next?\n\nFollow us on Instagram - https://www.instagram.com/codebasicshub\n\n#jio #casestudy #businessstory #telecom #short"
   },
   {
@@ -1514,7 +1730,7 @@
    "published": "2026-10-19T14:32:30+00:00",
    "url": "https://www.youtube.com/watch?v=bGzmzkX4Kqk",
    "isShort": false,
-   "views": 302689,
+   "views": 323167,
    "description": "What if you could accept online payments without relying on a traditional payment gateway?\n\nIn this video, harkirat break down how traditional payment gateways like Razorpay and Stripe work, why they involve fees and regulatory requirements, and how UPIP uses UPI payment notifications to create an alternative payment workflow.\n\nWe’ll also explore the system architecture, how payment verification w"
   },
   {
@@ -1526,7 +1742,7 @@
    "published": "2026-10-19T14:20:13+00:00",
    "url": "https://www.youtube.com/watch?v=aKVfjG7_R4g",
    "isShort": false,
-   "views": 11167,
+   "views": 11556,
    "description": "Muse Spark Open is Meta's new 816B open-weights model. In the video I go into what Meta actually released versus what they kept closed, and test it side by side with Muse Wonder.\n\nMeta's Muse Spark Open blog: https://research.meta.ai/blog/muse-spark-open\nReflection's Beam blog: https://reflection.ai/blog/introducing-beam\nDavid Senra podcast with Alexandr Wang: https://www.youtube.com/watch?v=S6l3a"
   },
   {
@@ -1562,7 +1778,7 @@
    "published": "2026-10-19T08:49:21+00:00",
    "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
    "isShort": false,
-   "views": 243115,
+   "views": 251897,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-4-argon/\nhttps://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf\n\nSources:\nhttps://x.com/thebuggeddev/status/2110241991233790456\nhttps://x.com/vib3coded/status/2110136719827747181\nhttps://x.com/En"
   },
   {
@@ -1586,7 +1802,7 @@
    "published": "2026-10-18T23:57:04+00:00",
    "url": "https://www.youtube.com/watch?v=m-B3jIMMmUE",
    "isShort": false,
-   "views": 245509,
+   "views": 252042,
    "description": "Most of the features engineers are making, are just prompts, and you can make your life way easier by prompting better\n\nThank you Macroscope for sponsoring! Check them out at: https://soydev.link/macroscope\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programming #p"
   },
   {
@@ -1598,7 +1814,7 @@
    "published": "2026-10-18T20:21:04+00:00",
    "url": "https://www.youtube.com/watch?v=mSOAIckOvy8",
    "isShort": false,
-   "views": 13066,
+   "views": 13278,
    "description": "AI PM job descriptions list twenty requirements, and no two seem to match. \n\nIn this live session, we will narrow it down to the 8 skills that matter in 2027, showing how they apply in real roles, how hiring managers test them, and how you can start building them today.\n\nMeet the Panel:\n\nKarandeep Singh Grover: https://www.linkedin.com/in/groverkds/\nAakash Pardeshi: https://www.linkedin.com/in/van"
   },
   {
@@ -1754,7 +1970,7 @@
    "published": "2026-10-16T12:26:14+00:00",
    "url": "https://www.youtube.com/watch?v=DhJBlhw8Ye8",
    "isShort": false,
-   "views": 231853,
+   "views": 238798,
    "description": "DevOps is solved. Mobile is solved. Native is solved. And with\nReverse Engineer Anything — newly open sourced — binaries are too.\n\nSo I pointed an agent at Mini Militia and asked it to rebuild the\ngame from the APK. Native Android and iOS, the original maps and\ntextures, then LAN multiplayer on top.\n\nI'm not releasing the app or the source code. This is just the\nprocess, so you can rebuild your ow"
   },
   {
@@ -1766,7 +1982,7 @@
    "published": "2026-10-16T12:19:30+00:00",
    "url": "https://www.youtube.com/watch?v=oUl_z3SNopU",
    "isShort": false,
-   "views": 31297,
+   "views": 32353,
    "description": "This video provides a complete end-to-end tutorial on fine-tuning, aligning, and deploying Large Language Models (LLMs) serverlessly using Amazon SageMaker AI. Here we demonstrates four levels of LLM customization—Prompt Engineering, Supervised Fine-Tuning (SFT) with LoRA, Direct Preference Optimization (DPO), and Reinforcement Learning (RLVR & RLAIF). Using real-world hands-on demonstrations, a b"
   },
   {
@@ -1778,7 +1994,7 @@
    "published": "2026-10-16T12:06:39+00:00",
    "url": "https://www.youtube.com/shorts/-MDZhBYuFbs",
    "isShort": true,
-   "views": 22375,
+   "views": 22721,
    "description": "In 2006, NVIDIA was a little-known company making chips for video games.\n\nI worked there at the time, when CUDA was brand new.\n\nBack then, most people doubted GPUs could ever go beyond gaming.\n\n20 years later, that same company became an AI giant.\n\nA quick look back at Nvidia's journey from gaming chips to AI.\n\nFollow Codebasics for more real stories from the world of AI and tech.\n\nFollow us on In"
   },
   {
@@ -1802,7 +2018,7 @@
    "published": "2026-10-16T04:38:27+00:00",
    "url": "https://www.youtube.com/watch?v=hiI0Vk4NgeY",
    "isShort": false,
-   "views": 235697,
+   "views": 239460,
    "description": "In just 5 months, Anthropic went from 2,500 merges per day to over 30,000 this September and they wrote a blog explaining just how that was possible with their new system, Scion\n\nThank you Infinite Red for sponsoring! Check them out here:\nhttps://soydev.link/infinite\n\nSources:\nhttps://www.anthropic.com/engineering/redesigning-source-control\n\nWant to sponsor a video? Learn more here: https://soydev"
   },
   {
@@ -1850,7 +2066,7 @@
    "published": "2026-10-15T17:45:19+00:00",
    "url": "https://www.youtube.com/watch?v=-UZPUkl_KwE",
    "isShort": false,
-   "views": 325145,
+   "views": 340948,
    "description": "➡️ Download Notes and CheatSheets: https://www.codewithharry.com/notes/\n➡️ Udemy Python Course: https://goharry.in/python\n➡️ Checkout Data Science The Ultimate Job Ready Data Science Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course\n➡️ Data Science (International Students): https://buy.stripe.com/9B65kF3790jS2kCeiZ1gs04\n➡️ Career Advice:\nIf you are into colle"
   },
   {
@@ -1946,7 +2162,7 @@
    "published": "2026-10-14T15:45:44+00:00",
    "url": "https://www.youtube.com/watch?v=NE006pkiAnk",
    "isShort": false,
-   "views": 275681,
+   "views": 278900,
    "description": "Argon might be Google'ss Best Model Yet with Gemini 4, but is it 8 months to late? \n\nThank you to WorkOS for Sponsoring! Check them out here:\nhttps://soydev.link/workos\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#google #ai #programming"
   },
   {
@@ -1958,7 +2174,7 @@
    "published": "2026-10-14T12:02:28+00:00",
    "url": "https://www.youtube.com/shorts/ZOlutbdOC2Q",
    "isShort": true,
-   "views": 24466,
+   "views": 24732,
    "description": "Nobody told this school kid he could build an app.\n\nHe did it anyway, for a real problem in his club.\n\nHe’s not an engineer, just very curious.\n\nWhat would you build if nobody had to approve it?\n\nFollow me on Instagram - https://www.instagram.com/dhavalcodebasics/\n\n#vibecoding #cursor #aitools #students #short"
   },
   {
@@ -1982,7 +2198,7 @@
    "published": "2026-10-14T03:06:19+00:00",
    "url": "https://www.youtube.com/watch?v=WwxdkWzCvqs",
    "isShort": false,
-   "views": 13125,
+   "views": 13206,
    "description": "Every week another post calls AI PM the hottest role in tech, and every job description asks for something different. If you are a working professional considering the switch, it is hard to tell what is real and what is hype.\n\nIn this live session, we will cover what an AI PM actually does, how the role differs from a traditional PM, and a clear way to decide if AI PM fits your background, your st"
   },
   {
@@ -2006,7 +2222,7 @@
    "published": "2026-10-13T19:00:36+00:00",
    "url": "https://www.youtube.com/watch?v=vsAAgH_nYzM",
    "isShort": false,
-   "views": 1155249,
+   "views": 1195671,
    "description": "Important Note: This video is not at all sponsored by Google!\nAI Edit by Gemini 4 Argon: https://drive.google.com/file/d/1BbLDlxIDeKW2e4KeKUyvI1ggdyRxJQ7M/view?usp=sharing\n➡️ Udemy Python Course: https://goharry.in/python\n➡️ Checkout Data Science The Ultimate Job Ready Data Science Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course\n➡️ Data Science (Internation"
   },
   {
@@ -2018,7 +2234,7 @@
    "published": "2026-10-13T18:08:31+00:00",
    "url": "https://www.youtube.com/watch?v=N2FhJhJ5dNY",
    "isShort": false,
-   "views": 80894,
+   "views": 81892,
    "description": "Check out Gemini 4 Argon \nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/ \n\nGemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.\n\nArgon excel"
   },
   {
@@ -2066,7 +2282,7 @@
    "published": "2026-10-13T16:03:05+00:00",
    "url": "https://www.youtube.com/watch?v=4iK_UFzW6Zw",
    "isShort": false,
-   "views": 54945,
+   "views": 55189,
    "description": "Gemini 4 Argon is out and in the video I go into how this compares to other models, what it is good at and look at testing some of the outputs it creates. \n\nGoogle blog post: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\nArtificial Analysis: https://artificialanalysis.ai/models/gemini-4-argon\nMy first video on Argon: https://www.youtube.com/wat"
   },
   {
@@ -2090,7 +2306,7 @@
    "published": "2026-10-13T13:30:58+00:00",
    "url": "https://www.youtube.com/watch?v=y5Ox9m4BALA",
    "isShort": false,
-   "views": 51356,
+   "views": 51843,
    "description": "Check out MongoDB Atlas here: https://fandf.co/4hQM6gx\n\nThanks to MongoDB for partnering with us on this video!\n\nAI can now handle complex engineering tasks, including database migrations. In this video, I use Claude to migrate a PostgreSQL database to MongoDB Atlas Infinite, verify the data, and explore the challenges of updating application code.\n\nWe also discuss how AI is changing tech stack de"
   },
   {
@@ -2102,7 +2318,7 @@
    "published": "2026-10-13T11:01:13+00:00",
    "url": "https://www.youtube.com/watch?v=DbWL6Zs2j_g",
    "isShort": false,
-   "views": 179225,
+   "views": 179982,
    "description": "Meta just released Muse Wonder Full, making them a Frontier lab. But how good is it, actually? I tested it to find out.\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏"
   },
   {
@@ -2114,7 +2330,7 @@
    "published": "2026-10-13T08:56:12+00:00",
    "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
    "isShort": false,
-   "views": 366111,
+   "views": 368571,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The papers are available here:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\nhttps://github.com/openai/math\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, M"
   },
   {
@@ -2138,7 +2354,7 @@
    "published": "2026-10-12T22:52:31+00:00",
    "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
    "isShort": false,
-   "views": 154596,
+   "views": 156088,
    "description": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times.\n\nExclusives, and ad-free early access vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n0:4"
   },
   {
@@ -2162,7 +2378,7 @@
    "published": "2026-10-12T18:00:14+00:00",
    "url": "https://www.youtube.com/shorts/XkmZ1nOtuDc",
    "isShort": true,
-   "views": 12430,
+   "views": 12648,
    "description": "With Astra's pricing, Ultrafast just isn't worth it - but if Sol 6.1 Ultrafast comes next, it might be worth it \n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\n#ai #programming #coding"
   },
   {
@@ -2186,7 +2402,7 @@
    "published": "2026-10-12T13:07:08+00:00",
    "url": "https://www.youtube.com/shorts/LJI6j9utSqk",
    "isShort": true,
-   "views": 3593062,
+   "views": 4222805,
    "description": "Is your enterprise AI project stuck in proof-of-concept? Fragmented tech\nstacks are keeping your best ideas off the production line. The Dell AI\nFactory unifies your infrastructure into one seamless engine, powering\nyour business from deskside to data centre so you can scale strategic\nintelligence faster.​\n\n#FullStackAI #DellTechnologies #Innovation #Technology​"
   },
   {
@@ -2210,7 +2426,7 @@
    "published": "2026-10-12T02:39:38+00:00",
    "url": "https://www.youtube.com/watch?v=vRS2leJLAI0",
    "isShort": false,
-   "views": 146133,
+   "views": 146930,
    "description": "Yes, AI has gotten cheaper and it's going to keep getting cheaper, just not in the way you see with your wallet at the moment, lets break it down.\n\nThank you Railway for sponsoring! \nCheck them out at: https://soydev.link/railway\n\nSources: \nhttps://x.com/ThePrimeagen/status/2097367208691208240\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, "
   },
   {
@@ -2222,7 +2438,7 @@
    "published": "2026-10-11T16:53:17+00:00",
    "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
    "isShort": false,
-   "views": 333266,
+   "views": 334566,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek OCR paper is available here:\nhttps://github.com/deepseek-ai/DeepSeek-OCR\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan S"
   },
   {
@@ -2234,7 +2450,7 @@
    "published": "2026-10-11T15:29:41+00:00",
    "url": "https://www.youtube.com/watch?v=OI1-4Ui3Jzw",
    "isShort": false,
-   "views": 26872,
+   "views": 27060,
    "description": "Last call for winter bootcamp - https://100xdevs.com/new-courses/winter-camp"
   },
   {
@@ -2270,7 +2486,7 @@
    "published": "2026-10-10T15:47:06+00:00",
    "url": "https://www.youtube.com/watch?v=ZNWvEiRwDEg",
    "isShort": false,
-   "views": 20569,
+   "views": 20669,
    "description": "Check out Vidya AI : https://www.krishnaik.in/ai-tutorials\n\nJoin our AI FDE Bootcamp \nEnrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deploye"
   },
   {
@@ -2282,7 +2498,7 @@
    "published": "2026-10-10T10:58:42+00:00",
    "url": "https://www.youtube.com/watch?v=ND_kRgU_WlY",
    "isShort": false,
-   "views": 189201,
+   "views": 192312,
    "description": "I ported all of typescript to rust...yes really. ts-rust (aka tsc-rs) is here, and it only cost me $420k.\n\nThank you Qdrant for sponsoring! Check them out at: https://soydev.link/qdrant\n\nCheck it out https://github.com/pingdotgg/ts-rust\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the aweso"
   },
   {
@@ -2294,7 +2510,7 @@
    "published": "2026-10-10T09:30:36+00:00",
    "url": "https://www.youtube.com/shorts/Di3HIeC9ylU",
    "isShort": true,
-   "views": 8256,
+   "views": 8419,
    "description": "Visit : https://krishnaik.in"
   },
   {
@@ -2378,7 +2594,7 @@
    "published": "2026-10-08T15:00:23+00:00",
    "url": "https://www.youtube.com/watch?v=CH1ciacnazE",
    "isShort": false,
-   "views": 38994,
+   "views": 39205,
    "description": "Watching the Microsoft Windows and Surface laptop event turned out to be a lot more interesting than normal. Microsoft is clearly going all in on local AI running on your machine and working with cloud models only when it needs to use them. \n\nMicrosoft Blog https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/\nFull Live Event: https://www.youtube.com/live"
   },
   {
@@ -2402,7 +2618,7 @@
    "published": "2026-10-08T06:42:10+00:00",
    "url": "https://www.youtube.com/watch?v=BOY65Sw8xL0",
    "isShort": false,
-   "views": 219919,
+   "views": 230843,
    "description": "Check out Vidya AI: https://www.krishnaik.in/ai-tutorials\n\nJoin our AI FDE Bootcamp \nEnrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed"
   },
   {
@@ -2462,7 +2678,7 @@
    "published": "2026-10-07T13:55:00+00:00",
    "url": "https://www.youtube.com/watch?v=AzYY5InMTA0",
    "isShort": false,
-   "views": 35553,
+   "views": 35711,
    "description": "Check out Vidya AI: https://www.krishnaik.in/ai-tutorials\n\nJoin our AI FDE Bootcamp \nEnrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed"
   },
   {
@@ -2474,7 +2690,7 @@
    "published": "2026-10-07T13:29:33+00:00",
    "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "isShort": false,
-   "views": 155257,
+   "views": 156017,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nThank you Google DeepMind for the invite.\n\n📝 AlphaGenome Atlas is available here:\nhttps://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/\nhttps://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/\n\n🙏 We would like to "
   },
   {
@@ -2486,7 +2702,7 @@
    "published": "2026-10-07T13:25:47+00:00",
    "url": "https://www.youtube.com/watch?v=m8Ula6KZU14",
    "isShort": false,
-   "views": 43208,
+   "views": 43466,
    "description": "Checkout: https://www.asrock.com/Graphics-Card/AMD/Radeon%20AI%20PRO%20R9700%20Creator%2032GB/\n\nhttps://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nIn this video, Harkirat explores what happens when you stop relying on cloud AI subscriptions and run AI models locally on your own GPU.\n\nWe’re using the AMD Radeon AI Pro with 32GB of VRAM to self-host coding, image, and video "
   },
   {
@@ -2498,7 +2714,7 @@
    "published": "2026-10-06T14:10:32+00:00",
    "url": "https://www.youtube.com/watch?v=vKjnZAcimss",
    "isShort": false,
-   "views": 35467,
+   "views": 35722,
    "description": "How one open-weight model click through a GUI, write and run code, and call MCP tools, and also work out which one to use at each step. Thats Holo4\n\nThanks to Dell for Sponsoring the Compute\n#DellProPrecision #DellTech #NVIDIA #DellProMax \n\nHolo4 Blog: https://hcompany.ai/newsroom/holo4\nHolo4 27B: https://huggingface.co/Hcompany/Holo4-27B\nHolo4 35B-A3B: https://huggingface.co/Hcompany/Holo4-35B-A3"
   },
   {
@@ -2522,7 +2738,7 @@
    "published": "2026-10-05T15:05:41+00:00",
    "url": "https://www.youtube.com/watch?v=kErkHUuMzKM",
    "isShort": false,
-   "views": 56551,
+   "views": 57619,
    "description": "Checkout: https://100xdevs.com/new-courses/winter-camp\n\nTwo Super 30 success stories — Mrityunjay and Ashmit.\nMrityunjay cracked 3 offers in 7 days, including a 59 LPA offer. Ashmit, who dropped out of BITS earlier this year, landed an 18 LPA full-time offer in Bangalore.  \n\nIn this episode, they share their journey, Super 30 experience, interview preparation, projects, and what helped them crack "
   },
   {
@@ -2534,7 +2750,7 @@
    "published": "2026-10-05T09:53:12+00:00",
    "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
    "isShort": false,
-   "views": 167849,
+   "views": 168397,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Sonnet 5.5: \nhttps://www.anthropic.com/claude-sonnet-5-5\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, "
   },
   {
@@ -2546,7 +2762,7 @@
    "published": "2026-10-05T09:41:46+00:00",
    "url": "https://www.youtube.com/watch?v=92VIddlqE8Q",
    "isShort": false,
-   "views": 51968,
+   "views": 53039,
    "description": "You can check out Devin Ai here:-https://get.aspr.app/SH21SY\r\nWhat can Devin, Cognition’s AI software engineer, actually do?\r\nIn this video, we put Devin through a real engineering workflow by building an Agentic RAG\r\nsystem from end to end — while exploring the capabilities that make Devin more than an AI\r\ncoding assistant.\n\r\n00:00 Introduction\r\n06:32 Devin AI Setup & GitHub Connection\r\n07:54 Exp"
   },
   {
@@ -2570,7 +2786,7 @@
    "published": "2026-10-04T16:20:09+00:00",
    "url": "https://www.youtube.com/watch?v=2RA7jWJvQ1U",
    "isShort": false,
-   "views": 131403,
+   "views": 136794,
    "description": "Which is the best fine-tune of Qwen3.8 27B that reduces the amount of thinking and reasoning tokens but still keeps the best accuracy for your particular use case? \n\nThanks to Dell for Sponsoring the Compute\n#DellProPrecision #DellTech #NVIDIA #DellProMax \n\nThinkingCap: https://bottlecapai.com/post/thinkingcap-qwen3-8-27b/\nSwift 1.5: https://ukisai.com/swift-1-5-27b\nQwenPi: https://huggingface.co/"
   },
   {
@@ -2582,7 +2798,7 @@
    "published": "2026-10-04T13:30:02+00:00",
    "url": "https://www.youtube.com/watch?v=rS978jJ9PUM",
    "isShort": false,
-   "views": 93538,
+   "views": 94138,
    "description": "Checkout:https://100xdevs.com/new-courses/winter-camp\n\nThe bootcamp will run online and offline at the Greater Noida campus, with a packed schedule covering Full Stack, DSA, System Design, Applied AI, RAG, Coding Agents and more.\n\nBy the end of the 12 weeks, you'll have a much clearer answer to: Is CS actually for me?\n\nChapters\n\n00:00 — Introducing the Winter Bootcamp\n01:19 — What You'll Learn in "
   },
   {
@@ -2618,7 +2834,7 @@
    "published": "2026-10-02T14:30:27+00:00",
    "url": "https://www.youtube.com/watch?v=L8YxigQoLaM",
    "isShort": false,
-   "views": 52883,
+   "views": 53344,
    "description": "In this video, we return to looking at decision models, but this time for images, with the use case being RPA. \n\n🤗 HF: https://huggingface.co/mohit67890/imajev-4b\n🤗 HF: https://huggingface.co/akhilaaa3/Jev-Omni\n\nSam's 2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrLeADw\n\nTwitter: https://x.com/Sam_Witteveen \n\n🕵️ Interested in building LLM Agents? Fill out the form below\nBuilding "
   },
   {
@@ -2654,7 +2870,7 @@
    "published": "2026-10-01T22:25:56+00:00",
    "url": "https://www.youtube.com/watch?v=h2p9rPWef_o",
    "isShort": false,
-   "views": 149108,
+   "views": 150754,
    "description": "https://100xdevs.com"
   },
   {
@@ -2666,7 +2882,7 @@
    "published": "2026-10-01T21:20:12+00:00",
    "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
    "isShort": false,
-   "views": 296349,
+   "views": 297874,
    "description": "This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House commitments, new hacks emerging, ‘deep personas’, biology Kasparov competitions, and so much more, ending with an epic Opus outro.\n\n\nPatreon Exclusives: https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:32 - Wrong about Op"
   },
   {
@@ -2702,7 +2918,7 @@
    "published": "2026-10-01T13:00:19+00:00",
    "url": "https://www.youtube.com/watch?v=5XTJRU9na3Y",
    "isShort": false,
-   "views": 127618,
+   "views": 127723,
    "description": "In this video, I look at the pre-announced Gemini 4 Argon. Well, I can't show outputs of this model currently because it's not officially released to the public yet. We can certainly see some of the interesting changes that Google's made to get back into the top 3 labs for frontier-level intelligence. \n\nBlog: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\nA"
   },
   {
@@ -2738,7 +2954,7 @@
    "published": "2026-09-30T13:05:01+00:00",
    "url": "https://www.youtube.com/watch?v=n-xAzWZCq6w",
    "isShort": false,
-   "views": 14992,
+   "views": 15018,
    "description": "In this video, I break down a lot of what was announced at the OpenAI DevDay on September 29. We look at what products show, not only what OpenAI is doing, but where the industry is perhaps going as a whole. \n\nBlog: https://openai.com/index/devday-2026-recap/\n\nSam's 2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrLeADw\n\nTwitter: https://x.com/Sam_Witteveen \n\n🕵️ Interested in build"
   },
   {
@@ -2750,7 +2966,7 @@
    "published": "2026-09-30T12:59:55+00:00",
    "url": "https://www.youtube.com/watch?v=sqGoC2FRYfY",
    "isShort": false,
-   "views": 313251,
+   "views": 314534,
    "description": "Guys we finally hit 10M Subscribers!!\nThe Ultimate Content Creator Bootcamp - https://www.codewithharry.com/courses/the-ultimate-content-creator-bootcamp\nThe Ultimate Job Ready Data Science Course - https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course\nUltimate Job-Ready AI-Powered Data Analytics Course - https://www.codewithharry.com/courses/the-ultimate-job-ready-ai-po"
   },
   {
@@ -2786,7 +3002,7 @@
    "published": "2026-09-29T13:30:12+00:00",
    "url": "https://www.youtube.com/watch?v=zaLQ0AnY9dI",
    "isShort": false,
-   "views": 55561,
+   "views": 56249,
    "description": "In this video I return to looking at how you can use Jev in an Agent Harness\n\n🤗 HF: https://huggingface.co/caiovicentino1/Eikos-27B\n\nSam's 2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrLeADw\n\nTwitter: https://x.com/Sam_Witteveen \n\n🕵️ Interested in building LLM Agents? Fill out the form below\nBuilding LLM Agents Form: https://drp.li/dIMes\n\n👨‍💻Github:\nhttps://github.com/samwit/llm"
   },
   {
@@ -2798,7 +3014,7 @@
    "published": "2026-09-29T13:01:06+00:00",
    "url": "https://www.youtube.com/watch?v=f0PvEs5l1qs",
    "isShort": false,
-   "views": 347967,
+   "views": 355468,
    "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nIn this video, Harkirat takes us through the future of software development and coding\n\n📚 𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹𝘀/𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀:\nLive Link → \nGitHub Repository (give it a star ⭐) → \n\n🔗 𝗟𝗶𝗻𝗸𝘀:\nCohort → https://100xdevs.com\nTwitter → https://twitter.com/kirat_tw\nLinkedin → https://linkedin.com/in/kirat-li\nInstagram → https://www.instagram.co"
   },
   {
@@ -2858,7 +3074,7 @@
    "published": "2026-09-28T06:09:21+00:00",
    "url": "https://www.youtube.com/watch?v=3B0sGESJtH0",
    "isShort": false,
-   "views": 72334,
+   "views": 72613,
    "description": "Last 6 days to Join our AI FDE Bootcamp \nEnrollment link:\nhttps://www.krishnaik.in/liveclass2/Forward_Deployed_Engineer?id=14\n\nReach out to Krish Naik's counselling team on 📞 +919111533440 or +918484837781 in case of any queries we are there to help you out.\n\nBuild Production-Ready Enterprise AI Systems\n\nMaster the skills to become an AI Forward Deployed Engineer—from software engineering and AWS "
   },
   {
@@ -2870,7 +3086,7 @@
    "published": "2026-09-27T13:30:39+00:00",
    "url": "https://www.youtube.com/watch?v=U236OfO-spI",
    "isShort": false,
-   "views": 17186,
+   "views": 17488,
    "description": "In this video, I look at the latest multimodal offering from Google Gemini Live avatars. \n\nBlog: https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-8-live-with-live-avatar-is-now-generally-available\n\n\nMy 2nd Channel video with code walk through and links to the code: https://youtu.be/84v0uy-mboM\n\nTwitter: https://x.com/Sam_Witteveen \n\n🕵️ Interested in building LLM Agents? Fill out"
   },
   {
@@ -2930,7 +3146,7 @@
    "published": "2026-09-24T22:51:54+00:00",
    "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
    "isShort": false,
-   "views": 309187,
+   "views": 310049,
    "description": "Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recursive Self Improvement, aka automated AI research. I cover the model (digging into its 230 page paper), labs’ mixed record on promises, why following what is happening in AI is getting almost impossible, and just so much more that even a summ"
   },
   {
@@ -2942,7 +3158,7 @@
    "published": "2026-09-24T17:15:13+00:00",
    "url": "https://www.youtube.com/watch?v=GDUBXR-ql78",
    "isShort": false,
-   "views": 94838,
+   "views": 95552,
    "description": "In this video, I go through the latest TTS offering from Google with their Gemini 3.8 Flash TTS. \n\nBlog: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/\nColab: https://colab.research.google.com/drive/1PN3XEXb5385W_V_2tNjXl468mqYGoNgl?usp=sharing\n\nTwitter: https://x.com/Sam_Witteveen \n\n🕵️ Interested in building LLM Agents? Fill out the form below\nB"
   },
   {
@@ -2978,7 +3194,7 @@
    "published": "2026-09-24T08:40:55+00:00",
    "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
    "isShort": false,
-   "views": 376662,
+   "views": 377880,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nNote: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations.\n\nClaude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\n\nWalking creatures video and paper:\nhttps://www.youtube.com/watch?v=kQ2bq"
   },
   {
@@ -3014,7 +3230,7 @@
    "published": "2026-09-23T17:04:06+00:00",
    "url": "https://www.youtube.com/watch?v=wyx1cbYbJTQ",
    "isShort": false,
-   "views": 57476,
+   "views": 57584,
    "description": "https://100xdevs.com"
   },
   {
@@ -3062,7 +3278,7 @@
    "published": "2026-09-23T13:00:05+00:00",
    "url": "https://www.youtube.com/watch?v=FEHkTPFEpJE",
    "isShort": false,
-   "views": 111142,
+   "views": 111429,
    "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\n\nIn this vidoe harkirat is going to explain the recent events of the web 3 ecosystem, Solana's up 60% in three months, Zcash has 5x'd from its lows, and Hyperliquid\njust hit an all-time high. The cycle is turning. This is everything I'd learn\nand build right now if I were getting into Web3 in 2026 — the blockchain\nbasics, "
   },
   {
@@ -3074,7 +3290,7 @@
    "published": "2026-09-23T11:28:56+00:00",
    "url": "https://www.youtube.com/shorts/M7huGDyChHM",
    "isShort": true,
-   "views": 340278,
+   "views": 356712,
    "description": ""
   },
   {
@@ -3098,7 +3314,7 @@
    "published": "2026-09-22T09:32:13+00:00",
    "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
    "isShort": false,
-   "views": 291504,
+   "views": 292300,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Jev:\nhttps://typesafe.ai/blog/introducing-system-one-models-and-jev\n\nFull song: https://www.youtube.com/watch?v=4RtUJkjrKMI\n\nPrevious papers, implementations, models:\nhttps://huggingface.co/convaiinnovations/laya\nhttps://arxiv.org/abs/2503.23303\nhttps://huggingface.co/DeepMostInnovations/sales-conversion-model-re"
   },
   {
@@ -3134,7 +3350,7 @@
    "published": "2026-09-20T09:40:02+00:00",
    "url": "https://www.youtube.com/shorts/wZijc1hC6Hc",
    "isShort": true,
-   "views": 638090,
+   "views": 648271,
    "description": ""
   },
   {
@@ -3146,7 +3362,7 @@
    "published": "2026-09-19T14:04:26+00:00",
    "url": "https://www.youtube.com/watch?v=_aw32rFL680",
    "isShort": false,
-   "views": 210748,
+   "views": 211147,
    "description": "In this video, Harkirat will take you through Jev — a newly released AI model that's built very differently from the traditional models we've seen until now. Instead of just covering the announcement, he breaks down how Jev works, why its architecture is different, and what that could mean for developers building AI applications.\n\n🔗 𝗟𝗶𝗻𝗸𝘀:\nCohort → https://100xdevs.com\nTwitter → https://twitter.co"
   },
   {
@@ -3170,7 +3386,7 @@
    "published": "2026-09-19T00:09:34+00:00",
    "url": "https://www.youtube.com/watch?v=44K-vgT5uas",
    "isShort": false,
-   "views": 89014,
+   "views": 89097,
    "description": "https://100xdevs.com"
   },
   {
@@ -3182,7 +3398,7 @@
    "published": "2026-09-18T07:03:46+00:00",
    "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
    "isShort": false,
-   "views": 341922,
+   "views": 342394,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek V4.1 Flash paper is available here:\nhttps://www.deepseek.com/en/news/deepseek-v4-1-flash/\n\nErratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies!\n\nSources:\nhttps://x.com/flowith/status/2099446892174406055/video/1\nhttps://x.com/loktar00/status/2097761803291726137\nhttps://x.com/loktar00/st"
   },
   {
@@ -3218,7 +3434,7 @@
    "published": "2026-09-17T11:30:01+00:00",
    "url": "https://www.youtube.com/shorts/nNGW5l65fuY",
    "isShort": true,
-   "views": 138245,
+   "views": 146103,
    "description": ""
   },
   {
@@ -3230,7 +3446,7 @@
    "published": "2026-09-16T20:51:40+00:00",
    "url": "https://www.youtube.com/watch?v=J3ljHm57yU0",
    "isShort": false,
-   "views": 237306,
+   "views": 237733,
    "description": "Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader messages? Let’s explore the six axes that the researchers are looking at, the incidence reports and trends, to get a better gauge on what has dominated the world’s headlines for over two weeks…\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n0"
   },
   {
@@ -3266,7 +3482,7 @@
    "published": "2026-09-15T10:12:34+00:00",
    "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
    "isShort": false,
-   "views": 110059,
+   "views": 110250,
    "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The papers and sources are available here:\nhttps://proceedings.mlr.press/v202/kirchenbauer23a.html\nhttps://www.nature.com/articles/s41586-024-08025-4\nhttps://www.anthropic.com/news/claude-text-watermark\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridge"
   },
   {
@@ -3290,7 +3506,7 @@
    "published": "2026-09-14T12:48:32+00:00",
    "url": "https://www.youtube.com/shorts/NKRjhERbSRM",
    "isShort": true,
-   "views": 356889,
+   "views": 367407,
    "description": ""
   },
   {
@@ -3362,7 +3578,7 @@
    "published": "2026-09-10T08:47:23+00:00",
    "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
    "isShort": false,
-   "views": 391436,
+   "views": 391831,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Navier-Stokes solution paper is available here:\nhttps://openai.com/index/navier-stokes-solution/\n\nMy fluid simulations and papers:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/\nThe flow from simulation to reality: http"
   },
   {
@@ -3398,7 +3614,7 @@
    "published": "2026-09-08T08:24:27+00:00",
    "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
    "isShort": false,
-   "views": 580013,
+   "views": 580271,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nLinks / sources:\nHoney sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/\nhttps://x.com/mindblown_ai/status/2095661874037813298?s=20\nhttps://x.com/aollivier82/status/2096226819401801896?s=46\nhttps://x.com/sahilexec/status/20"
   },
   {
@@ -3422,7 +3638,7 @@
    "published": "2026-09-04T11:37:27+00:00",
    "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
    "isShort": false,
-   "views": 857398,
+   "views": 857725,
    "description": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more…\n\nExclusive Vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:53 - vs Fable\n05:27 - most impress"
   },
   {
@@ -3446,20 +3662,8 @@
    "published": "2026-09-03T08:23:37+00:00",
    "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
    "isShort": false,
-   "views": 204343,
+   "views": 204403,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Claude Fable 5.1 paper is available here:\nhttps://www.anthropic.com/claude-fable-and-mythos-5-1\nhttps://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos%205.1%20System%20Card.pdf\n\nSources:\nhttps://x.com/alexalbert__/status/2094860187743986169?s=46\nhtt"
-  },
-  {
-   "id": "w9RDunJACkc",
-   "channel": "Two Minute Papers",
-   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
-   "lang": "en",
-   "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
-   "published": "2026-09-01T09:04:56+00:00",
-   "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
-   "isShort": false,
-   "views": 186011,
-   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 GLM 5.3 Flash:\nhttps://z.ai/blog/glm-5.3-flash\n\nSources:\nhttps://x.com/louszbd/status/2092694163104113016\nhttps://x.com/semianalysis_/status/2092623833630998556\nhttps://x.com/skalskip92/status/2092748209802154201\nhttps://x.com/louszbd/status/2093047548550525165\nhttps://x.com/atomic_chat_hq/status/2093433913238552"
   }
  ]
 }
