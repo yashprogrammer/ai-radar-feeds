@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-01T07:00:15+00:00",
+ "fetchedAt": "2026-11-02T07:03:51+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -139,7 +139,7 @@
   {
    "channel": "Fireship",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "Prompt Engineering",
@@ -193,43 +193,43 @@
   },
   {
    "channel": "AI Explained",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Sam Witteveen",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "Theo - t3.gg",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Two Minute Papers",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Harkirat Singh",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "CodeWithHarry",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Codebasics",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Krish Naik",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   }
  ],
  "videos": [
