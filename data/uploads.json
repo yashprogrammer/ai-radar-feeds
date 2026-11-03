@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-02T07:03:51+00:00",
+ "fetchedAt": "2026-11-03T07:27:14+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -139,7 +139,7 @@
   {
    "channel": "Fireship",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Prompt Engineering",
@@ -199,7 +199,7 @@
   {
    "channel": "Sam Witteveen",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Theo - t3.gg",
@@ -3640,30 +3640,6 @@
    "isShort": false,
    "views": 857725,
    "description": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more…\n\nExclusive Vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:53 - vs Fable\n05:27 - most impress"
-  },
-  {
-   "id": "dGHLg9NfvEo",
-   "channel": "Caleb Writes Code",
-   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
-   "lang": "en",
-   "title": "Fable 5.1, is it that good..?",
-   "published": "2026-09-03T19:09:22+00:00",
-   "url": "https://www.youtube.com/watch?v=dGHLg9NfvEo",
-   "isShort": false,
-   "views": 37095,
-   "description": "Go to https://surfshark.com/calebwritescode or use code CALEBWRITESCODE at checkout to get 4 extra months of Surfshark VPN!\n\nAnthropic releases new checkpoint Fable 5.1 and we are left with a lot of benchmarks to go through but what does it even really mean?\nAs newer models continue to get pumped out and how they actually pair up with harnesses and more, it's important to really have a good framew"
-  },
-  {
-   "id": "B3LXEW4Pc-w",
-   "channel": "Two Minute Papers",
-   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
-   "lang": "en",
-   "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-   "published": "2026-09-03T08:23:37+00:00",
-   "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-   "isShort": false,
-   "views": 204403,
-   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Claude Fable 5.1 paper is available here:\nhttps://www.anthropic.com/claude-fable-and-mythos-5-1\nhttps://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%26%20Claude%20Mythos%205.1%20System%20Card.pdf\n\nSources:\nhttps://x.com/alexalbert__/status/2094860187743986169?s=46\nhtt"
   }
  ]
 }
