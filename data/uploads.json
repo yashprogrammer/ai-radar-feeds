@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-03T07:27:14+00:00",
+ "fetchedAt": "2026-11-04T07:08:55+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -159,7 +159,7 @@
   {
    "channel": "Caleb Writes Code",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "Cole Medin",
@@ -199,7 +199,7 @@
   {
    "channel": "Sam Witteveen",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "Theo - t3.gg",
@@ -3616,30 +3616,6 @@
    "isShort": false,
    "views": 580271,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nLinks / sources:\nHoney sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/\nhttps://x.com/mindblown_ai/status/2095661874037813298?s=20\nhttps://x.com/aollivier82/status/2096226819401801896?s=46\nhttps://x.com/sahilexec/status/20"
-  },
-  {
-   "id": "XvmixEXPT3Q",
-   "channel": "Caleb Writes Code",
-   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
-   "lang": "en",
-   "title": "GPT-6 Astra.. full analysis..",
-   "published": "2026-09-04T21:15:28+00:00",
-   "url": "https://www.youtube.com/watch?v=XvmixEXPT3Q",
-   "isShort": false,
-   "views": 479157,
-   "description": "Zo Computer: https://zo-computer.cello.so/2XNkhpgqHRy\n\nOpenAI released GPT-6 Astra, what the AI industry has been waiting for a long time.\nThere are many benchmarks that compare Fable 5.1 and some composite benchmarks actually show that it's worse? How can this be true, and how can ARC-AGI 3 be 99.9%? Is this a path towards AGI?\nLet's review key benchmarks like DeepSWE, ExploitBench, ARC-AGI-3, an"
-  },
-  {
-   "id": "Spuza-KwTJ4",
-   "channel": "AI Explained",
-   "channelId": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-   "lang": "en",
-   "title": "GPT 6 Astra, so good even OpenAI are worried",
-   "published": "2026-09-04T11:37:27+00:00",
-   "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
-   "isShort": false,
-   "views": 857725,
-   "description": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more…\n\nExclusive Vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n00:53 - vs Fable\n05:27 - most impress"
   }
  ]
 }
