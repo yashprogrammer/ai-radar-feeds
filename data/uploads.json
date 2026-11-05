@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-04T07:08:55+00:00",
+ "fetchedAt": "2026-11-05T07:36:42+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -159,7 +159,7 @@
   {
    "channel": "Caleb Writes Code",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Cole Medin",
@@ -183,8 +183,8 @@
   },
   {
    "channel": "Nick Saraev",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Matthew Berman",
@@ -199,7 +199,7 @@
   {
    "channel": "Sam Witteveen",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Theo - t3.gg",
@@ -234,6 +234,30 @@
  ],
  "videos": [
   {
+   "id": "KDyPHt4lW60",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "31 Life-Changing Ways to Use Claude in 2027",
+   "published": "2026-11-02T22:16:58+00:00",
+   "url": "https://www.youtube.com/watch?v=KDyPHt4lW60",
+   "isShort": false,
+   "views": 647625,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/31-life-changing-ways\n💎 Get all prompts 100% free: https://go.nicksaraev.com/31-life-changing-ways-2\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I "
+  },
+  {
+   "id": "8c6JZ18W0Bo",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "THE world's shortest Claude Code course (5 mins)",
+   "published": "2026-11-01T21:43:00+00:00",
+   "url": "https://www.youtube.com/watch?v=8c6JZ18W0Bo",
+   "isShort": false,
+   "views": 101024,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/worlds-shortest-claude\n💎 Get all course resources 100% free: https://go.nicksaraev.com/worlds-shortest-claude-2\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain "
+  },
+  {
    "id": "FIpGRH8vdos",
    "channel": "CodeWithHarry",
    "channelId": "UCeVMnSShP_Iviwkknt83cww",
@@ -244,6 +268,18 @@
    "isShort": true,
    "views": 12964,
    "description": ""
+  },
+  {
+   "id": "rl6QMOrwY5w",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "Why Big Corporations are Secretly Shifting to Chinese AI Models",
+   "published": "2026-10-31T22:34:52+00:00",
+   "url": "https://www.youtube.com/watch?v=rl6QMOrwY5w",
+   "isShort": false,
+   "views": 77560,
+   "description": "🔥 Kimi K3.1 Pro here + benchmarks: https://www.kimi.ai/code?utm_campaign=TR_idCFfXg7&utm_content=&utm_medium=Youtube&utm_source=CH_kEMBez3l&utm_term=\n💎 Get all course resources 100% free: https://go.nicksaraev.com/big-corporations-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. "
   },
   {
    "id": "nlFn9wbtIr4",
@@ -268,6 +304,18 @@
    "isShort": false,
    "views": 143910,
    "description": "Here we go again, it seems like there's no single \"resource\" that properly explains what a harness actually is, so I made a video about it\n\nThank you to Vercel for sponsoring the vid! Check them out: https://soydev.link/eve \n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my article on Harnesses here too:\nhttps://x.com/theo/status/2113424203345265053\n\nCheck out"
+  },
+  {
+   "id": "lPo36U3q3h0",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "OpenAI Made Vibe Coding Too Cheap It Feels Unfair",
+   "published": "2026-10-30T18:39:44+00:00",
+   "url": "https://www.youtube.com/watch?v=lPo36U3q3h0",
+   "isShort": false,
+   "views": 90142,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/openai-made-vibe\n💎 Get all course resources 100% free: https://go.nicksaraev.com/openai-made-vibe-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain Eng"
   },
   {
    "id": "7WvCDSSiNxE",
@@ -342,6 +390,18 @@
    "description": "Everyone is hiring Forward Deployed Engineers, from OpenAI and Anthropic to enterprise AI startups, and job postings have jumped 350% in a year. \n\nBut most people still can’t explain what an FDE actually does. \n\nIn this live session, we will break down the role in plain terms: what the work looks like day to day, how it differs from an onsite IT job, what it pays, and the skills you need to move i"
   },
   {
+   "id": "U3BAkWPA2gw",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "The Biggest Faceless Content Opportunity: AI Vtuber Avatars",
+   "published": "2026-10-30T01:13:58+00:00",
+   "url": "https://www.youtube.com/watch?v=U3BAkWPA2gw",
+   "isShort": false,
+   "views": 32238,
+   "description": "🔥 Fish audio (for the Japanese voice): https://fish.audio/?fpr=fhs32\n💎 Get all course resources 100% free: https://go.nicksaraev.com/biggest-faceless-content-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help peo"
+  },
+  {
    "id": "uLGxb4F3SyI",
    "channel": "Theo - t3.gg",
    "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
@@ -378,6 +438,18 @@
    "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nI break down what the email actually says, what the offer is worth, why I had a Microsoft offer on campus day zero and what's changed since, and what this means for engineers at Microsoft, in big tech, and anyone thinking about getting into software right now.\n\n\n00:00 Microsoft's voluntary exit offer\n01:07 What the email a"
   },
   {
+   "id": "25KVZUg56_s",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "How I'd Make $12,373/Mo as an AI Consultant in 2027 (Course)",
+   "published": "2026-10-29T13:39:28+00:00",
+   "url": "https://www.youtube.com/watch?v=25KVZUg56_s",
+   "isShort": false,
+   "views": 129110,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/make-12-373\n💎 Get all course resources 100% free: https://go.nicksaraev.com/make-12-373-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I he"
+  },
+  {
    "id": "NBCM_ZoWZo8",
    "channel": "Theo - t3.gg",
    "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
@@ -388,6 +460,18 @@
    "isShort": false,
    "views": 193831,
    "description": "Claude should have a limit...right? You would think so. But today I'm going to show you how to run Claude for WEEKS\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programmin"
+  },
+  {
+   "id": "Lxkb4gd041I",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "Anthropic is Going Public.. And They're Warning Us",
+   "published": "2026-10-28T18:01:27+00:00",
+   "url": "https://www.youtube.com/watch?v=Lxkb4gd041I",
+   "isShort": false,
+   "views": 52615,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/anthropic-going-public\n💎 Get all course resources 100% free: https://go.nicksaraev.com/anthropic-going-public-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\n"
   },
   {
    "id": "pryCaGv8wuo",
@@ -494,8 +578,8 @@
    "published": "2026-10-28T01:29:53+00:00",
    "url": "https://www.youtube.com/watch?v=OBzWl3Bw1JY",
    "isShort": false,
-   "views": 7652,
-   "description": "🔥 Kimi K3.1 Pro here + benchmarks: https://www.kimi.ai/code?utm_campaign=TR_idCFfXg7&utm_content=&utm_medium=Youtube&utm_source=CH_kEMBez3l&utm_term=\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, O"
+   "views": 85950,
+   "description": "🔥 Kimi K3.1 Pro here + benchmarks: https://www.kimi.ai/code?utm_campaign=TR_idCFfXg7&utm_content=&utm_medium=Youtube&utm_source=CH_kEMBez3l&utm_term=\n💎 Get all course resources 100% free: https://go.nicksaraev.com/tested-chinas-new\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Ant"
   },
   {
    "id": "vaKVoWc3TtY",
@@ -1130,8 +1214,8 @@
    "published": "2026-10-23T20:22:12+00:00",
    "url": "https://www.youtube.com/watch?v=cSdTCIKrUiE",
    "isShort": false,
-   "views": 90214,
-   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build "
+   "views": 103525,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/learn-instead-prompt-makerschool\n💎 Get all course resources 100% free: https://go.nicksaraev.com/learn-instead-prompt\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn "
   },
   {
    "id": "SMGg7iisHmc",
@@ -1370,8 +1454,8 @@
    "published": "2026-10-22T16:37:15+00:00",
    "url": "https://www.youtube.com/watch?v=2iMdoDZap7c",
    "isShort": false,
-   "views": 114887,
-   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build "
+   "views": 117526,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/death-open-internet\n💎 Get all course resources 100% free: https://go.nicksaraev.com/death-open-internet-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn pla"
   },
   {
    "id": "zv6B6PQOuHE",
@@ -1538,8 +1622,8 @@
    "published": "2026-10-21T18:48:52+00:00",
    "url": "https://www.youtube.com/watch?v=wtTd8PJPMVg",
    "isShort": false,
-   "views": 240797,
-   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build "
+   "views": 244017,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/70-internet-hacked\n💎 Get all course resources 100% free: https://go.nicksaraev.com/70-internet-hacked-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain"
   },
   {
    "id": "2-KIcgIpCgw",
@@ -1658,7 +1742,7 @@
    "published": "2026-10-20T15:46:58+00:00",
    "url": "https://www.youtube.com/watch?v=wNyge-SHo1o",
    "isShort": false,
-   "views": 102398,
+   "views": 120976,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build "
   },
   {
@@ -1706,7 +1790,7 @@
    "published": "2026-10-19T20:00:11+00:00",
    "url": "https://www.youtube.com/watch?v=hhHkaZRwBBU",
    "isShort": false,
-   "views": 23655,
+   "views": 24953,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build "
   },
   {
@@ -1790,7 +1874,7 @@
    "published": "2026-10-19T01:08:27+00:00",
    "url": "https://www.youtube.com/watch?v=wJu9-KDM41o",
    "isShort": false,
-   "views": 125224,
+   "views": 126529,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build "
   },
   {
@@ -1826,7 +1910,7 @@
    "published": "2026-10-18T15:21:27+00:00",
    "url": "https://www.youtube.com/watch?v=LP7bfT4vOlo",
    "isShort": false,
-   "views": 141912,
+   "views": 174792,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build "
   },
   {
