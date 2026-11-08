@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-07T06:47:28+00:00",
+ "fetchedAt": "2026-11-08T06:53:14+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -149,7 +149,7 @@
   {
    "channel": "Aish Reganti",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "ByteMonk",
@@ -159,7 +159,7 @@
   {
    "channel": "Caleb Writes Code",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Cole Medin",
@@ -184,12 +184,12 @@
   {
    "channel": "Nick Saraev",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "Matthew Berman",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "AI Explained",
@@ -203,13 +203,13 @@
   },
   {
    "channel": "Theo - t3.gg",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Harkirat Singh",
@@ -234,6 +234,78 @@
  ],
  "videos": [
   {
+   "id": "GJ6PMUm5oTA",
+   "channel": "Two Minute Papers",
+   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+   "lang": "en",
+   "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+   "published": "2026-11-07T16:24:47+00:00",
+   "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+   "isShort": false,
+   "views": 146261,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-space-programming/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedde"
+  },
+  {
+   "id": "TFCDWrEBaFM",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "How Claude Fixes It's Own Code",
+   "published": "2026-11-06T23:00:39+00:00",
+   "url": "https://www.youtube.com/watch?v=TFCDWrEBaFM",
+   "isShort": false,
+   "views": 112134,
+   "description": "Anthropic released an article on their Code Review process and since T3 Code has seen as many as 800 pull requests filed in a day, lets compare their process to what I've experienced recently and see what differs!\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nSource:\nhttps://claude.dev/blog/solving-code-review-at-anthropic/\n\nWant to sponsor a video"
+  },
+  {
+   "id": "XgC1QTs6A2U",
+   "channel": "Two Minute Papers",
+   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+   "lang": "en",
+   "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+   "published": "2026-11-06T07:27:02+00:00",
+   "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+   "isShort": false,
+   "views": 38729,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nChapters:\n00:00 Intro\n02:40 Why Robots Are Hard\n08:16 The Perfect Data Diet\n16:05 Intelligence Density\n20:13 Building AI Worlds\n22:10 Learning From Failure\n25:41 The Reality Gap\n29:35 Robots Get Injured Too\n31:28 100 Years in Seconds\n35:35 The Popcorn Robot\n37:35 Easy for Humans, Hard for AI\n39:57 Will AI Ever Be G"
+  },
+  {
+   "id": "tc8GNdrhozA",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "I can't believe Pewdiepie made this",
+   "published": "2026-11-05T08:36:45+00:00",
+   "url": "https://www.youtube.com/watch?v=tc8GNdrhozA",
+   "isShort": false,
+   "views": 213909,
+   "description": "OpenAI banned PewdiePie TWICE while he was building his own AI systems and the technical work behind it has me impressed, so lets see what he actually made and whether or not you should use it\n\nThank you Clerk for sponsoring! Check them out at: https://soydev.link/clerk\n\nSources:\nhttps://youtu.be/ODDJXGY_1kQ?si=Ka5jtWF7l3RiJ3EG\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor"
+  },
+  {
+   "id": "xq0eB8vxeqk",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "Agents Sucked At UI (Until Today)",
+   "published": "2026-11-03T23:00:28+00:00",
+   "url": "https://www.youtube.com/watch?v=xq0eB8vxeqk",
+   "isShort": false,
+   "views": 387617,
+   "description": "It’s time to make agents good at design, so let’s breakdown how I made Opus hill climb till it finally was making what I wanted it to\n\nThank you Magic Patterns for sponsoring the video! Check them out at: https://soydev.link/magicpatterns\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awe"
+  },
+  {
+   "id": "Hq2c7pww1Ds",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "OpenAI is getting desperate",
+   "published": "2026-11-03T05:05:32+00:00",
+   "url": "https://www.youtube.com/watch?v=Hq2c7pww1Ds",
+   "isShort": false,
+   "views": 168078,
+   "description": "Just a month after their reduction, OpenAI is doubling the limits of their plans. Is it enough? \n\nThanks to WorkOS for sponsoring! Check passport out here: https://soydev.link/passport\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programming #coding"
+  },
+  {
    "id": "KDyPHt4lW60",
    "channel": "Nick Saraev",
    "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
@@ -244,6 +316,18 @@
    "isShort": false,
    "views": 647625,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/31-life-changing-ways\n💎 Get all prompts 100% free: https://go.nicksaraev.com/31-life-changing-ways-2\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I "
+  },
+  {
+   "id": "y5TEATUDDfc",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "Anthropic can't stop winning",
+   "published": "2026-11-02T09:10:01+00:00",
+   "url": "https://www.youtube.com/watch?v=y5TEATUDDfc",
+   "isShort": false,
+   "views": 212627,
+   "description": "Anthropic has announced Claude Ultra, a rebrand on the $200 monthly tier while REMOVING 5 hour limits from verified accounts, which seems awesome, but the details matter, so lets break it down\n\nThank you to Greptile for Sponsoring: https://soydev.link/greptile\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O"
   },
   {
    "id": "8c6JZ18W0Bo",
@@ -302,7 +386,7 @@
    "published": "2026-10-30T21:42:50+00:00",
    "url": "https://www.youtube.com/watch?v=ebILGCoN4UU",
    "isShort": false,
-   "views": 143910,
+   "views": 198128,
    "description": "Here we go again, it seems like there's no single \"resource\" that properly explains what a harness actually is, so I made a video about it\n\nThank you to Vercel for sponsoring the vid! Check them out: https://soydev.link/eve \n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my article on Harnesses here too:\nhttps://x.com/theo/status/2113424203345265053\n\nCheck out"
   },
   {
@@ -338,7 +422,7 @@
    "published": "2026-10-30T15:57:16+00:00",
    "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
    "isShort": false,
-   "views": 412714,
+   "views": 490053,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 OpenAI's paper is available here:\nhttps://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf\n\nOur paper with the cherry splash ray tracing simulation at 0:17 https://users.cg.tuwien.ac.at/zsolnai/gfx/adaptive_metropolis/\n\n🙏 We would like to thank our gene"
   },
   {
@@ -410,7 +494,7 @@
    "published": "2026-10-29T17:34:08+00:00",
    "url": "https://www.youtube.com/watch?v=uLGxb4F3SyI",
    "isShort": false,
-   "views": 360479,
+   "views": 430850,
    "description": "T3 Code has broken over 700,000 users, so I think it's time to give ya'll a tutorial on how I use it since I'm still contributing to it\n\nThank you to Apify for Sponsoring! Check them out: https://soydev.link/apify\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #program"
   },
   {
@@ -458,7 +542,7 @@
    "published": "2026-10-28T19:05:28+00:00",
    "url": "https://www.youtube.com/watch?v=NBCM_ZoWZo8",
    "isShort": false,
-   "views": 193831,
+   "views": 223825,
    "description": "Claude should have a limit...right? You would think so. But today I'm going to show you how to run Claude for WEEKS\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programmin"
   },
   {
@@ -482,7 +566,7 @@
    "published": "2026-10-28T17:32:40+00:00",
    "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
    "isShort": false,
-   "views": 174564,
+   "views": 199269,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4.1 Flash 1017 is available here:\nhttps://api-docs.deepseek.com/news/news261017/\n\nSources:\nhttps://x.com/marcthecreatorr/status/2111427716142571554/video/1\nhttps://x.com/olezhavich/status/2112897791022264814/video/1\nhttps://x.com/notjazii/status/2111432925313179689/video/1\nhttps://x.com/izag82161/status"
   },
   {
@@ -770,7 +854,7 @@
    "published": "2026-10-27T04:02:18+00:00",
    "url": "https://www.youtube.com/watch?v=FHGfSjDGUIw",
    "isShort": false,
-   "views": 134650,
+   "views": 141288,
    "description": "Lauren's (@poteto) is spending 1.5 Trillion tokens a month, which sounds crazy, until we talk about what tokens actually cost\n\nThank you Depot for sponsoring! Check them out at: https://soydev.link/depot\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programming #codi"
   },
   {
@@ -974,7 +1058,7 @@
    "published": "2026-10-26T07:16:35+00:00",
    "url": "https://www.youtube.com/watch?v=5Bmp9cz1JN8",
    "isShort": false,
-   "views": 213459,
+   "views": 235360,
    "description": "As I've shipped more and more, I've realized these three skills I wrote are the cornerstones of my workflow and how I ship in 2026\n\nThank you to WorkOS for Sponsoring! Check them out here:\nhttps://soydev.link/workos\n\nCHECK OUT MEGA https://soydev.link/mega\n\nOh also I did make tstack... https://github.com/t3dotgg/tstack\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nChec"
   },
   {
@@ -1202,7 +1286,7 @@
    "published": "2026-10-23T21:00:31+00:00",
    "url": "https://www.youtube.com/shorts/nXpoU99pTho",
    "isShort": true,
-   "views": 14965,
+   "views": 15303,
    "description": "Everything seems like it's gotten hacked, on an unprecedented day in software history. We have to talk about it\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\n#ai #programming #hacked"
   },
   {
@@ -1442,7 +1526,7 @@
    "published": "2026-10-22T19:14:45+00:00",
    "url": "https://www.youtube.com/watch?v=USeyDcWyVCc",
    "isShort": false,
-   "views": 248819,
+   "views": 250708,
    "description": "Everything seems like it's gotten hacked, on an unprecedented day in software history. We have to talk about it\n\nThank you Coderabbit for sponsoring! Check them out at: https://soydev.link/coderabbit\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏"
   },
   {
@@ -1682,7 +1766,7 @@
    "published": "2026-10-20T22:13:42+00:00",
    "url": "https://www.youtube.com/watch?v=3OshsLm3_OQ",
    "isShort": false,
-   "views": 239369,
+   "views": 242762,
    "description": "As we see games get full blown crossovers and models get incredible at optimizing things on their own, I'm not sure we actually NEED smarter models? \n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for t"
   },
   {
@@ -1862,7 +1946,7 @@
    "published": "2026-10-19T08:49:21+00:00",
    "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
    "isShort": false,
-   "views": 251897,
+   "views": 257849,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-4-argon/\nhttps://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf\n\nSources:\nhttps://x.com/thebuggeddev/status/2110241991233790456\nhttps://x.com/vib3coded/status/2110136719827747181\nhttps://x.com/En"
   },
   {
@@ -1886,7 +1970,7 @@
    "published": "2026-10-18T23:57:04+00:00",
    "url": "https://www.youtube.com/watch?v=m-B3jIMMmUE",
    "isShort": false,
-   "views": 252042,
+   "views": 261201,
    "description": "Most of the features engineers are making, are just prompts, and you can make your life way easier by prompting better\n\nThank you Macroscope for sponsoring! Check them out at: https://soydev.link/macroscope\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programming #p"
   },
   {
@@ -2102,7 +2186,7 @@
    "published": "2026-10-16T04:38:27+00:00",
    "url": "https://www.youtube.com/watch?v=hiI0Vk4NgeY",
    "isShort": false,
-   "views": 239460,
+   "views": 244427,
    "description": "In just 5 months, Anthropic went from 2,500 merges per day to over 30,000 this September and they wrote a blog explaining just how that was possible with their new system, Scion\n\nThank you Infinite Red for sponsoring! Check them out here:\nhttps://soydev.link/infinite\n\nSources:\nhttps://www.anthropic.com/engineering/redesigning-source-control\n\nWant to sponsor a video? Learn more here: https://soydev"
   },
   {
@@ -2414,7 +2498,7 @@
    "published": "2026-10-13T08:56:12+00:00",
    "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
    "isShort": false,
-   "views": 368571,
+   "views": 370681,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The papers are available here:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\nhttps://github.com/openai/math\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, M"
   },
   {
@@ -2522,7 +2606,7 @@
    "published": "2026-10-11T16:53:17+00:00",
    "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
    "isShort": false,
-   "views": 334566,
+   "views": 336289,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek OCR paper is available here:\nhttps://github.com/deepseek-ai/DeepSeek-OCR\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan S"
   },
   {
@@ -2774,7 +2858,7 @@
    "published": "2026-10-07T13:29:33+00:00",
    "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "isShort": false,
-   "views": 156017,
+   "views": 156867,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nThank you Google DeepMind for the invite.\n\n📝 AlphaGenome Atlas is available here:\nhttps://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/\nhttps://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/\n\n🙏 We would like to "
   },
   {
@@ -2834,7 +2918,7 @@
    "published": "2026-10-05T09:53:12+00:00",
    "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
    "isShort": false,
-   "views": 168397,
+   "views": 168932,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Sonnet 5.5: \nhttps://www.anthropic.com/claude-sonnet-5-5\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, "
   },
   {
@@ -3278,7 +3362,7 @@
    "published": "2026-09-24T08:40:55+00:00",
    "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
    "isShort": false,
-   "views": 377880,
+   "views": 379727,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nNote: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations.\n\nClaude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\n\nWalking creatures video and paper:\nhttps://www.youtube.com/watch?v=kQ2bq"
   },
   {
@@ -3398,7 +3482,7 @@
    "published": "2026-09-22T09:32:13+00:00",
    "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
    "isShort": false,
-   "views": 292300,
+   "views": 293080,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Jev:\nhttps://typesafe.ai/blog/introducing-system-one-models-and-jev\n\nFull song: https://www.youtube.com/watch?v=4RtUJkjrKMI\n\nPrevious papers, implementations, models:\nhttps://huggingface.co/convaiinnovations/laya\nhttps://arxiv.org/abs/2503.23303\nhttps://huggingface.co/DeepMostInnovations/sales-conversion-model-re"
   },
   {
@@ -3482,7 +3566,7 @@
    "published": "2026-09-18T07:03:46+00:00",
    "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
    "isShort": false,
-   "views": 342394,
+   "views": 343039,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek V4.1 Flash paper is available here:\nhttps://www.deepseek.com/en/news/deepseek-v4-1-flash/\n\nErratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies!\n\nSources:\nhttps://x.com/flowith/status/2099446892174406055/video/1\nhttps://x.com/loktar00/status/2097761803291726137\nhttps://x.com/loktar00/st"
   },
   {
@@ -3566,7 +3650,7 @@
    "published": "2026-09-15T10:12:34+00:00",
    "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
    "isShort": false,
-   "views": 110250,
+   "views": 110423,
    "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The papers and sources are available here:\nhttps://proceedings.mlr.press/v202/kirchenbauer23a.html\nhttps://www.nature.com/articles/s41586-024-08025-4\nhttps://www.anthropic.com/news/claude-text-watermark\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridge"
   },
   {
@@ -3662,7 +3746,7 @@
    "published": "2026-09-10T08:47:23+00:00",
    "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
    "isShort": false,
-   "views": 391831,
+   "views": 392190,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Navier-Stokes solution paper is available here:\nhttps://openai.com/index/navier-stokes-solution/\n\nMy fluid simulations and papers:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/\nThe flow from simulation to reality: http"
   },
   {
@@ -3676,30 +3760,6 @@
    "isShort": false,
    "views": 3974299,
    "description": "➡️ Download Notes and CheatSheets: https://www.codewithharry.com/notes/\n➡️ Udemy Python Course: https://goharry.in/python\n➡️ Checkout Data Science The Ultimate Job Ready Data Science Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course\n➡️ Data Science (International Students): https://buy.stripe.com/9B65kF3790jS2kCeiZ1gs04\n➡️ Career Advice:\nIf you are into colle"
-  },
-  {
-   "id": "noPuRPDiY6k",
-   "channel": "Caleb Writes Code",
-   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
-   "lang": "en",
-   "title": "AGI, are we there yet..",
-   "published": "2026-09-09T00:51:53+00:00",
-   "url": "https://www.youtube.com/watch?v=noPuRPDiY6k",
-   "isShort": false,
-   "views": 130310,
-   "description": "Shop Micro Center's Build. Upgrade. Save. Event: https://micro.center/2c331b \nSign up for a FREE 128 gig Flash Drive at Micro Center's Austin Store: https://micro.center/d030cb \nCheck out Micro Center's Clearance Event: https://micro.center/075428 \nMicro Center is THE AI Destination: https://micro.center/b10f14\n\nAGI is here, at least by how Jensen Huang is saying about OpenAI GPT-6 Astra model. Ho"
-  },
-  {
-   "id": "eVBJIUxv8N8",
-   "channel": "Two Minute Papers",
-   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
-   "lang": "en",
-   "title": "GPT-6 Astra Changes Everything",
-   "published": "2026-09-08T08:24:27+00:00",
-   "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-   "isShort": false,
-   "views": 580271,
-   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nLinks / sources:\nHoney sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/\nhttps://x.com/mindblown_ai/status/2095661874037813298?s=20\nhttps://x.com/aollivier82/status/2096226819401801896?s=46\nhttps://x.com/sahilexec/status/20"
   }
  ]
 }
