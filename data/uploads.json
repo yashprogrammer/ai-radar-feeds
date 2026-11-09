@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-08T06:53:14+00:00",
+ "fetchedAt": "2026-11-09T07:24:53+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -149,7 +149,7 @@
   {
    "channel": "Aish Reganti",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "ByteMonk",
@@ -184,7 +184,7 @@
   {
    "channel": "Nick Saraev",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Matthew Berman",
@@ -203,18 +203,18 @@
   },
   {
    "channel": "Theo - t3.gg",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Two Minute Papers",
-   "ok": true,
-   "count": 15
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "Harkirat Singh",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "CodeWithHarry",
@@ -3748,18 +3748,6 @@
    "isShort": false,
    "views": 392190,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Navier-Stokes solution paper is available here:\nhttps://openai.com/index/navier-stokes-solution/\n\nMy fluid simulations and papers:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/\nThe flow from simulation to reality: http"
-  },
-  {
-   "id": "Pa2G8RzbWZ4",
-   "channel": "CodeWithHarry",
-   "channelId": "UCeVMnSShP_Iviwkknt83cww",
-   "lang": "hi",
-   "title": "GPT 6 Astra - End of Developers?",
-   "published": "2026-09-09T14:36:11+00:00",
-   "url": "https://www.youtube.com/watch?v=Pa2G8RzbWZ4",
-   "isShort": false,
-   "views": 3974299,
-   "description": "➡️ Download Notes and CheatSheets: https://www.codewithharry.com/notes/\n➡️ Udemy Python Course: https://goharry.in/python\n➡️ Checkout Data Science The Ultimate Job Ready Data Science Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course\n➡️ Data Science (International Students): https://buy.stripe.com/9B65kF3790jS2kCeiZ1gs04\n➡️ Career Advice:\nIf you are into colle"
   }
  ]
 }
