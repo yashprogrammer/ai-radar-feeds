@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-09T07:24:53+00:00",
+ "fetchedAt": "2026-11-10T07:56:56+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -214,7 +214,7 @@
   {
    "channel": "Harkirat Singh",
    "ok": false,
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "channel": "CodeWithHarry",
@@ -3724,30 +3724,6 @@
    "isShort": false,
    "views": 595184,
    "description": "Data Science Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course\nData Analytics Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-ai-powered-data-analytics-course\nPython Course: https://www.codewithharry.com/courses/complete-python-bootcamp-learn-python-from-scratch\nWeb Development Course: https://www.codewithharry.com/courses/the-ultimate-we"
-  },
-  {
-   "id": "F99co0GtyJc",
-   "channel": "CodeWithHarry",
-   "channelId": "UCeVMnSShP_Iviwkknt83cww",
-   "lang": "hi",
-   "title": "Harry Vs Hunter (Fight Scene)",
-   "published": "2026-09-10T23:17:52+00:00",
-   "url": "https://www.youtube.com/shorts/F99co0GtyJc",
-   "isShort": true,
-   "views": 61038,
-   "description": ""
-  },
-  {
-   "id": "mOvtumfyjCs",
-   "channel": "Two Minute Papers",
-   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
-   "lang": "en",
-   "title": "I Never Thought I’d See This Happen",
-   "published": "2026-09-10T08:47:23+00:00",
-   "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
-   "isShort": false,
-   "views": 392190,
-   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The Navier-Stokes solution paper is available here:\nhttps://openai.com/index/navier-stokes-solution/\n\nMy fluid simulations and papers:\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_thesis/\nhttps://users.cg.tuwien.ac.at/zsolnai/gfx/real_time_fluid_control_eg/\nThe flow from simulation to reality: http"
   }
  ]
 }
