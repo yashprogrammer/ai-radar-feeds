@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-10T07:56:56+00:00",
+ "fetchedAt": "2026-11-11T07:24:29+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -3688,42 +3688,6 @@
    "isShort": false,
    "views": 243664,
    "description": "They can't harm you if they can't find you! Use code CALEBWRITESCODE at the link below and get 60% off an annual plan: https://incogni.com/calebwritescode\n\nCan we appreciate the breakthrough that OpenAI made in Navier-Stokes without all the drama behind it?\n\nOpenAI took a similar approach by taking C/D counter-example by blowing up Euler's equation without forced which is something that Buckmaster"
-  },
-  {
-   "id": "TL3cWILYr6I",
-   "channel": "ByteMonk",
-   "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
-   "lang": "en",
-   "title": "Is AGI Here? Analyzing Jensen Huang's Bold Claim",
-   "published": "2026-09-12T04:02:14+00:00",
-   "url": "https://www.youtube.com/watch?v=TL3cWILYr6I",
-   "isShort": false,
-   "views": 61720,
-   "description": "Jensen Huang just said AGI has arrived. He was talking about OpenAI's GPT-6 Astra, trained on more than 100,000 Nvidia Blackwell GPUs, with 400,000 more coming online. At the same time, OpenAI is building its own AI chip. These things are all connected. Let's understand what's actually happening.\n\n⏱️ TIMESTAMPS\n0:00 Jensen Huang: AGI has arrived\n0:29 What does AGI actually mean?\n0:57 The real defi"
-  },
-  {
-   "id": "N90kI7ArZOw",
-   "channel": "Aish Reganti",
-   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
-   "lang": "en",
-   "title": "How Many Automations Can You Actually Run at Once",
-   "published": "2026-09-11T16:56:41+00:00",
-   "url": "https://www.youtube.com/shorts/N90kI7ArZOw",
-   "isShort": true,
-   "views": 1229,
-   "description": "How Many Automations Can You Actually Run at Once"
-  },
-  {
-   "id": "IjYs6ZL4TCs",
-   "channel": "CodeWithHarry",
-   "channelId": "UCeVMnSShP_Iviwkknt83cww",
-   "lang": "hi",
-   "title": "I Tested GPT-6 Astra With 5 Impossible Tasks!",
-   "published": "2026-09-11T16:22:53+00:00",
-   "url": "https://www.youtube.com/watch?v=IjYs6ZL4TCs",
-   "isShort": false,
-   "views": 595184,
-   "description": "Data Science Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course\nData Analytics Course: https://www.codewithharry.com/courses/the-ultimate-job-ready-ai-powered-data-analytics-course\nPython Course: https://www.codewithharry.com/courses/complete-python-bootcamp-learn-python-from-scratch\nWeb Development Course: https://www.codewithharry.com/courses/the-ultimate-we"
   }
  ]
 }
