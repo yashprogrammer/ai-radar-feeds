@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-11T07:24:29+00:00",
+ "fetchedAt": "2026-11-12T07:55:37+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -3676,18 +3676,6 @@
    "isShort": true,
    "views": 367407,
    "description": ""
-  },
-  {
-   "id": "7DncQnIjZmA",
-   "channel": "Caleb Writes Code",
-   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
-   "lang": "en",
-   "title": "OpenAI solving Navier-Stokes explained..",
-   "published": "2026-09-12T20:19:08+00:00",
-   "url": "https://www.youtube.com/watch?v=7DncQnIjZmA",
-   "isShort": false,
-   "views": 243664,
-   "description": "They can't harm you if they can't find you! Use code CALEBWRITESCODE at the link below and get 60% off an annual plan: https://incogni.com/calebwritescode\n\nCan we appreciate the breakthrough that OpenAI made in Navier-Stokes without all the drama behind it?\n\nOpenAI took a similar approach by taking C/D counter-example by blowing up Euler's equation without forced which is something that Buckmaster"
   }
  ]
 }
