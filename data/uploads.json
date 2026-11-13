@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-12T07:55:37+00:00",
+ "fetchedAt": "2026-11-13T07:33:08+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -173,8 +173,8 @@
   },
   {
    "channel": "IBM Technology",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Y Combinator",
@@ -234,6 +234,66 @@
  ],
  "videos": [
   {
+   "id": "hvnPWgfmvyI",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Why AI Agents Need RAG + Observability",
+   "published": "2026-11-12T12:00:39+00:00",
+   "url": "https://www.youtube.com/watch?v=hvnPWgfmvyI",
+   "isShort": false,
+   "views": 29839,
+   "description": "Learn more about Why Observability Is Essential for AI Agents here → https://ibm.biz/~MBafoTJOL\n\nYour AI agent knows the system, but what about now? Matt Aiken explains how RAG and observability give AI agents documented knowledge plus live metrics, logs, and traces. Learn how better operational context helps teams investigate issues with evidence.\n\n 00:00 – See What AI Agents Still Don't Know\n 00"
+  },
+  {
+   "id": "NuL5VFS8Prs",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "The $6B Binance heist, Meta’s AI bug tests and looming quantum deadlines",
+   "published": "2026-11-11T09:30:16+00:00",
+   "url": "https://www.youtube.com/watch?v=NuL5VFS8Prs",
+   "isShort": false,
+   "views": 12335,
+   "description": "Visit Security Intelligence podcast page to get more AI content  → https://ibm.biz/~93M8GNpAP\n\nHackers spent months planning a $6 billion cryptocurrency heist. How did they get past security controls, and what can defenders learn from the attack?\n\nThis week on Security Intelligence, Seth Glasgow, Dimple Ahluwalia and Suja Viswesan join host Patrick Austin to unpack three major cybersecurity storie"
+  },
+  {
+   "id": "4uvq8Cz3A7Y",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "What Is Model Distillation? How Smaller AI Models Learn",
+   "published": "2026-11-10T12:00:24+00:00",
+   "url": "https://www.youtube.com/watch?v=4uvq8Cz3A7Y",
+   "isShort": false,
+   "views": 41388,
+   "description": "Learn more about Knowledge Distillation here → https://ibm.biz/~9OAE6ZHmW\n\nSmall AI models can learn from much larger ones. Aadam Mulla explains model distillation, where student models learn from a teacher’s soft labels and dark knowledge. Learn how distillation balances AI capability, speed, cost, and deployment.\n\n 00:00 – Understand What Model Distillation Does\n 00:36 – See Why Smaller AI Model"
+  },
+  {
+   "id": "GpZ5T51jE4U",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Spec-Driven Development vs. Waterfall: What's Different for AI Coding?",
+   "published": "2026-11-09T12:00:33+00:00",
+   "url": "https://www.youtube.com/watch?v=GpZ5T51jE4U",
+   "isShort": false,
+   "views": 71911,
+   "description": "Learn more about Spec-Driven Development here → https://ibm.biz/~zVL5K4NRM\n\nAI coding is making software specifications relevant again. Cedric Clyburn compares Spec-Driven Development with Waterfall and explains how evolving specs give AI agents better context. Learn why clearer specs can mean fewer prompts, faster iterations, and better code\n\n 00:00 – See Why AI Coding Needs Better Specs\n 00:43 –"
+  },
+  {
+   "id": "H_GJapsoLyU",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Why AI Models Run Faster on Some Chips: The KV Cache Effect",
+   "published": "2026-11-08T12:00:25+00:00",
+   "url": "https://www.youtube.com/watch?v=H_GJapsoLyU",
+   "isShort": false,
+   "views": 21504,
+   "description": "Learn more about KV Cache here → https://ibm.biz/~6LPSw4Y8N\n\nThe same AI model can run differently across chips. Kaoutar El Maghraoui explains how GPUs, TPUs, and AI accelerators store and move KV cache during LLM inference. Learn why memory architecture and data movement can shape AI performance.\n\n 00:00 – Understand Why LLMs Need a KV Cache\n 00:46 – See How KV Cache Reuses Keys and Values\n 01:39"
+  },
+  {
    "id": "GJ6PMUm5oTA",
    "channel": "Two Minute Papers",
    "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -258,6 +318,18 @@
    "description": "Anthropic released an article on their Code Review process and since T3 Code has seen as many as 800 pull requests filed in a day, lets compare their process to what I've experienced recently and see what differs!\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nSource:\nhttps://claude.dev/blog/solving-code-review-at-anthropic/\n\nWant to sponsor a video"
   },
   {
+   "id": "x_5JijpzprU",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "AI fixes AI in MIT study, Mistral's open model & Google Genie 4",
+   "published": "2026-11-06T09:30:07+00:00",
+   "url": "https://www.youtube.com/watch?v=x_5JijpzprU",
+   "isShort": false,
+   "views": 18519,
+   "description": "Visit Mixture of Experts podcast page to get more AI content  → https://ibm.biz/~Rz77ywquX\n\nHow close are we to AI that can improve itself?\n\nThis week on Mixture of Experts, guest host Aili McConnon is joined by Chris Hay, Sascha Brodsky and Kiyu Gabriel tackle that question and more from the latest AI headlines.\n\nFirst, MIT researchers demonstrate a technique that uses AI to modify another model'"
+  },
+  {
    "id": "XgC1QTs6A2U",
    "channel": "Two Minute Papers",
    "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -268,6 +340,18 @@
    "isShort": false,
    "views": 38729,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nChapters:\n00:00 Intro\n02:40 Why Robots Are Hard\n08:16 The Perfect Data Diet\n16:05 Intelligence Density\n20:13 Building AI Worlds\n22:10 Learning From Failure\n25:41 The Reality Gap\n29:35 Robots Get Injured Too\n31:28 100 Years in Seconds\n35:35 The Popcorn Robot\n37:35 Easy for Humans, Hard for AI\n39:57 Will AI Ever Be G"
+  },
+  {
+   "id": "rXFV1ivDe6c",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Are Vector Databases Still Needed? RAG, AI Agents & Search",
+   "published": "2026-11-05T12:00:09+00:00",
+   "url": "https://www.youtube.com/watch?v=rXFV1ivDe6c",
+   "isShort": false,
+   "views": 526839,
+   "description": "Learn more about Vector Databases here → https://ibm.biz/~aHY62ka9p\n\nDo AI applications still need vector databases? Martin Keen explores RAG, AI agents, embeddings, semantic search, and context windows to explain when vector databases matter and when simpler retrieval approaches work just as well. Learn how to choose the right retrieval architecture for your workload.\n\n00:00 - Are Vector Database"
   },
   {
    "id": "tc8GNdrhozA",
@@ -282,6 +366,18 @@
    "description": "OpenAI banned PewdiePie TWICE while he was building his own AI systems and the technical work behind it has me impressed, so lets see what he actually made and whether or not you should use it\n\nThank you Clerk for sponsoring! Check them out at: https://soydev.link/clerk\n\nSources:\nhttps://youtu.be/ODDJXGY_1kQ?si=Ka5jtWF7l3RiJ3EG\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor"
   },
   {
+   "id": "c5n94VqXZAw",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Did the Knicks’ phishing test go too far? Plus, hackers pose as IT in Teams",
+   "published": "2026-11-04T10:00:20+00:00",
+   "url": "https://www.youtube.com/watch?v=c5n94VqXZAw",
+   "isShort": false,
+   "views": 12525,
+   "description": "Visit Security Intelligence podcast page to get more AI content  → https://ibm.biz/~vrweMGEy6\n\nClick to claim your free Knicks championship ring, and you might end up in security training.\n\nFirst, MSG sends staff an offer to pick their own championship ring, and everyone who clicks lands in mandatory security training. Timely lures catch real behavior, but the panel debates whether a test this rea"
+  },
+  {
    "id": "xq0eB8vxeqk",
    "channel": "Theo - t3.gg",
    "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
@@ -292,6 +388,18 @@
    "isShort": false,
    "views": 387617,
    "description": "It’s time to make agents good at design, so let’s breakdown how I made Opus hill climb till it finally was making what I wanted it to\n\nThank you Magic Patterns for sponsoring the video! Check them out at: https://soydev.link/magicpatterns\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awe"
+  },
+  {
+   "id": "jnP9AgtX0qo",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Can Your AI Use Sensitive Data Safely? 5 Capabilities You Need",
+   "published": "2026-11-03T12:00:36+00:00",
+   "url": "https://www.youtube.com/watch?v=jnP9AgtX0qo",
+   "isShort": false,
+   "views": 50242,
+   "description": "Learn more about Digital Sovereignty here → https://ibm.biz/~Wxx0y9d9w\n\nSensitive data makes AI powerful, but also risky. Jeff Crume explains five essential capabilities for using sensitive data safely across AI systems, agents, tools, and RAG pipelines. Learn how visibility, classification, governance, access controls, and evidence help secure AI-driven workflows.\n\n00:00 - Why AI Requires Machine"
   },
   {
    "id": "Hq2c7pww1Ds",
@@ -318,6 +426,18 @@
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/31-life-changing-ways\n💎 Get all prompts 100% free: https://go.nicksaraev.com/31-life-changing-ways-2\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I "
   },
   {
+   "id": "EkdIZXDnRK8",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Context-Aware Coding: Give AI Agents the Right Context",
+   "published": "2026-11-02T12:00:35+00:00",
+   "url": "https://www.youtube.com/watch?v=EkdIZXDnRK8",
+   "isShort": false,
+   "views": 57758,
+   "description": "Learn more about Agentic Coding here → https://ibm.biz/~YeRLqinv2\n\nA good prompt isn't enough for good AI code. Legare Kerrison explains how context helps AI coding agents understand your repository, dependencies, tests, and intent. Learn how to give agents the right context without overwhelming them.\n\n 00:00 – Give AI Coding Agents Better Context\n 00:37 – See Why One Prompt Isn't Enough\n 01:23 – "
+  },
+  {
    "id": "y5TEATUDDfc",
    "channel": "Theo - t3.gg",
    "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
@@ -342,6 +462,18 @@
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/worlds-shortest-claude\n💎 Get all course resources 100% free: https://go.nicksaraev.com/worlds-shortest-claude-2\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain "
   },
   {
+   "id": "QUZ4KEDxhCM",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "What Is torch.compile? Dynamo, PyTorch & Faster AI Models Explained",
+   "published": "2026-11-01T12:00:15+00:00",
+   "url": "https://www.youtube.com/watch?v=QUZ4KEDxhCM",
+   "isShort": false,
+   "views": 28749,
+   "description": "Learn more about Faster AI Models here → https://ibm.biz/~9RJjTpaDF\n\nOne line can change how your AI model runs. Avery Blanchard explains how torch.compile, Dynamo, AOT Autograd, and Inductor optimize PyTorch models. Learn how graph breaks, recompilation, and kernel fusion affect AI performance.\n\n 00:00 – See What torch.compile Does to PyTorch Models\n 00:20 – Understand the Three torch.compile Sta"
+  },
+  {
    "id": "FIpGRH8vdos",
    "channel": "CodeWithHarry",
    "channelId": "UCeVMnSShP_Iviwkknt83cww",
@@ -364,6 +496,18 @@
    "isShort": false,
    "views": 77560,
    "description": "🔥 Kimi K3.1 Pro here + benchmarks: https://www.kimi.ai/code?utm_campaign=TR_idCFfXg7&utm_content=&utm_medium=Youtube&utm_source=CH_kEMBez3l&utm_term=\n💎 Get all course resources 100% free: https://go.nicksaraev.com/big-corporations-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. "
+  },
+  {
+   "id": "mfgSBLGePuA",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "When Security Patches Leak",
+   "published": "2026-10-31T16:00:22+00:00",
+   "url": "https://www.youtube.com/shorts/mfgSBLGePuA",
+   "isShort": true,
+   "views": 6552,
+   "description": "What happens when vulnerabilities leak before patches are ready? Discover why one point of failure puts 70% of the web at risk.\n\n---------------------------------------------------------------------------------------------------------\nFind us on YouTube:\n🔵 IBM Technology: https://www.youtube.com/@IBMTechnology\n🔵 IBM: https://www.youtube.com/@IBM \n🔵 IBM Developer: https://youtube.com/@IBMDeveloperA"
   },
   {
    "id": "nlFn9wbtIr4",
@@ -414,6 +558,18 @@
    "description": ""
   },
   {
+   "id": "hOVaubDnu5A",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "AI Exposes Legacy Code",
+   "published": "2026-10-30T16:00:33+00:00",
+   "url": "https://www.youtube.com/shorts/hOVaubDnu5A",
+   "isShort": true,
+   "views": 5784,
+   "description": "AI is forcing teams to revisit abandoned code. What dependencies are lurking? Time to modernize your stack before vulnerabilities strike.\n---------------------------------------------------------------------------------------------------------\nFind us on YouTube:\n🔵 IBM Technology: https://www.youtube.com/@IBMTechnology\n🔵 IBM: https://www.youtube.com/@IBM \n🔵 IBM Developer: https://youtube.com/@IBMD"
+  },
+  {
    "id": "CWdTBLsbaQs",
    "channel": "Two Minute Papers",
    "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
@@ -448,6 +604,18 @@
    "isShort": true,
    "views": 71411,
    "description": ""
+  },
+  {
+   "id": "K8NgeOuZmWU",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "AI exposes a major web security flaw, plus a new kind of voice model",
+   "published": "2026-10-30T10:00:19+00:00",
+   "url": "https://www.youtube.com/watch?v=K8NgeOuZmWU",
+   "isShort": false,
+   "views": 17561,
+   "description": "Visit Mixture of Experts podcast page to get more AI content → https://ibm.biz/~7OaIQxINM\n\nThis week on Mixture of Experts, host David Zax is joined by Ash Minhas, Judith Aquino and Jessica Nahulan to discuss how AI is testing the systems we rely on, from cybersecurity to model evaluation.\n\nFirst, the panel examines PHP2Shell and what happens when AI can find vulnerabilities faster than organizati"
   },
   {
    "id": "9hT3SOBPzDs",
@@ -532,6 +700,18 @@
    "isShort": false,
    "views": 129110,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/make-12-373\n💎 Get all course resources 100% free: https://go.nicksaraev.com/make-12-373-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I he"
+  },
+  {
+   "id": "mmns33BsBcY",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "What Is Quantization? How AI Models Get Smaller & Faster",
+   "published": "2026-10-29T11:00:03+00:00",
+   "url": "https://www.youtube.com/watch?v=mmns33BsBcY",
+   "isShort": false,
+   "views": 310343,
+   "description": "Learn more about Quantization here → https://ibm.biz/~NdqpU881V\n\nHuge AI models come with huge memory requirements.Grace Ableidinger explains how quantization compresses LLMs using lower-precision formats like INT8 and INT4. Learn how model size, GPU memory, speed, and accuracy trade off during AI inference.\n\n 00:00 – Understand What Quantization Does\n 00:23 – See Why LLMs Need Quantization\n 00:51"
   },
   {
    "id": "NBCM_ZoWZo8",
