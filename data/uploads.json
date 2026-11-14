@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-13T07:33:08+00:00",
+ "fetchedAt": "2026-11-14T07:14:06+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -173,18 +173,18 @@
   },
   {
    "channel": "IBM Technology",
+   "ok": false,
+   "error": "HTTP Error 404: Not Found"
+  },
+  {
+   "channel": "Y Combinator",
    "ok": true,
    "count": 15
   },
   {
-   "channel": "Y Combinator",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
-  },
-  {
    "channel": "Nick Saraev",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "Matthew Berman",
@@ -194,7 +194,7 @@
   {
    "channel": "AI Explained",
    "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "channel": "Sam Witteveen",
@@ -246,6 +246,18 @@
    "description": "Learn more about Why Observability Is Essential for AI Agents here → https://ibm.biz/~MBafoTJOL\n\nYour AI agent knows the system, but what about now? Matt Aiken explains how RAG and observability give AI agents documented knowledge plus live metrics, logs, and traces. Learn how better operational context helps teams investigate issues with evidence.\n\n 00:00 – See What AI Agents Still Don't Know\n 00"
   },
   {
+   "id": "iXWSYlAX5Lg",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "Inside Theranos with ex-Employee Tyler Shultz",
+   "published": "2026-11-11T19:44:03+00:00",
+   "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+   "isShort": false,
+   "views": 25556,
+   "description": "With Theranos and Elizabeth Holmes back in the conversation, we’re revisiting one of the most remarkable firsthand accounts of what actually happened inside the company.\n\nTyler Shultz joined Theranos fresh out of Stanford as a true believer in its mission. His grandfather, former Secretary of State George Shultz, sat on the company’s board, and Elizabeth Holmes had become a mentor and even a prese"
+  },
+  {
    "id": "NuL5VFS8Prs",
    "channel": "IBM Technology",
    "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
@@ -282,6 +294,18 @@
    "description": "Learn more about Spec-Driven Development here → https://ibm.biz/~zVL5K4NRM\n\nAI coding is making software specifications relevant again. Cedric Clyburn compares Spec-Driven Development with Waterfall and explains how evolving specs give AI agents better context. Learn why clearer specs can mean fewer prompts, faster iterations, and better code\n\n 00:00 – See Why AI Coding Needs Better Specs\n 00:43 –"
   },
   {
+   "id": "-XL2gClQ2gg",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "Is AI Now Good Enough To Cure Cancer? | YC Paper Club",
+   "published": "2026-11-08T15:00:39+00:00",
+   "url": "https://www.youtube.com/watch?v=-XL2gClQ2gg",
+   "isShort": false,
+   "views": 52271,
+   "description": "This week’s Paper Club is all about AI for biology. The cost of sequencing has collapsed, which means biology now generates more data than anyone can mine, and the models are finally catching up. We cover how falling sequencing costs are turning cancer care into a per-patient data problem, what it takes to model a cell rather than a molecule, what a language model trained on DNA actually learns, a"
+  },
+  {
    "id": "H_GJapsoLyU",
    "channel": "IBM Technology",
    "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
@@ -306,6 +330,18 @@
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-space-programming/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedde"
   },
   {
+   "id": "Q78dJ0vkWe8",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "How To Build The Future: Paul Graham & Amjad Masad",
+   "published": "2026-11-07T15:00:14+00:00",
+   "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
+   "isShort": false,
+   "views": 86647,
+   "description": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a request in plain English, work through errors, provision its own infrastructure, and keep going until the software actually worked. The model companies even reached out to ask how Replit had pulled it off.\n\nCo-founder and CEO Amjad Masad had been thinking about making pr"
+  },
+  {
    "id": "TFCDWrEBaFM",
    "channel": "Theo - t3.gg",
    "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
@@ -316,6 +352,18 @@
    "isShort": false,
    "views": 112134,
    "description": "Anthropic released an article on their Code Review process and since T3 Code has seen as many as 800 pull requests filed in a day, lets compare their process to what I've experienced recently and see what differs!\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nSource:\nhttps://claude.dev/blog/solving-code-review-at-anthropic/\n\nWant to sponsor a video"
+  },
+  {
+   "id": "NYGf--dBeHA",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "How Boom’s Biggest Crisis Became Its Biggest Opportunity",
+   "published": "2026-11-06T16:00:09+00:00",
+   "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
+   "isShort": false,
+   "views": 16962,
+   "description": "In this Social Radars episode we talk with Blake Scholl about one of the cleverest business model transformations in the history of startups: Boom's move into building gas turbines. When Rolls Royce pulled out as Boom's engine supplier, it seemed to many like fatally bad news. But instead it not only helped Boom solve boomless supersonic flight, but also enabled them to tap a huge new revenue stre"
   },
   {
    "id": "x_5JijpzprU",
@@ -366,6 +414,18 @@
    "description": "OpenAI banned PewdiePie TWICE while he was building his own AI systems and the technical work behind it has me impressed, so lets see what he actually made and whether or not you should use it\n\nThank you Clerk for sponsoring! Check them out at: https://soydev.link/clerk\n\nSources:\nhttps://youtu.be/ODDJXGY_1kQ?si=Ka5jtWF7l3RiJ3EG\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor"
   },
   {
+   "id": "u-8KpXcPYCw",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "10 Habits PhDs Must Unlearn To Build a Startup | Startup School",
+   "published": "2026-11-04T15:00:23+00:00",
+   "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
+   "isShort": false,
+   "views": 57812,
+   "description": "Google, Anthropic, and Databricks were all started by founders with PhDs. But they’re the exceptions. Most academic founders fail, because the instincts that get you published are the ones that can get you killed in a startup. Francois Chaubard knows both sides. He’s a visiting partner at YC and a current PhD student, and before that he was a researcher in Fei-Fei Li’s lab and the founder and CEO "
+  },
+  {
    "id": "c5n94VqXZAw",
    "channel": "IBM Technology",
    "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
@@ -414,6 +474,18 @@
    "description": "Just a month after their reduction, OpenAI is doubling the limits of their plans. Is it enough? \n\nThanks to WorkOS for sponsoring! Check passport out here: https://soydev.link/passport\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programming #coding"
   },
   {
+   "id": "lqdc1MeyIfs",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "Engineers Make Great Founders",
+   "published": "2026-11-02T23:54:36+00:00",
+   "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
+   "isShort": true,
+   "views": 33812,
+   "description": "A lot of what makes a great engineer also makes a great founder.\n\nBefore starting Layers and BootLoop, Shivani Patel and Chris Markus worked at SpaceX, where they learned to take ideas from zero to one, solve hard problems, and own the outcome."
+  },
+  {
    "id": "KDyPHt4lW60",
    "channel": "Nick Saraev",
    "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
@@ -424,6 +496,18 @@
    "isShort": false,
    "views": 647625,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/31-life-changing-ways\n💎 Get all prompts 100% free: https://go.nicksaraev.com/31-life-changing-ways-2\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I "
+  },
+  {
+   "id": "NVzgt2AEvDg",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "The $1B Company Fixing AI’s Software Bottleneck",
+   "published": "2026-11-02T16:29:13+00:00",
+   "url": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
+   "isShort": false,
+   "views": 39934,
+   "description": "Blacksmith (YC W24) is building a faster cloud for continuous integration (CI), helping developers test and ship code as AI coding tools generate more of it.\n\nAs software production accelerates, testing and validation are becoming the new bottleneck. That shift has helped Blacksmith grow 20x over the last year, and the company recently raised a $66 million Series C at a $1 billion valuation.\n\nThe "
   },
   {
    "id": "EkdIZXDnRK8",
@@ -582,6 +666,18 @@
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 OpenAI's paper is available here:\nhttps://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf\n\nOur paper with the cherry splash ray tracing simulation at 0:17 https://users.cg.tuwien.ac.at/zsolnai/gfx/adaptive_metropolis/\n\n🙏 We would like to thank our gene"
   },
   {
+   "id": "vl7HiMdGfjo",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "What Happens When Everyone Can Build Software",
+   "published": "2026-10-30T14:30:00+00:00",
+   "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
+   "isShort": false,
+   "views": 116661,
+   "description": "In this episode of the Lightcone, the hosts sit down with Paul Copplestone, co-founder and CEO of Supabase. Since starting in the YC summer batch of 2020, the company has exploded to 13 million users and over 50 million databases under management. Supabase is now positioning for a future where everyone can write their own software, billions have access to personal databases and agents are driving "
+  },
+  {
    "id": "lEFFa0Z5BIE",
    "channel": "Sam Witteveen",
    "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
@@ -630,6 +726,18 @@
    "description": ""
   },
   {
+   "id": "x21EgQzfZaM",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "AI for the Air-Gapped Economy",
+   "published": "2026-10-30T05:41:20+00:00",
+   "url": "https://www.youtube.com/shorts/x21EgQzfZaM",
+   "isShort": true,
+   "views": 42646,
+   "description": "Some of the most valuable data in the world can never leave the building. Defense contractors, banks, hospitals, and nuclear plants can’t simply send it to a cloud AI API.\n\nThat creates an opportunity to bring frontier AI inside those walls: on-prem models, deployment tooling, security accreditation, and hardware for the parts of the economy the cloud can’t reach.\n\nApply for the Winter 2027 batch "
+  },
+  {
    "id": "2DvtD1q1fpE",
    "channel": "Codebasics",
    "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
@@ -654,6 +762,30 @@
    "description": "🔥 Fish audio (for the Japanese voice): https://fish.audio/?fpr=fhs32\n💎 Get all course resources 100% free: https://go.nicksaraev.com/biggest-faceless-content-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help peo"
   },
   {
+   "id": "VoSVN7H07-Q",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "AI for City Hall",
+   "published": "2026-10-29T22:23:19+00:00",
+   "url": "https://www.youtube.com/shorts/VoSVN7H07-Q",
+   "isShort": true,
+   "views": 23428,
+   "description": "In some cities, getting a building permit takes longer than building the house.\n\nAI can help with plan reviews, zoning checks, inspections, licensing, public records, and other work that still happens largely by hand. There are 19,000 cities in America. City Hall could be one of the biggest untouched markets for AI.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
+  },
+  {
+   "id": "674Efd5Scfg",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "LLMs That Write Well",
+   "published": "2026-10-29T18:48:01+00:00",
+   "url": "https://www.youtube.com/shorts/674Efd5Scfg",
+   "isShort": true,
+   "views": 56625,
+   "description": "LLMs have gotten much better at coding and math, but their writing increasingly sounds flat and robotic.\n\nThe same reward signals that improve coding and agentic work can flatten voice and style. That leaves room for models built specifically to write well and be enjoyable to talk to.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
+  },
+  {
    "id": "uLGxb4F3SyI",
    "channel": "Theo - t3.gg",
    "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
@@ -676,6 +808,18 @@
    "isShort": true,
    "views": 201654,
    "description": ""
+  },
+  {
+   "id": "LI9NqE2iIqg",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "Vertical Foundation Models",
+   "published": "2026-10-29T14:31:00+00:00",
+   "url": "https://www.youtube.com/shorts/LI9NqE2iIqg",
+   "isShort": true,
+   "views": 29586,
+   "description": "General-purpose AI is getting incredibly capable, but many industrial problems don’t need a giant model that can do everything.\n\nSpecialized foundation models for manufacturing, energy, and biology could match or beat general models with a fraction of the compute, learning new tasks from little or no labeled data.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
   },
   {
    "id": "5uHwUAtrSHM",
@@ -714,6 +858,30 @@
    "description": "Learn more about Quantization here → https://ibm.biz/~NdqpU881V\n\nHuge AI models come with huge memory requirements.Grace Ableidinger explains how quantization compresses LLMs using lower-precision formats like INT8 and INT4. Learn how model size, GPU memory, speed, and accuracy trade off during AI inference.\n\n 00:00 – Understand What Quantization Does\n 00:23 – See Why LLMs Need Quantization\n 00:51"
   },
   {
+   "id": "KlHzPbZ6PNI",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "Wall Street for the Physical Buildout",
+   "published": "2026-10-28T21:44:28+00:00",
+   "url": "https://www.youtube.com/shorts/KlHzPbZ6PNI",
+   "isShort": true,
+   "views": 40686,
+   "description": "Software is cheap to start. Robots, GPU clusters, and data centers are not.\n\nThe physical AI buildout will need new ways to finance steel and silicon: lenders, leasing companies, securitization, and hedging products designed around machines and compute. Every great infrastructure boom created financial giants alongside it.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
+  },
+  {
+   "id": "DzblM1Mc-J8",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "Own Your Intelligence",
+   "published": "2026-10-28T20:15:52+00:00",
+   "url": "https://www.youtube.com/shorts/DzblM1Mc-J8",
+   "isShort": true,
+   "views": 68955,
+   "description": "Most companies building with AI still rent their intelligence from frontier labs.\n\nAs open models improve, more companies will want models they can run, train, and control themselves. The opportunity is to turn a company’s workflows, expertise, and failures into specialized models that improve with the business.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
+  },
+  {
    "id": "NBCM_ZoWZo8",
    "channel": "Theo - t3.gg",
    "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
@@ -748,6 +916,18 @@
    "isShort": false,
    "views": 199269,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4.1 Flash 1017 is available here:\nhttps://api-docs.deepseek.com/news/news261017/\n\nSources:\nhttps://x.com/marcthecreatorr/status/2111427716142571554/video/1\nhttps://x.com/olezhavich/status/2112897791022264814/video/1\nhttps://x.com/notjazii/status/2111432925313179689/video/1\nhttps://x.com/izag82161/status"
+  },
+  {
+   "id": "3CDvfm9DYjw",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "Plaid for Government Benefits",
+   "published": "2026-10-28T15:47:55+00:00",
+   "url": "https://www.youtube.com/shorts/3CDvfm9DYjw",
+   "isShort": true,
+   "views": 12461,
+   "description": "Applying for government benefits means proving the same facts again and again across systems that don’t talk to each other. That creates friction for honest applicants and openings for fraud.\n\nGovernment needs a Plaid-like layer for verified income, tax, and residency data: verify once, apply everywhere. As AI agents begin handling enrollment, trusted data infrastructure becomes even more importan"
   },
   {
    "id": "TfMwWWmwz4g",
@@ -3832,30 +4012,6 @@
    "isShort": false,
    "views": 110423,
    "description": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers\n\n📝 The papers and sources are available here:\nhttps://proceedings.mlr.press/v202/kirchenbauer23a.html\nhttps://www.nature.com/articles/s41586-024-08025-4\nhttps://www.anthropic.com/news/claude-text-watermark\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridge"
-  },
-  {
-   "id": "UftYcziWO3g",
-   "channel": "ByteMonk",
-   "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
-   "lang": "en",
-   "title": "OWASP Agentic Top 10 Explained: The New Security Risks of AI Agents",
-   "published": "2026-09-15T04:05:20+00:00",
-   "url": "https://www.youtube.com/watch?v=UftYcziWO3g",
-   "isShort": false,
-   "views": 34513,
-   "description": "Secure your AI agents and MCP servers with Descope's Agentic Identity Hub, our sponsor of this video. \nFree Forever tier, no credit card → https://descope.plug.dev/Ud8PEya\n\nIn this video, instead of memorizing OWASP's new Top 10 for agentic applications, we build one small AI agent from scratch and watch each of those ten risks appear, one at a time, as we give it more capability.\n\n⏱️ TIMESTAMPS\n0"
-  },
-  {
-   "id": "NKRjhERbSRM",
-   "channel": "CodeWithHarry",
-   "channelId": "UCeVMnSShP_Iviwkknt83cww",
-   "lang": "hi",
-   "title": "AI Bot Ran away from the lab 😳😲",
-   "published": "2026-09-14T12:48:32+00:00",
-   "url": "https://www.youtube.com/shorts/NKRjhERbSRM",
-   "isShort": true,
-   "views": 367407,
-   "description": ""
   }
  ]
 }
