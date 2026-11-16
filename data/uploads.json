@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-15T07:24:46+00:00",
+ "fetchedAt": "2026-11-16T07:30:56+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -3964,42 +3964,6 @@
    "isShort": true,
    "views": 146103,
    "description": ""
-  },
-  {
-   "id": "J3ljHm57yU0",
-   "channel": "AI Explained",
-   "channelId": "UCNJ1Ymd5yFuUPtn21xtRbbw",
-   "lang": "en",
-   "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
-   "published": "2026-09-16T20:51:40+00:00",
-   "url": "https://www.youtube.com/watch?v=J3ljHm57yU0",
-   "isShort": false,
-   "views": 237733,
-   "description": "Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader messages? Let’s explore the six axes that the researchers are looking at, the incidence reports and trends, to get a better gauge on what has dominated the world’s headlines for over two weeks…\n\nAI Insiders ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n0"
-  },
-  {
-   "id": "PTubnGrHdmM",
-   "channel": "Caleb Writes Code",
-   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
-   "lang": "en",
-   "title": "DeepSeek V4.1 Flash is a beautiful model..",
-   "published": "2026-09-16T20:29:31+00:00",
-   "url": "https://www.youtube.com/watch?v=PTubnGrHdmM",
-   "isShort": false,
-   "views": 114712,
-   "description": "Firecrawl Link: https://firecrawl.link/caleb-writes-code\nSubStack Link: https://calebwritescode.substack.com/\n\nDeepSeek V4.1 Flash full analysis starting from their model architecture that introduced Engram.\nEngram allows short term recurrent information to be stored and retrieved separate to the language backbone.\nDeepSeek also went back to use CED, Causal Encoder Decoder, and connects with CSA2 "
-  },
-  {
-   "id": "jMw7NeZfRVY",
-   "channel": "Harkirat Singh",
-   "channelId": "UCWX0cUR2rZcqKei1Vstww-A",
-   "lang": "hi",
-   "title": "Building Matiks | Super30 livestreams",
-   "published": "2026-09-16T18:40:41+00:00",
-   "url": "https://www.youtube.com/watch?v=jMw7NeZfRVY",
-   "isShort": false,
-   "views": 96269,
-   "description": "https://100xdevs.com\nCode - https://github.com/VishwajeetSinghParihar750/gpt2LiveStream"
   }
  ]
 }
