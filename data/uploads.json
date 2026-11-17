@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-16T07:30:56+00:00",
+ "fetchedAt": "2026-11-17T08:34:12+00:00",
  "channels": [
   {
    "name": "Fireship",
@@ -138,101 +138,713 @@
  "status": [
   {
    "channel": "Fireship",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Prompt Engineering",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Aish Reganti",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "ByteMonk",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Caleb Writes Code",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Cole Medin",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "AI Engineer",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "IBM Technology",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Y Combinator",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Nick Saraev",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Matthew Berman",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "AI Explained",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Sam Witteveen",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Theo - t3.gg",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Two Minute Papers",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Harkirat Singh",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "CodeWithHarry",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Codebasics",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   },
   {
    "channel": "Krish Naik",
-   "ok": false,
-   "error": "HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 15
   }
  ],
  "videos": [
+  {
+   "id": "T4vxQxpdNi8",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Goal Engineering - The New Buzzword",
+   "published": "2026-11-17T07:13:07+00:00",
+   "url": "https://www.youtube.com/shorts/T4vxQxpdNi8",
+   "isShort": true,
+   "views": 248,
+   "description": "Goal engineering, the newest term after prompt, context and harness engineering, is about scoping an agent’s goal so a human can review its work fast. Here’s what LangChain’s post with Actively AI argues, and the one rule behind it. Full video on how to check what an agent produces (code checks, an LLM judge and human review): https://youtu.be/AyzLIRBuUN8\n\nSource: https://x.com/hwchase17/status/21"
+  },
+  {
+   "id": "vFDFBmuYQF4",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "Why “Opus Got Nerfed” Claims Often Measure the Wrong Thing",
+   "published": "2026-11-17T02:00:10+00:00",
+   "url": "https://www.youtube.com/shorts/vFDFBmuYQF4",
+   "isShort": true,
+   "views": 1550,
+   "description": "Is Claude Opus nerfed? We analyze recent developer reports of degraded reasoning to determine if Anthropic actually changed the model.\n\nRecent community speculation suggests a potential decline in Claude reasoning capabilities before tool calls. We examine the evidence by comparing individual developer observations against broader dataset trends. This breakdown is for engineers who want to underst"
+  },
+  {
+   "id": "r5iPi8RL7A8",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "5 Types of AI Software Factories Clearly Explained",
+   "published": "2026-11-16T23:51:15+00:00",
+   "url": "https://www.youtube.com/watch?v=r5iPi8RL7A8",
+   "isShort": false,
+   "views": 5141,
+   "description": "AI software factories are all the rage right now, but there's a lot of confusion about what they actually are. Here are the five most common types with the pros and cons of each, so you can find the right balance of control and autonomy for what you're building!\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~\n\n- Thank you to LangChain for sponsoring this video! Try LangSmith with $50 in credit using my code ColeM:\nht"
+  },
+  {
+   "id": "kM7lnhS_uE8",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "Something strange is happening to the internet right now",
+   "published": "2026-11-16T22:21:02+00:00",
+   "url": "https://www.youtube.com/watch?v=kM7lnhS_uE8",
+   "isShort": false,
+   "views": 90875,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build "
+  },
+  {
+   "id": "ytmawkPTP24",
+   "channel": "Fireship",
+   "channelId": "UCsBjURrPoezykLs9EqgamOA",
+   "lang": "en",
+   "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
+   "published": "2026-11-16T20:18:59+00:00",
+   "url": "https://www.youtube.com/watch?v=ytmawkPTP24",
+   "isShort": false,
+   "views": 1006133,
+   "description": "OpenRouter gives you one API for every AI model that routes and governs every request, so your AI is better, faster, and cheaper. Try it free: https://openrouter.ai/?utm_source=fireship&utm_medium=video&utm_campaign=2026-11_dev-sponsorships&utm_content=description\n\nMicrosoft took down Exchange Online for roughly 36 hours with a routine network capacity upgrade, so let’s break down what actually fa"
+  },
+  {
+   "id": "kMdHCyAnNHA",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "Box CEO Explains How AI Is Changing Software",
+   "published": "2026-11-16T17:42:57+00:00",
+   "url": "https://www.youtube.com/watch?v=kMdHCyAnNHA",
+   "isShort": false,
+   "views": 21805,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "EMysvWtyK0o",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "It's Happening. Robots Just Took Another Blue Collar Job",
+   "published": "2026-11-16T16:42:43+00:00",
+   "url": "https://www.youtube.com/watch?v=EMysvWtyK0o",
+   "isShort": false,
+   "views": 23441,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://skool.com/makerschool/about\n💎 Get all course resources 100% free: https://skool.com/maker-zero/about\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build "
+  },
+  {
+   "id": "83NRvB_Gusk",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "My AI Agents Write Code Faster Than I Can Verify It",
+   "published": "2026-11-16T14:48:43+00:00",
+   "url": "https://www.youtube.com/shorts/83NRvB_Gusk",
+   "isShort": true,
+   "views": 1307,
+   "description": "76% of developers and engineering managers in Sonar's 2027 State of Code report say they generate AI code faster than they can verify it! And I'm right there with them, since I run software factories where agents open pull requests around the clock.\n\nAI code looks correct way more often now, so the bugs that slip through are the subtle ones. The way I handle it in my own factories is simple. Agent"
+  },
+  {
+   "id": "iv32wI3MBpw",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Software Supply Chain Security: What AI Coding Changes",
+   "published": "2026-11-16T14:45:14+00:00",
+   "url": "https://www.youtube.com/watch?v=iv32wI3MBpw",
+   "isShort": false,
+   "views": 21820,
+   "description": "Learn more about Supply Chain Security here → https://ibm.biz/~k518Rj9sC\n\nYour code is only part of what reaches production. Cedric Clyburn explains how dependencies, CI/CD pipelines, open source, and AI-generated code expand the software supply chain. Learn how SBOMs, automated checks, independent review, and provenance reduce risk.\n\n 00:00 – See What Really Enters Your Application\n 01:00 – Defin"
+  },
+  {
+   "id": "JVu2KicZACg",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "ZGX Fury - How Fast Can it Go?",
+   "published": "2026-11-16T14:00:32+00:00",
+   "url": "https://www.youtube.com/watch?v=JVu2KicZACg",
+   "isShort": false,
+   "views": 9522,
+   "description": "In this video, I return the ZGX Fury to put it through it's paces on just what it can run,  how fast it runs it and how people can use it for various tasks. \n\nThis video is sponsored by HP and NVIDIA\n\nHP ZGX Fury : https://bit.ly/4j9Ra1q\nHP Z LinkedIn Page: https://bit.ly/4iCmC8k\nQuickSpecs: https://bit.ly/3VfBq3S\nDatasheet: https://bit.ly/4C05Mbe\n\nHP ZGX Fury Sizzle Video: https://bit.ly/4iQGCmx\n"
+  },
+  {
+   "id": "r_DQsfnmts8",
+   "channel": "Harkirat Singh",
+   "channelId": "UCWX0cUR2rZcqKei1Vstww-A",
+   "lang": "hi",
+   "title": "I Tried Vibe Coding  GTA 6 Using AI",
+   "published": "2026-11-16T13:31:42+00:00",
+   "url": "https://www.youtube.com/watch?v=r_DQsfnmts8",
+   "isShort": false,
+   "views": 31464,
+   "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nCheckouts the game here: https://sunstate.100xdevs.com/\n\nIn this video, I try to vibe code a mini version of GTA 6 in just 2 hours!\n\nThe challenge is simple: build a tiny, 1/1000th version of GTA using AI-powered vibe coding and see how much of the GTA experience we can recreate in just two hours.\n\nFrom building the game t"
+  },
+  {
+   "id": "UCL4K36SHp0",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Let's Open Source the World — Brandon Thomas, ArtCraft",
+   "published": "2026-11-16T13:00:07+00:00",
+   "url": "https://www.youtube.com/watch?v=UCL4K36SHp0",
+   "isShort": false,
+   "views": 74203,
+   "description": "ArtCraft’s first Photoshop approximation took about 24 hours to build, Brandon Thomas says. At CODE Summit 2026, he explains how Rust and AI coding agents power open source alternatives to Adobe’s creative tools, Microsoft Office and Figma. MCP and CLI automation, Linux support, reusable UI components and CI bottlenecks lead into Autocraft, a forthcoming software factory for issue triage, agentic "
+  },
+  {
+   "id": "xdMLZoL8t0Y",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "Is AI PM role actually right for you?",
+   "published": "2026-11-16T12:46:46+00:00",
+   "url": "https://www.youtube.com/shorts/xdMLZoL8t0Y",
+   "isShort": true,
+   "views": 2023,
+   "description": "Everyone’s talking about the AI PM role and its big salaries.\n\nBut a high pay cheque doesn’t mean the role suits you.\n\nThis free test checks your skills and background against it.\n\nIt takes about 5 to 10 minutes.\n\nTake it here: https://ai-pm.explore.codebasics.io/\n\nWatch full video - https://youtu.be/JzrEsnAAXkc?si=Q9vJBpWGlVj4Zp-B\n\nFollow us on Instagram :\nDhaval - https://www.instagram.com/dhava"
+  },
+  {
+   "id": "5p2fQjFcQ4w",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "10 Skills to Become an AI Engineer",
+   "published": "2026-11-16T12:37:15+00:00",
+   "url": "https://www.youtube.com/watch?v=5p2fQjFcQ4w",
+   "isShort": false,
+   "views": 16184,
+   "description": "In this video, I break down the 10 most important skills AI engineers need today, split into technical and non-technical, with resources to learn each one. Useful if you're a student, a developer moving into AI, or already working in tech.\n\nResources: https://codebasics.io/resources/learn-these-10-skills-to-become-an-ai-engineer\n\n⭐️ Timestamps ⭐️\n00:00 - Introduction & Skill Categories\n00:13 - 1. "
+  },
+  {
+   "id": "XVOzK_CaoD4",
+   "channel": "Krish Naik",
+   "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+   "lang": "en",
+   "title": "Runway ML In-Depth Review & Hands-On Demo | Text to Video, Character Consistency & Editing!",
+   "published": "2026-11-16T11:33:04+00:00",
+   "url": "https://www.youtube.com/watch?v=XVOzK_CaoD4",
+   "isShort": false,
+   "views": 7740,
+   "description": "Try out Runway now and get 50% discount:-https://app.runwayml.com/?utm_source=tiktok&utm_medium=influencer&utm_campaign=runway_sept&utm_content=krishnaik06\n—----------------------------------------------------------------------------------------------------------------\n\nIn this video, I test and review Runway ML, one of the most powerful AI video generation and production platforms. After testing "
+  },
+  {
+   "id": "t1s_wjsUSsg",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "3 Ways to Run an AI Agent on Cloud Run",
+   "published": "2026-11-16T06:37:15+00:00",
+   "url": "https://www.youtube.com/shorts/t1s_wjsUSsg",
+   "isShort": true,
+   "views": 1850,
+   "description": "Cloud Run for AI agents in about a minute: where your agent runs once it leaves your laptop, and when to run it as a Cloud Run service, a job or a worker pool. The example is a GitHub agent that labels and replies to new issues, writes a nightly summary, and pulls tasks from a queue.\n\nHost AI agents on Cloud Run: https://docs.cloud.google.com/run/docs/ai-agents\nWhat is Cloud Run (services, jobs, w"
+  },
+  {
+   "id": "d4lU5dr5bF4",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "Skills vs Sub-Agents: Most Engineers Get This Wrong #ai #coding",
+   "published": "2026-11-16T02:00:17+00:00",
+   "url": "https://www.youtube.com/shorts/d4lU5dr5bF4",
+   "isShort": true,
+   "views": 3871,
+   "description": "Learn the technical difference between skills and sub-agents to improve your AI engineering architecture. Master how to structure your agents for better task execution.\n\nThis breakdown covers the distinction between skills and sub-agents, a common interview question for AI developers. We define these concepts across three levels, moving from basic definitions to advanced implementation strategies."
+  },
+  {
+   "id": "TWoS5Nmyoc8",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "Stop Searching For the Perfect Model",
+   "published": "2026-11-16T00:09:03+00:00",
+   "url": "https://www.youtube.com/watch?v=TWoS5Nmyoc8",
+   "isShort": false,
+   "views": 144771,
+   "description": "We're at the point where you have to stop searching for a single model to do all your work and realize that the best model is all of them\n\nThank you Macroscope for sponsoring! Check them out at: https://soydev.link/macroscope\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n"
+  },
+  {
+   "id": "Cyt3LU8TyNc",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "\"Where is all the automation?\" — Diogo Almeida, TypeSafe AI",
+   "published": "2026-11-15T21:00:07+00:00",
+   "url": "https://www.youtube.com/watch?v=Cyt3LU8TyNc",
+   "isShort": false,
+   "views": 54505,
+   "description": "Being Einstein 95% of the time and Mr. Bean 5% is Diogo Almeida's analogy for unreliable LLM automation. At CODE Summit 2026, the TypeSafe AI cofounder argues that RLHF optimizes models for human assistance and makes the case for machine native AI with Jev. Reliable agents, KV cache limits, shared memory, semantic types and real time security point toward what software engineers could build beyond"
+  },
+  {
+   "id": "A9ubp50hb48",
+   "channel": "ByteMonk",
+   "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
+   "lang": "en",
+   "title": "How Payment Systems Really Work (PayPal Deep Dive)",
+   "published": "2026-11-15T16:16:59+00:00",
+   "url": "https://www.youtube.com/watch?v=A9ubp50hb48",
+   "isShort": false,
+   "views": 11729,
+   "description": "Most of us picture a payment as a single API call. Money leaves the buyer, money reaches your account, done. It isn't. Behind that one Pay button is a distributed system of banks, card networks, retries, timeouts and asynchronous events. \n\nIn this video I build a complete payment system on PayPal, checkout, subscriptions and webhooks, and then deliberately break it, because the happy path tells yo"
+  },
+  {
+   "id": "XaJi7a0UChs",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Recursive Harness: Self-Improving Agents Without Training",
+   "published": "2026-11-15T14:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=XaJi7a0UChs",
+   "isShort": false,
+   "views": 24558,
+   "description": "How to build a self-evolving agent harness: the agent starts with three tools (shell, read, write) and grows its own tools, lifecycle hooks and memory while it works, on the Gemini Interactions API. I walk through the three-zone architecture, then test it against a frozen harness on web apps, silent bug-report videos and a custom binary format, and show when a self-evolving harness pays off and wh"
+  },
+  {
+   "id": "K6ffYKrlPdU",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "AI Model Debugging: Find the First Divergence Across AI Accelerators",
+   "published": "2026-11-15T12:00:36+00:00",
+   "url": "https://www.youtube.com/watch?v=K6ffYKrlPdU",
+   "isShort": false,
+   "views": 15193,
+   "description": "Learn more about AI Debugging here → https://ibm.biz/~i26jCJsKx\n\nThe same AI model can produce different results across accelerators. Kaoutar El Maghraoui explains AI model debugging by finding the first observed divergence between executions. Learn how tensor comparisons, tolerances, and minimal tests help isolate failures.\n\n 00:00 – Debug Different AI Model Results Across Accelerators\n 00:53 – T"
+  },
+  {
+   "id": "dT-AGx5tR04",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "Why “Act Like an Expert” Can Make Your AI Prompts Worse #aiprompts #aitips #promptengineering",
+   "published": "2026-11-15T02:00:32+00:00",
+   "url": "https://www.youtube.com/shorts/dT-AGx5tR04",
+   "isShort": true,
+   "views": 3856,
+   "description": "Do expert personas improve AI answers? Wharton researchers tested prompts like “You are a world-class expert” on six AI models using hard questions in physics, chemistry, engineering and law. Expert personas didn’t reliably improve accuracy, and on one benchmark, nine comparisons came out significantly worse.\n\nLow-knowledge personas like “toddler” lowered accuracy in four of six models. Given an u"
+  },
+  {
+   "id": "y1-9yeYLJUo",
+   "channel": "Y Combinator",
+   "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
+   "lang": "en",
+   "title": "The Rise Of AI Coworkers",
+   "published": "2026-11-14T23:21:16+00:00",
+   "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
+   "isShort": false,
+   "views": 115477,
+   "description": "At SpaceXSI, Lauren Tan and Roman Ugarte are on the core team that took Grok Bot from first line of code to launch in seven weeks. \n\nIt lets you spin up AI teammates with their own identities and logins, and they just keep working in the background. Their marketing team gave a bot its own ad budget. Lauren built an entire feature with her bot in one Slack thread without ever opening Cursor. \n\nThey"
+  },
+  {
+   "id": "Pyl5yyT7h-g",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "The Highest-Paying Careers for The Next 2+ Years",
+   "published": "2026-11-14T18:30:45+00:00",
+   "url": "https://www.youtube.com/watch?v=Pyl5yyT7h-g",
+   "isShort": false,
+   "views": 120467,
+   "description": "🔥 AI media resources: https://higgsfield.ai/s/IkgpSM\n💎 Get all course resources 100% free: https://go.nicksaraev.com/highest-paying-careers\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help people build systems that genera"
+  },
+  {
+   "id": "O_zcc6Xl12g",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "All Code Is Slop (Except Mine) — Lauren Tan, SpaceXSI",
+   "published": "2026-11-14T18:30:09+00:00",
+   "url": "https://www.youtube.com/watch?v=O_zcc6Xl12g",
+   "isShort": false,
+   "views": 618394,
+   "description": "11,000 pull requests in one month, with a revert rate around 0.5%. Lauren Tan (poteto) shares how the Grok Bot team at SpaceXSI scales AI coding agents through software architecture, lint rules, automated testing, runtime verification and formal verification with TLA+ and Lean. See how Cursor agents and pstack turn these software engineering foundations into reliable software factories.\n\nSpeaker i"
+  },
+  {
+   "id": "lCy3npu_4H4",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "How Data Analysts Can Survive AI in 2027",
+   "published": "2026-11-14T16:11:23+00:00",
+   "url": "https://www.youtube.com/watch?v=lCy3npu_4H4",
+   "isShort": false,
+   "views": 14299,
+   "description": "If you're a working data analyst and want to grow into Level 5, check out our Live Advanced Data Analyst Bootcamp:\nJoin here: https://codebasics.io/bootcamps/advanced-data-analyst-bootcamp-1?utm_source=youtube&utm_medium=organic&utm_campaign=ada_c1\n\n\nHere is the link to play the game and learn: https://codebasics.io/resources/how-data-analysts-can-survive-ai-in-2027\n\n-----------\n\nAI can already bu"
+  },
+  {
+   "id": "-7VgYNiGxYw",
+   "channel": "Krish Naik",
+   "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+   "lang": "en",
+   "title": "2-NVIDIA NeMo Guardrails Tutorial: Defend RAG Apps Against Prompt Injection | Part 1",
+   "published": "2026-11-14T11:13:14+00:00",
+   "url": "https://www.youtube.com/watch?v=-7VgYNiGxYw",
+   "isShort": false,
+   "views": 10531,
+   "description": "Code: https://github.com/krishnaik06/Ai-Safety-And-LLM-Security\nLearn how to add NVIDIA NeMo Guardrails to a RAG application and test defenses against direct prompt injection, poisoned documents, and unsafe responses.\n\nIn this hands-on tutorial, we configure input, document/retrieval, and output checks, then integrate them into a LangGraph workflow. Using an example company help assistant, we comp"
+  },
+  {
+   "id": "x7iwI6WfWS0",
+   "channel": "Two Minute Papers",
+   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+   "lang": "en",
+   "title": "AI Can Do Everything…Except This",
+   "published": "2026-11-14T08:40:55+00:00",
+   "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+   "isShort": false,
+   "views": 49285,
+   "description": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amazing musicians for their help!\n- Vocals: Carolina Padrón\n- Drums: Federico Gucciardo\n- Bass: Phil Gonnand\n- Saxophone: Dima Faustov\n- Guitar: Jens Ambrosch\n- Guitar: Dr. Károly Zsolnai-Fehér\n\nIf you wish to play a cover, "
+  },
+  {
+   "id": "sZg4uJnU9rU",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Security's New Reality Check",
+   "published": "2026-11-14T05:00:28+00:00",
+   "url": "https://www.youtube.com/shorts/sZg4uJnU9rU",
+   "isShort": true,
+   "views": 3485,
+   "description": "Everyone's a target. The question isn't if you'll be breached—it's how fast you can contain it. Learn the containment-first security mindset.\n\n---------------------------------------------------------------------------------------------------------\nFind us on YouTube:\n🔵 IBM Technology: https://www.youtube.com/@IBMTechnology\n🔵 IBM: https://www.youtube.com/@IBM \n🔵 IBM Developer: https://youtube.com/"
+  },
+  {
+   "id": "B_TmTOhg6No",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "Why Does All AI Writing Sound the Same? Researchers Found Out",
+   "published": "2026-11-14T02:00:32+00:00",
+   "url": "https://www.youtube.com/shorts/B_TmTOhg6No",
+   "isShort": true,
+   "views": 2905,
+   "description": "AI writing often sounds repetitive because models rely on human feedback loops that prioritize predictable, safe outputs. Learn why relying on automated edits can weaken your prose.\n\nThis video explains how current training methods and reward models shape the way AI models generate text. We explore the limitations of these systems when used for essay editing and why they often demolish original vo"
+  },
+  {
+   "id": "5BrgFY5jIn4",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "It’s so much worse than I thought…",
+   "published": "2026-11-13T23:45:49+00:00",
+   "url": "https://www.youtube.com/watch?v=5BrgFY5jIn4",
+   "isShort": false,
+   "views": 173489,
+   "description": "Gemini 4 Carbon is much slower than I initially thought, and it's bad enough that we need to talk about it\n\nThank you Infinite Red for sponsoring! Check them out here:\nhttps://soydev.link/infinite\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n\nLocal Forecast - Slower by K"
+  },
+  {
+   "id": "tFau550Piy4",
+   "channel": "ByteMonk",
+   "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
+   "lang": "en",
+   "title": "How One Failure Took Down Microsoft Outlook",
+   "published": "2026-11-13T18:40:52+00:00",
+   "url": "https://www.youtube.com/watch?v=tFau550Piy4",
+   "isShort": false,
+   "views": 137393,
+   "description": "Microsoft Outlook went down on November 12, along with parts of Teams, Copilot, SharePoint and other Microsoft 365 services. Microsoft said servers were dropping out of service, pushing extra load onto the rest. Some came back online, then went unresponsive again. In this video we break down why that happens: how a cascading failure starts, why the usual safety mechanisms can fall short, and why r"
+  },
+  {
+   "id": "cmBD5u7F5zQ",
+   "channel": "Caleb Writes Code",
+   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
+   "lang": "en",
+   "title": "JEPA is hard..",
+   "published": "2026-11-13T17:54:34+00:00",
+   "url": "https://www.youtube.com/watch?v=cmBD5u7F5zQ",
+   "isShort": false,
+   "views": 111158,
+   "description": "Try Verda Inference today: frontier open models like Kimi K3.1 Pro and Deepseek V4.1 through one OpenAI-compatible API. Switch in three lines: base URL, API key, model ID. \n\nUse Code CALEB-75 and get 75% off your 1st top-up (up to $75)\nhttps://verda.com/inference?utm_source=cwc&utm_medium=sponsorship&utm_campaign=bundle_h2_2026&utm_content=jepa\n\nJEPA uses latent space representation as a target to"
+  },
+  {
+   "id": "4pjeaeK4S9o",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Huang's Nvidia Legacy",
+   "published": "2026-11-13T17:00:36+00:00",
+   "url": "https://www.youtube.com/shorts/4pjeaeK4S9o",
+   "isShort": true,
+   "views": 10968,
+   "description": "Jensen Huang built Nvidia over 30 years with relentless passion. Can anyone replace him? Explore the challenge facing AI's most iconic leader.\n\n---------------------------------------------------------------------------------------------------------\nFind us on YouTube:\n🔵 IBM Technology: https://www.youtube.com/@IBMTechnology\n🔵 IBM: https://www.youtube.com/@IBM \n🔵 IBM Developer: https://youtube.com"
+  },
+  {
+   "id": "mAlsfafDW-U",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "I Trust My AI Agents to Merge Code… But NOT Ship It",
+   "published": "2026-11-13T14:42:41+00:00",
+   "url": "https://www.youtube.com/shorts/mAlsfafDW-U",
+   "isShort": true,
+   "views": 2996,
+   "description": "I trust my agents to merge code all night, but I definitely don't trust them to ship straight to production. Tests and reviews only tell you the code looks right.\n\nLaunchDarkly helps teams control and monitor how changes behave once they're live in production. They just launched Release Autopilot, where agents do the feature flag work that used to take an engineer: risk classification, success met"
+  },
+  {
+   "id": "-On9ZKGiMfA",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Gemini Decision 1: You Don’t Need an LLM to Make a Decision",
+   "published": "2026-11-13T14:00:09+00:00",
+   "url": "https://www.youtube.com/watch?v=-On9ZKGiMfA",
+   "isShort": false,
+   "views": 46413,
+   "description": "Gemini Decision 1 is Google's new decision model: it answers yes/no, multiple-choice and score questions about text, images, audio, PDFs and video, and returns a probability and a confidence score instead of generating text. In this video I show how the Gemini Decisions API works, how to call it in Python with every input type, where a decision model makes more sense than an LLM, and four mistakes"
+  },
+  {
+   "id": "Az2aRR51fDU",
+   "channel": "IBM Technology",
+   "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
+   "lang": "en",
+   "title": "Jensen Huang exits NVIDIA & does Claude Fable 5.2 count as AGI?",
+   "published": "2026-11-13T09:30:11+00:00",
+   "url": "https://www.youtube.com/watch?v=Az2aRR51fDU",
+   "isShort": false,
+   "views": 19566,
+   "description": "Visit Mixture of Experts podcast page to get more AI content  → https://ibm.biz/~MikQp78Aa\n\nWho can replace a founder like Jensen Huang?\n\nThis week on Mixture of Experts, host David Zax is joined by Derek Robertson, Bri Kopecki and Kiyu Gabriel.\n\nFirst, NVIDIA CEO Jensen Huang resigns after more than three decades leading a company whose long-term investments helped shape the AI industry. The pane"
+  },
+  {
+   "id": "HCJvnek8zZM",
+   "channel": "Krish Naik",
+   "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+   "lang": "en",
+   "title": "My ASUS AI Agent Computer: Local LLMs, Coding & Agent Demos",
+   "published": "2026-11-13T04:55:46+00:00",
+   "url": "https://www.youtube.com/watch?v=HCJvnek8zZM",
+   "isShort": false,
+   "views": 31317,
+   "description": "https://www.asus.com/microsite/agent-computer/in/?utm_source=official-site&utm_medium=asus-hero-banner&utm_campaign=Powering-Every-AI-Choice\nCan you run LLMs, write code, and build AI agents on your own workstation? In this video, I walk you through my ASUS AI Agent Computer and demonstrate local AI workflows—from running models with Ollama to comparing a local research agent against a cloud-based"
+  },
+  {
+   "id": "yVaVR2Ywfik",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "Who controls access to AI?",
+   "published": "2026-11-13T02:45:18+00:00",
+   "url": "https://www.youtube.com/shorts/yVaVR2Ywfik",
+   "isShort": true,
+   "views": 1958,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "XtykeVoSmP8",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "I think I figured it out",
+   "published": "2026-11-13T02:34:12+00:00",
+   "url": "https://www.youtube.com/watch?v=XtykeVoSmP8",
+   "isShort": false,
+   "views": 218221,
+   "description": "With Opus 5.5 and Fable 5.2 finally out, it's time to break down what you should be using each one for, and how they work together\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n"
+  },
+  {
+   "id": "y9JtCCZP2MQ",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "AIE CODE: Google DeepMind, OpenAI, ArtCraft, Cognition, Exa, Anthropic, Amp, et al",
+   "published": "2026-11-13T02:12:27+00:00",
+   "url": "https://www.youtube.com/watch?v=y9JtCCZP2MQ",
+   "isShort": false,
+   "views": 42754,
+   "description": "Live from San Francisco, AI Engineer Code Summit 2026 brings together engineers and technical leaders building with AI.\n\nSession Day 2: Thursday, November 12, 2026\nLivestream: 9:00 AM–6:00 PM Pacific (PST)\nVenue: Hilton San Francisco Union Square\n\nExplore the conference and agenda:\nhttps://ai.engineer/code\n\nSubscribe for more AI Engineer talks, livestreams, and event coverage:\nhttps://www.youtube."
+  },
+  {
+   "id": "Sjdvu4nHfDk",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "Anthropic Researcher explains how to train LLMs",
+   "published": "2026-11-12T22:09:15+00:00",
+   "url": "https://www.youtube.com/watch?v=Sjdvu4nHfDk",
+   "isShort": false,
+   "views": 82447,
+   "description": "Check out Jeremy on X: https://x.com/jeremyberman\n\nFrontier Pass members saw this video first! https://forwardfuture.com/frontier-pass\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ"
+  },
+  {
+   "id": "SOwUWPtXQ9I",
+   "channel": "Fireship",
+   "channelId": "UCsBjURrPoezykLs9EqgamOA",
+   "lang": "en",
+   "title": "Jensen Huang just pulled out of Nvidia...",
+   "published": "2026-11-12T21:17:10+00:00",
+   "url": "https://www.youtube.com/watch?v=SOwUWPtXQ9I",
+   "isShort": false,
+   "views": 2384454,
+   "description": "Manufact is the easiest way to build and deploy your MCP. Get $100 in free credits: https://manufact.com/fireship\n\nJensen Huang just resigned as Nvidia’s CEO four days after admitting to an affair with a suspected Chinese spy whose tiny Singapore company bought $4.8 billion of Nvidia GPUs. Let's dive in.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
+  },
+  {
+   "id": "PvhjesKPASs",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "Jensen Just Popped The AI Bubble",
+   "published": "2026-11-12T20:50:54+00:00",
+   "url": "https://www.youtube.com/watch?v=PvhjesKPASs",
+   "isShort": false,
+   "views": 127716,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/jensen-just-popped\n💎 Get all course resources 100% free: https://go.nicksaraev.com/jensen-just-popped-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain"
+  },
+  {
+   "id": "eDgHc2y1yIk",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "Can a Laptop Really Run a 744 Billion Parameter Model?",
+   "published": "2026-11-12T20:17:26+00:00",
+   "url": "https://www.youtube.com/shorts/eDgHc2y1yIk",
+   "isShort": true,
+   "views": 3469,
+   "description": "A developer ran GLM 5.2, a 744 billion parameter open model, on a laptop with 25 GB of RAM and no GPU, using Colibrì, a small open-source engine written in C. It works because GLM 5.2 is a mixture-of-experts model, so only about 40 billion parameters are active for each token.\n\nColibrì keeps about 10 GB of shared weights in RAM and streams the rest, around 370 GB of experts, from the SSD. It works"
+  },
+  {
+   "id": "2imEgVWkeoA",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Gemini 4 Hydrogen: Google's New Everyday Model",
+   "published": "2026-11-12T19:32:57+00:00",
+   "url": "https://www.youtube.com/shorts/2imEgVWkeoA",
+   "isShort": true,
+   "views": 286576,
+   "description": "Google just released Gemini 4 Hydrogen, its fastest Gemini 4 model and the successor to the Flash models. It scores one point above Gemini 4 Argon on the Artificial Analysis Intelligence Index, has four thinking levels (low, medium, high, xhigh), and costs $1.50 per million input tokens.\n\nGoogle's announcement: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gem"
+  },
+  {
+   "id": "w_D81Ii1HK0",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "The AI Security Framework Every Engineer Needs to Know",
+   "published": "2026-11-12T19:00:37+00:00",
+   "url": "https://www.youtube.com/watch?v=w_D81Ii1HK0",
+   "isShort": false,
+   "views": 17118,
+   "description": "AI agents are becoming increasingly powerful, but are they secure enough to run in production?\n\nIn this video, I break down how to secure AI agents in production using a practical three-layer security framework. We'll use a real-world enterprise sales agent connected to Google Drive, Slack, CRM, and email to understand the biggest security risks and how engineering teams can prevent them.\n\n🚀 What "
+  },
+  {
+   "id": "G11-Vmw7-PQ",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "Cheaper AI can lead to more spending",
+   "published": "2026-11-12T18:01:24+00:00",
+   "url": "https://www.youtube.com/shorts/G11-Vmw7-PQ",
+   "isShort": true,
+   "views": 1905,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "rBUb_OA-73o",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "Your Coding Agent Has a MASSIVE Blind Spot (You Need to Fix It)",
+   "published": "2026-11-12T14:20:07+00:00",
+   "url": "https://www.youtube.com/shorts/rBUb_OA-73o",
+   "isShort": true,
+   "views": 1899,
+   "description": "I've had agents break hundreds of times in production (sometimes in very embarrassing ways), and almost all the time it comes down to the blind spots in my coding agent. Your agent sees your code, but not what it does once it's running.\n\nThe Dynatrace MCP Server brings live production data to the coding agent in your IDE, so you can ask about your running systems in plain language and trace a prob"
+  },
+  {
+   "id": "gPNiuyYirfw",
+   "channel": "Two Minute Papers",
+   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+   "lang": "en",
+   "title": "DeepMind’s AI Just Did The Impossible",
+   "published": "2026-11-12T13:41:41+00:00",
+   "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+   "isShort": false,
+   "views": 311312,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The DeepMind paper AlphaProof Code is available here:\nhttps://deepmind.google/blog/introducing-alphaproof-code/\nhttps://deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Gal"
+  },
   {
    "id": "hvnPWgfmvyI",
    "channel": "IBM Technology",
@@ -242,20 +854,248 @@
    "published": "2026-11-12T12:00:39+00:00",
    "url": "https://www.youtube.com/watch?v=hvnPWgfmvyI",
    "isShort": false,
-   "views": 29839,
+   "views": 52693,
    "description": "Learn more about Why Observability Is Essential for AI Agents here → https://ibm.biz/~MBafoTJOL\n\nYour AI agent knows the system, but what about now? Matt Aiken explains how RAG and observability give AI agents documented knowledge plus live metrics, logs, and traces. Learn how better operational context helps teams investigate issues with evidence.\n\n 00:00 – See What AI Agents Still Don't Know\n 00"
+  },
+  {
+   "id": "TzZmDf60hIQ",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "Let AI redesign your work",
+   "published": "2026-11-12T07:50:40+00:00",
+   "url": "https://www.youtube.com/shorts/TzZmDf60hIQ",
+   "isShort": true,
+   "views": 1362,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "fLjGgbW0Ki8",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "Your Complete Guide to Fable 5.2 (When to Use It, Effort Levels, Prompting)",
+   "published": "2026-11-12T04:24:26+00:00",
+   "url": "https://www.youtube.com/watch?v=fLjGgbW0Ki8",
+   "isShort": false,
+   "views": 16604,
+   "description": "Fable 5.2 is the smartest model you can use in Claude Code right now, and it's also the fastest way to burn through your rate limits. So this is my guide to getting the most out of it!\n\nI cover where Fable is actually worth it over Opus 5.5 (and where it isn't), the effort level to run each one at, how I split the work so Fable plans and Opus builds, and how to prompt Fable for the best results.\n\n"
+  },
+  {
+   "id": "vlfCjWuv4es",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Rethinking Claude Code Best Practices — Lydia Hallie, Anthropic",
+   "published": "2026-11-12T03:26:55+00:00",
+   "url": "https://www.youtube.com/watch?v=vlfCjWuv4es",
+   "isShort": false,
+   "views": 707391,
+   "description": "The models have gotten really good, and most of what we've added to our Claude Code setups over the past year is now holding them back. In this talk I'll go through what Claude Code best practices look like for the Claude 5.5 models, what's still worth keeping, and what you no longer need to think about.\n\nSpeaker info:\nLydia Hallie\nMember of Technical Staff, Anthropic\nLydia Hallie is a Member of T"
+  },
+  {
+   "id": "ZZ19zhYnDKY",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "AIE CODE: Google DeepMind, Anthropic, SpaceXSI, TypeSafe, Lovable, Ramp, etc (System One theme)",
+   "published": "2026-11-12T02:16:57+00:00",
+   "url": "https://www.youtube.com/watch?v=ZZ19zhYnDKY",
+   "isShort": false,
+   "views": 115389,
+   "description": "Live from San Francisco, AI Engineer Code Summit 2026 brings together engineers and technical leaders building with AI.\n\nSession Day 1: Wednesday, November 11, 2026\nLivestream: 9:00 AM–6:00 PM Pacific (PST)\nVenue: Hilton San Francisco Union Square\n\nExplore the conference and agenda:\nhttps://ai.engineer/code\n\nSubscribe for more AI Engineer talks, livestreams, and event coverage:\nhttps://www.youtube"
+  },
+  {
+   "id": "XIMvFSHzQ9I",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "Google says its AI is immune to prompt injection",
+   "published": "2026-11-12T02:00:05+00:00",
+   "url": "https://www.youtube.com/shorts/XIMvFSHzQ9I",
+   "isShort": true,
+   "views": 2889,
+   "description": "Google says Gemini 4 Carbon blocked every attack on the Gray Swan prompt injection benchmark, with a 0% attack success rate. But a model passing a benchmark doesn’t make every AI app built on it secure.\n\nEchoLeak (CVE-2025-32711), found by Aim Security, was the first known zero-click prompt injection exploit in a production AI system. One email, phrased like a normal message, got past Microsoft 36"
+  },
+  {
+   "id": "cWrYEBlWpcY",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Stop Shipping LLM Settings That Only Win on Paper - Rohan Pandey & Balaji Varadarajan, DigitalOcean",
+   "published": "2026-11-12T00:00:27+00:00",
+   "url": "https://www.youtube.com/watch?v=cWrYEBlWpcY",
+   "isShort": false,
+   "views": 7441,
+   "description": "Most LLM serving \"wins\" come from turning up a single setting, and on production hardware that setting often has little to do with what your users actually get. Rohan Pandey and Balaji Varadarajan walk through the optimization agent DigitalOcean runs on its AMD MI355 inference servers: it proposes a vLLM and Kubernetes configuration, rolls it out, measures throughput under real latency targets, an"
+  },
+  {
+   "id": "yzx4IuEh_tU",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Your SKILL.md Is 70% Stuff the Model Already Knows - Nikolay Petrov, Intel",
+   "published": "2026-11-11T23:00:23+00:00",
+   "url": "https://www.youtube.com/watch?v=yzx4IuEh_tU",
+   "isShort": false,
+   "views": 18390,
+   "description": "Adding a line to a skill takes seconds, but removing one is scary, so skills only grow. Nikolay Petrov shows how to see inside a skill: split it into small checkable claims, test the model with and without each one, and get a line-by-line map of what the skill actually teaches, what the model already knew, and what makes it worse. The first skill they tested was 70% things the model already knew. "
+  },
+  {
+   "id": "LFzBzzHZESE",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "AMA with me and the team!",
+   "published": "2026-11-11T22:52:54+00:00",
+   "url": "https://www.youtube.com/watch?v=LFzBzzHZESE",
+   "isShort": false,
+   "views": 10250,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "0EnLxIbAvYk",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Your Spec Has Bugs. Catch Them Before Your Agent Codes. - Rajath Mahendrappa Kotyal, AWS",
+   "published": "2026-11-11T22:00:35+00:00",
+   "url": "https://www.youtube.com/watch?v=0EnLxIbAvYk",
+   "isShort": false,
+   "views": 6198,
+   "description": "Spec-driven development only works if the spec is right, and specs are full of quiet bugs: rules that can't both hold, missing failure cases, sentences with two meanings. Your coding agent will faithfully build every one of them. Rajath Mahendrappa Kotyal shows how Kiro catches these before any design or code is generated by pairing LLMs with SMT solvers, turning the model's own disagreement into "
+  },
+  {
+   "id": "D_4Rn6uLdQM",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "225,000 Lines of Tests, Written and Merged by Agents - Kush Agrawal, Duolingo",
+   "published": "2026-11-11T21:00:23+00:00",
+   "url": "https://www.youtube.com/watch?v=D_4Rn6uLdQM",
+   "isShort": false,
+   "views": 8912,
+   "description": "Duolingo's iOS app has nearly 2 million lines of code, and its unit test coverage lagged far behind. Kush Agrawal walks through the autonomous pipeline that fixed it: scheduled workflows pick untested code, coding agents open pull requests, and a lifecycle manager monitors CI, fixes failures, runs AI review and merges, with engineers as the final reviewers. Since March it has merged more than 700 "
+  },
+  {
+   "id": "wpFw66kKixU",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "I Threw $1000 at Fable 5.2 to Build The Coolest Demos Possible",
+   "published": "2026-11-11T20:35:24+00:00",
+   "url": "https://www.youtube.com/watch?v=wpFw66kKixU",
+   "isShort": false,
+   "views": 166589,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/threw-1000-fable\n💎 Get all course resources 100% free: https://go.nicksaraev.com/threw-1000-fable-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain Eng"
+  },
+  {
+   "id": "oeknLUsN_GE",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Agents Made Code Free. Maintaining It Didn't Get Cheaper. - Dmitry Buykin, Maersk",
+   "published": "2026-11-11T20:00:12+00:00",
+   "url": "https://www.youtube.com/watch?v=oeknLUsN_GE",
+   "isShort": false,
+   "views": 7094,
+   "description": "Coding agents made writing code almost free, but maintaining it didn't get any cheaper. Dmitry Buykin shares what happens months in, once agents write most of a large production codebase: tests that pass while production breaks, work nobody asked for, rules that contradict each other, and sprawl no one can review. He covers the patterns that actually help, from replaying real tasks and expert-owne"
   },
   {
    "id": "iXWSYlAX5Lg",
    "channel": "Y Combinator",
    "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
    "lang": "en",
-   "title": "Inside Theranos with ex-Employee Tyler Shultz",
+   "title": "The Whistleblower Who Took on Theranos",
    "published": "2026-11-11T19:44:03+00:00",
    "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
    "isShort": false,
-   "views": 25556,
+   "views": 38617,
    "description": "With Theranos and Elizabeth Holmes back in the conversation, we’re revisiting one of the most remarkable firsthand accounts of what actually happened inside the company.\n\nTyler Shultz joined Theranos fresh out of Stanford as a true believer in its mission. His grandfather, former Secretary of State George Shultz, sat on the company’s board, and Elizabeth Holmes had become a mentor and even a prese"
+  },
+  {
+   "id": "icK1JRoEb2E",
+   "channel": "ByteMonk",
+   "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
+   "lang": "en",
+   "title": "How China Is Getting NVIDIA GPUs Despite the Ban: The Megaspeed Files",
+   "published": "2026-11-11T16:10:58+00:00",
+   "url": "https://www.youtube.com/watch?v=icK1JRoEb2E",
+   "isShort": false,
+   "views": 56451,
+   "description": "Megaspeed, a Singapore-based Nvidia cloud partner, reportedly imported at least $4.6 billion of Nvidia hardware, including more than 136,000 GPUs, in under three years (Bloomberg). Authorities are investigating whether it helped Chinese companies access chips that cannot be exported to China; Nvidia says its inspections found no evidence of that.\n\nWe use the case to explain how AI infrastructure a"
+  },
+  {
+   "id": "OBNVzWYMKbE",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "Progress?",
+   "published": "2026-11-11T15:50:36+00:00",
+   "url": "https://www.youtube.com/watch?v=OBNVzWYMKbE",
+   "isShort": false,
+   "views": 198197,
+   "description": "Google released Gemini 4 Carbon and honestly, it's not what I expected and it might prove Google is taking even more steps in the right direction, lets talk about it \n\nThanks to WorkOS for sponsoring! Check passport out here: https://soydev.link/workos\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seo"
+  },
+  {
+   "id": "qvrbwZ3V4-o",
+   "channel": "Krish Naik",
+   "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+   "lang": "en",
+   "title": "AI Safety And LLM Security New Playlist- Why To Learn In 2027- Prompt Injection LLM01",
+   "published": "2026-11-11T15:07:25+00:00",
+   "url": "https://www.youtube.com/watch?v=qvrbwZ3V4-o",
+   "isShort": false,
+   "views": 26765,
+   "description": "Code github: https://github.com/krishnaik06/Ai-Safety-And-LLM-Security\nLearn from us \nVisit: https://krishnaik.in/liveclasses\n\n🚨 **Why AI Safety and LLM Security Are More Important Than Ever in 2027!** 🔐🤖\n\nAI is evolving rapidly! We are moving beyond simple chatbots and LLM applications toward **AI Agents, Agentic RAG, Multi-Agent Systems, and autonomous AI workflows** that can access databases, e"
+  },
+  {
+   "id": "u8zaX7Jksv8",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "Leave Tech and Do Farming? Let’s Do the Math",
+   "published": "2026-11-11T13:30:39+00:00",
+   "url": "https://www.youtube.com/watch?v=u8zaX7Jksv8",
+   "isShort": false,
+   "views": 296665,
+   "description": "AI is automating tech work. Many people are thinking of alternate career options. In this video, we will go over these career options one by one and discuss pros and cons with each options. We will also discuss 2 solid action items you can work on for each option. The video is meant for tech workers. for freshers/students we will make another video later on.\n\nLeave Tech PDF Guide: https://codebasi"
+  },
+  {
+   "id": "QcuoOgv2LI0",
+   "channel": "Harkirat Singh",
+   "channelId": "UCWX0cUR2rZcqKei1Vstww-A",
+   "lang": "hi",
+   "title": "10 AI Project ideas in 30 minutes for the Vibe coding era",
+   "published": "2026-11-11T13:00:37+00:00",
+   "url": "https://www.youtube.com/watch?v=QcuoOgv2LI0",
+   "isShort": false,
+   "views": 125475,
+   "description": "In this video, Harkirat gives you almost 10 project ideas in the AI niche to build from scratc. \n\nhttps://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\n📚 𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹𝘀/𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀:\nLive Link → \nGitHub Repository (give it a star ⭐) → \n\n🔗 𝗟𝗶𝗻𝗸𝘀:\nCohort → https://100xdevs.com\nTwitter → https://twitter.com/kirat_tw\nLinkedin → https://linkedin.com/in/kirat-li\nInstagram → https://www.in"
+  },
+  {
+   "id": "dY4GIuJM_Qw",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "How Anthropic’s Revenue Grew 80x?",
+   "published": "2026-11-11T12:10:07+00:00",
+   "url": "https://www.youtube.com/shorts/dY4GIuJM_Qw",
+   "isShort": true,
+   "views": 6752,
+   "description": "What if most of your company’s code wasn’t written by people?\n\nThat’s already happening at Anthropic.\n\nClaude Code is behind most of it.\n\nAnd a migration that usually takes weeks was done in 4 days.\n\nWould you trust AI with production code?\n\nWatch full video - https://youtu.be/JzrEsnAAXkc?si=Q9vJBpWGlVj4Zp-B\n\nFollow us on Instagram :\nDhaval - https://www.instagram.com/dhavalcodebasics/\nCodebasics "
+  },
+  {
+   "id": "FCmLuTENOp0",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "Gemini Carbon, NVIDIA CEO AFFAIR, Fable 5.2, Meta Muse Ember, GPT Image 2.6, Minimax H3: AI NEWS",
+   "published": "2026-11-11T11:00:25+00:00",
+   "url": "https://www.youtube.com/watch?v=FCmLuTENOp0",
+   "isShort": false,
+   "views": 111560,
+   "description": "Hire Viktor for your team: https://ref.viktor.com/mberman-yt\nUse code MATTHEWBERMAN100 for $100 in credits\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.sp"
   },
   {
    "id": "NuL5VFS8Prs",
@@ -266,8 +1106,212 @@
    "published": "2026-11-11T09:30:16+00:00",
    "url": "https://www.youtube.com/watch?v=NuL5VFS8Prs",
    "isShort": false,
-   "views": 12335,
+   "views": 14738,
    "description": "Visit Security Intelligence podcast page to get more AI content  → https://ibm.biz/~93M8GNpAP\n\nHackers spent months planning a $6 billion cryptocurrency heist. How did they get past security controls, and what can defenders learn from the attack?\n\nThis week on Security Intelligence, Seth Glasgow, Dimple Ahluwalia and Suja Viswesan join host Patrick Austin to unpack three major cybersecurity storie"
+  },
+  {
+   "id": "8ZLhSNvG2aY",
+   "channel": "Caleb Writes Code",
+   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
+   "lang": "en",
+   "title": "why Fable 5.2 is the next frontier..",
+   "published": "2026-11-11T08:58:57+00:00",
+   "url": "https://www.youtube.com/watch?v=8ZLhSNvG2aY",
+   "isShort": false,
+   "views": 51742,
+   "description": "Micro Center is THE AI Destination: https://micro.center/ef37f4 \nCheck out Micro Center's Newest Austin, Texas Store: https://micro.center/2539b0 \nShop Micro Center's Tech Deals: https://micro.center/f8d310 \nVisit Micro Center News: https://micro.center/f0d341\n\nAnthropic's new Fable 5.2 scores huge jump in robotics (Robo Dojo) in simulation showing potential downstream use cases for how useful LLM"
+  },
+  {
+   "id": "ZBJV-hA-tLM",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "What software provides when AI bypasses the interface",
+   "published": "2026-11-11T07:33:33+00:00",
+   "url": "https://www.youtube.com/shorts/ZBJV-hA-tLM",
+   "isShort": true,
+   "views": 4351,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "_iRUnZ_BFkA",
+   "channel": "Krish Naik",
+   "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+   "lang": "en",
+   "title": "How to Debug & Manage UiPath Automations Using Coding Agents | UiPath Tutorial",
+   "published": "2026-11-11T07:12:22+00:00",
+   "url": "https://www.youtube.com/watch?v=_iRUnZ_BFkA",
+   "isShort": false,
+   "views": 8990,
+   "description": "Learn how to troubleshoot, debug, and manage UiPath automations using *UiPath for Coding Agents* — all through natural-language commands!\n\nIn this hands-on tutorial, we'll explore how AI coding agents can help diagnose failed automation jobs, identify root causes, fix credential issues, and manage UiPath Orchestrator resources without manually navigating multiple interfaces.\n\nWe'll work with a rea"
+  },
+  {
+   "id": "o5fwia7nCMQ",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "Anthropic’s IPO Filing Reveals Why Cheap AI Subscriptions Won’t Last",
+   "published": "2026-11-11T02:00:14+00:00",
+   "url": "https://www.youtube.com/shorts/o5fwia7nCMQ",
+   "isShort": true,
+   "views": 15870,
+   "description": "AI subscriptions are likely to become much more expensive. We examine why current pricing models may soon fail to cover actual usage costs.\n\nAnthropic's recent IPO filing provides a glimpse into the economics of large-scale model deployment. While users currently pay a flat fee, many agents run for hours at a time, consuming compute resources that far exceed the price of a standard monthly plan. W"
+  },
+  {
+   "id": "iK9gmxXyBR0",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Pick Problems That Survive When AI Solves Coding - Ara Khan, Cline",
+   "published": "2026-11-11T00:00:32+00:00",
+   "url": "https://www.youtube.com/watch?v=iK9gmxXyBR0",
+   "isShort": false,
+   "views": 9945,
+   "description": "What will you work on once frontier labs solve coding? Ara Khan traces the rise of coding agents and where recursive self-improvement takes them next, connecting the feedback loops across evals, agent harnesses, inference and training. He separates measured progress from hype to help you find the real bottlenecks and choose problems that will last.\n\nAra Khan, Cline: https://x.com/arafatkatze | htt"
+  },
+  {
+   "id": "L2acYRMzig8",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "AI made Box features obsolete before launch",
+   "published": "2026-11-10T23:57:13+00:00",
+   "url": "https://www.youtube.com/shorts/L2acYRMzig8",
+   "isShort": true,
+   "views": 10713,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "583ThJIqQ7k",
+   "channel": "AI Explained",
+   "channelId": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+   "lang": "en",
+   "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+   "published": "2026-11-10T23:11:36+00:00",
+   "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+   "isShort": false,
+   "views": 228352,
+   "description": "I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cover in one video, but let’s explore everything from how fast AI is accelerating AI, five benchmarks few others will talk about, why Simple Bench got saturated but meta-simple bench might not have, Internal model 4, remote labour automation a"
+  },
+  {
+   "id": "5mA9Hab09Do",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "13 INSANE Things You Can Build w/ Claude Fable 5.2",
+   "published": "2026-11-10T23:08:45+00:00",
+   "url": "https://www.youtube.com/watch?v=5mA9Hab09Do",
+   "isShort": false,
+   "views": 313253,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/13-insane-things\n💎 Get all course resources 100% free: https://go.nicksaraev.com/13-insane-things-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain Eng"
+  },
+  {
+   "id": "hFNbPmzzcEs",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Your Agent Doesn't Need an LLM for Every Decision - Raymond Weitekamp, OpenProse",
+   "published": "2026-11-10T23:00:07+00:00",
+   "url": "https://www.youtube.com/watch?v=hFNbPmzzcEs",
+   "isShort": false,
+   "views": 19620,
+   "description": "Recursive language models have become a powerful harness pattern for LLMs. Raymond Weitekamp shows how the same idea applies to decision models, the fast classifiers also called System One models, to build far more efficient workflows for coding agents, information retrieval and computer use. He introduces Recursive Decision Models, shares a vision for real-time interfaces he calls Operating Syste"
+  },
+  {
+   "id": "hMEQ4rdaOLw",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "11 More Tiny Coding Agent Fixes With A Stupid Amount Of Payoff (Learn These Now)",
+   "published": "2026-11-10T22:57:03+00:00",
+   "url": "https://www.youtube.com/watch?v=hMEQ4rdaOLw",
+   "isShort": false,
+   "views": 16764,
+   "description": "Coding agents keep hitting the same problems for you: saying the work is done when it isn't, tests that pass while the app is still broken, ignoring your rules, burning through your limits, etc.\n\nIn this video I go through 11 of them and the tiny fix for each one, built into your AI layer (skills, rules, hooks) through a conversation with your agent where you review and sign off on every change.\n\n"
+  },
+  {
+   "id": "DxP5aW4VknQ",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Your Sub-Agents Are a Distributed System. Treat Them Like One. - Girish Konda, Microsoft",
+   "published": "2026-11-10T22:00:07+00:00",
+   "url": "https://www.youtube.com/watch?v=DxP5aW4VknQ",
+   "isShort": false,
+   "views": 6095,
+   "description": "When an orchestrator hands work to sub-agents, you've built a distributed system, and you inherit its classic failures: half-finished work reported as success, guesses read back as facts, rate limits the orchestrator never sees, and retries that run side effects twice. Girish Konda maps each failure to the distributed-systems idea that already explains it, with examples from his open-source MCP Pa"
+  },
+  {
+   "id": "SlFMPTdKuAk",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Gemini 4 Carbon : The New Frontier",
+   "published": "2026-11-10T21:16:11+00:00",
+   "url": "https://www.youtube.com/shorts/SlFMPTdKuAk",
+   "isShort": true,
+   "views": 49571,
+   "description": "Google's Gemini 4 Carbon is out for developers: 60 on the Artificial Analysis Intelligence Index, a 1M-token context window, up to 1M output tokens, and an introductory price of $2 in and $10 out per million tokens until November 30. I tested Google's \"runs for days\" claim by leaving it alone to rebuild a historic fort in 3D. Full video: https://youtu.be/lQ6wwLHqDAg\n\nGoogle's announcement: https:/"
+  },
+  {
+   "id": "fTUinMqA1XQ",
+   "channel": "AI Engineer",
+   "channelId": "UCLKPca3kwwd-B59HNr-_lvA",
+   "lang": "en",
+   "title": "Your Team's Agents Are All Shipping to the Same Code at Once - Patrick Debois, Tessl",
+   "published": "2026-11-10T21:00:02+00:00",
+   "url": "https://www.youtube.com/watch?v=fTUinMqA1XQ",
+   "isShort": false,
+   "views": 8832,
+   "description": "Your whole team runs coding agents now, and all of them land on the same main branch. Continuous delivery wasn't built for that. Patrick Debois maps what breaks when a software factory goes multiplayer, and the patterns that fix it: one main for the agents, one board for the people.\n\nPatrick Debois, Tessl: https://x.com/patrickdebois | https://tessl.io"
+  },
+  {
+   "id": "yh5IAUow4Hc",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "Nobody Is Competing With Anthropic",
+   "published": "2026-11-10T19:38:40+00:00",
+   "url": "https://www.youtube.com/watch?v=yh5IAUow4Hc",
+   "isShort": false,
+   "views": 280532,
+   "description": "Fable 5.2 may not be as big of a jump as Opus 5 to Opus 5.5, but Anthropic is still impressing me and I wanna break down why.\n\nThank you Blacksmith for sponsoring! Check them out at: https://soydev.link/blacksmith\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #program"
+  },
+  {
+   "id": "1FurWDiK9A4",
+   "channel": "Fireship",
+   "channelId": "UCsBjURrPoezykLs9EqgamOA",
+   "lang": "en",
+   "title": "Did Anthropic just save its $1 trillion IPO?",
+   "published": "2026-11-10T18:19:55+00:00",
+   "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+   "isShort": false,
+   "views": 1693983,
+   "description": "Mux is the video API that translates audio and answers questions about your video. Get $50 in free credits: https://mux.com/fireship\n\nAnthropic just dropped Fable and Mythos 5.2 in the middle of a rocky IPO roadshow. Let's dive into what they can do 🐎.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
+  },
+  {
+   "id": "lQ6wwLHqDAg",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Gemini 4 Carbon Is Finally Here, And It's a Beast!",
+   "published": "2026-11-10T16:10:05+00:00",
+   "url": "https://www.youtube.com/watch?v=lQ6wwLHqDAg",
+   "isShort": false,
+   "views": 53199,
+   "description": "Gemini 4 Carbon is Google's new model for long engineering tasks. I had early access, so this video skips the benchmarks and shows the outputs: a Three.js open world, a 3D studio, a house built from a floor plan, a historic fort rebuilt over 100+ unattended passes in a one-month-old engine, GPU experiments, and a neural network written by hand with no training. You'll also get the four prompting r"
+  },
+  {
+   "id": "l32KKNKdpIk",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "Gemini 4 Carbon is Live!",
+   "published": "2026-11-10T16:03:17+00:00",
+   "url": "https://www.youtube.com/watch?v=l32KKNKdpIk",
+   "isShort": false,
+   "views": 64824,
+   "description": "Gemini 4 Carbon is finally live for people to access and try out. In this video I go through how this model is different from Argon and how it really changes making software, along with Fable 5.2\n\nBlog: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\n\n2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrLeADw\n\nTwitter: https://x.co"
   },
   {
    "id": "4uvq8Cz3A7Y",
@@ -278,8 +1322,128 @@
    "published": "2026-11-10T12:00:24+00:00",
    "url": "https://www.youtube.com/watch?v=4uvq8Cz3A7Y",
    "isShort": false,
-   "views": 41388,
+   "views": 49126,
    "description": "Learn more about Knowledge Distillation here → https://ibm.biz/~9OAE6ZHmW\n\nSmall AI models can learn from much larger ones. Aadam Mulla explains model distillation, where student models learn from a teacher’s soft labels and dark knowledge. Learn how distillation balances AI capability, speed, cost, and deployment.\n\n 00:00 – Understand What Model Distillation Does\n 00:36 – See Why Smaller AI Model"
+  },
+  {
+   "id": "G-2GzcpXaj4",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "What is an API?",
+   "published": "2026-11-10T11:30:04+00:00",
+   "url": "https://www.youtube.com/shorts/G-2GzcpXaj4",
+   "isShort": true,
+   "views": 70808,
+   "description": ""
+  },
+  {
+   "id": "vug73goPJaM",
+   "channel": "Two Minute Papers",
+   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
+   "lang": "en",
+   "title": "Is Software Over?",
+   "published": "2026-11-10T10:15:57+00:00",
+   "url": "https://www.youtube.com/watch?v=vug73goPJaM",
+   "isShort": false,
+   "views": 187155,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The papers and sources are available here:\nMirrorCode: https://arxiv.org/abs/2606.30182\nREMEND: https://huggingface.co/udiboy1209/REMEND\nWebUI-95: https://tommasocalo.github.io/papers/26-webui95-chiea.pdf\nPhotocraft: https://github.com/storytold/photocraft\n\n🙏 We would like to thank our generous Patreon supporter"
+  },
+  {
+   "id": "BsWS2dImirs",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Claude Fable 5.2: The New Frontier from Anthropic!",
+   "published": "2026-11-10T03:05:08+00:00",
+   "url": "https://www.youtube.com/shorts/BsWS2dImirs",
+   "isShort": true,
+   "views": 161684,
+   "description": "Anthropic just released Claude Fable 5.2. Artificial Analysis ranks it number one on its Intelligence Index at 65, five points ahead of Gemini 4 Carbon, but only at the Max effort setting, which costs $26.54 per task. Anthropic says 1,000 agents built a prototype operating system in eight days and turned the existing proof of Fermat’s Last Theorem into machine-checkable code in 30 hours. It also s"
+  },
+  {
+   "id": "3Ofzc_x_FPU",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "AI Can't Handle Law or Finance Jobs Yet",
+   "published": "2026-11-10T02:00:05+00:00",
+   "url": "https://www.youtube.com/shorts/3Ofzc_x_FPU",
+   "isShort": true,
+   "views": 3921,
+   "description": "GDPx is a new SemiAnalysis benchmark that tests AI agents on 206 real professional tasks across 11 fields, including finance, law, chip design and cybersecurity. The best model overall, Claude Opus 5.5, scored 12%, and no model fully completed a single finance task.\n\nThe finance tasks were built around a reconstructed private equity deal: a fund buying about 62% of a snack company for around $880 "
+  },
+  {
+   "id": "oW98tLm7suY",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "Fable 5.2 just solved software",
+   "published": "2026-11-10T00:56:42+00:00",
+   "url": "https://www.youtube.com/shorts/oW98tLm7suY",
+   "isShort": true,
+   "views": 11456,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "pf5tXJZM1Rw",
+   "channel": "Fireship",
+   "channelId": "UCsBjURrPoezykLs9EqgamOA",
+   "lang": "en",
+   "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
+   "published": "2026-11-09T21:04:16+00:00",
+   "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
+   "isShort": false,
+   "views": 1887966,
+   "description": "Greptile is the only AI code reviewer that actually runs your code. Try it for free: https://greptile.com/go/fireship\n\nA model you're not allowed to use just tore through the Linux kernel and came back with 948 root exploits... let's break it down.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
+  },
+  {
+   "id": "foCBPrpbO68",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "Anthropic has just DROPPED A NUKE! (Fable 5.2)",
+   "published": "2026-11-09T20:25:37+00:00",
+   "url": "https://www.youtube.com/watch?v=foCBPrpbO68",
+   "isShort": false,
+   "views": 428853,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/anthropic-has-just\n💎 Get all course resources 100% free: https://go.nicksaraev.com/anthropic-has-just-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain"
+  },
+  {
+   "id": "0vNyVMDFdkg",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "Fable 5.2 solved all software...",
+   "published": "2026-11-09T19:02:56+00:00",
+   "url": "https://www.youtube.com/watch?v=0vNyVMDFdkg",
+   "isShort": false,
+   "views": 313115,
+   "description": "Check out Eight Sleep's Pod 6: https://www.eightsleep.com/matthewberman\nUse code 'MATTHEWBERMAN' for up to $200 off\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nCheck out my tests:\nPhoton Image Editor — https://claude.ai/artifact/WbkND2LEF984GAVpKvdBBs\nQuadrille Spreadsheet — https://claude.ai/artifact/NPxoR5gnxVVsXnyPAkKpYS\nBullet vs Water Balloon — https://claude.ai/a"
+  },
+  {
+   "id": "yMKHtJpgZzc",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "13 Mind-Blowing AI Hacks That Can Actually Change Your Life",
+   "published": "2026-11-09T15:22:02+00:00",
+   "url": "https://www.youtube.com/watch?v=yMKHtJpgZzc",
+   "isShort": false,
+   "views": 232933,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/13-mind-blowing-ai\n💎 Get all course resources 100% free: https://go.nicksaraev.com/13-mind-blowing-ai-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain"
+  },
+  {
+   "id": "WJpeW9lCSUM",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "NVIDIA's Nemotron Bolt 74B-A9B 2 Bit",
+   "published": "2026-11-09T14:00:18+00:00",
+   "url": "https://www.youtube.com/watch?v=WJpeW9lCSUM",
+   "isShort": false,
+   "views": 67203,
+   "description": "In this video, I look at a new model and a set of techniques that NVIDIA has used to make this 2-bit model perform at a level much better than expected. \n\nResearch Report: https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-24GB/\nHF: https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB\nParetoQ: https://arxiv.org/pdf/2502.02631\n\n2nd Channel:  https://www.youtube.com/channel/U"
   },
   {
    "id": "GpZ5T51jE4U",
@@ -290,8 +1454,32 @@
    "published": "2026-11-09T12:00:33+00:00",
    "url": "https://www.youtube.com/watch?v=GpZ5T51jE4U",
    "isShort": false,
-   "views": 71911,
+   "views": 83352,
    "description": "Learn more about Spec-Driven Development here → https://ibm.biz/~zVL5K4NRM\n\nAI coding is making software specifications relevant again. Cedric Clyburn compares Spec-Driven Development with Waterfall and explains how evolving specs give AI agents better context. Learn why clearer specs can mean fewer prompts, faster iterations, and better code\n\n 00:00 – See Why AI Coding Needs Better Specs\n 00:43 –"
+  },
+  {
+   "id": "GtJKFhztgdM",
+   "channel": "Theo - t3.gg",
+   "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+   "lang": "en",
+   "title": "Coding Isn't About Code Anymore",
+   "published": "2026-11-09T06:41:14+00:00",
+   "url": "https://www.youtube.com/watch?v=GtJKFhztgdM",
+   "isShort": false,
+   "views": 240382,
+   "description": "AI has given engineers a new job, which is much more akin to gardening rather than coding, so let's talk about it\n\nThank you Coderabbit for sponsoring! Check them out at: https://soydev.link/coderabbit\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏"
+  },
+  {
+   "id": "TgLPAWKAPos",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "If AI saves time, why am I more tired? #ai #burnout",
+   "published": "2026-11-09T02:00:23+00:00",
+   "url": "https://www.youtube.com/shorts/TgLPAWKAPos",
+   "isShort": true,
+   "views": 3207,
+   "description": "AI productivity gains are leading to longer hours and burnout. We examine why using tools to automate work results in feeling drained.\n\nDespite the promise of efficiency, many professionals find that as they automate work, their actual output volume increases while their sense of satisfaction declines. This video explores the paradox of modern labor where technology speeds up tasks but does not ne"
   },
   {
    "id": "-XL2gClQ2gg",
@@ -302,7 +1490,7 @@
    "published": "2026-11-08T15:00:39+00:00",
    "url": "https://www.youtube.com/watch?v=-XL2gClQ2gg",
    "isShort": false,
-   "views": 52271,
+   "views": 57011,
    "description": "This week’s Paper Club is all about AI for biology. The cost of sequencing has collapsed, which means biology now generates more data than anyone can mine, and the models are finally catching up. We cover how falling sequencing costs are turning cancer care into a per-patient data problem, what it takes to model a cell rather than a molecule, what a language model trained on DNA actually learns, a"
   },
   {
@@ -314,8 +1502,68 @@
    "published": "2026-11-08T12:00:25+00:00",
    "url": "https://www.youtube.com/watch?v=H_GJapsoLyU",
    "isShort": false,
-   "views": 21504,
+   "views": 22685,
    "description": "Learn more about KV Cache here → https://ibm.biz/~6LPSw4Y8N\n\nThe same AI model can run differently across chips. Kaoutar El Maghraoui explains how GPUs, TPUs, and AI accelerators store and move KV cache during LLM inference. Learn why memory architecture and data movement can shape AI performance.\n\n 00:00 – Understand Why LLMs Need a KV Cache\n 00:46 – See How KV Cache Reuses Keys and Values\n 01:39"
+  },
+  {
+   "id": "UFKwzXbYrdk",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "AI That Thinks Without Words Is 2x Faster, But There’s a Catch",
+   "published": "2026-11-08T02:00:35+00:00",
+   "url": "https://www.youtube.com/shorts/UFKwzXbYrdk",
+   "isShort": true,
+   "views": 4799,
+   "description": "HybridAgent, from researchers at Stanford and Together AI, lets AI agents reason in their internal numerical representations instead of writing every step out in English. Text is only used for tool calls and final answers.\n\nIt cut text tokens by 35 to 55%, ran about 2x faster and lowered estimated decoding costs by up to 3.7x, with a 10.4% average gain across 11 benchmarks. It runs on a 10M-parame"
+  },
+  {
+   "id": "IfiTVZS-dhk",
+   "channel": "Caleb Writes Code",
+   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
+   "lang": "en",
+   "title": "AI stocks are crashing..",
+   "published": "2026-11-07T19:00:44+00:00",
+   "url": "https://www.youtube.com/watch?v=IfiTVZS-dhk",
+   "isShort": false,
+   "views": 82756,
+   "description": "Dex is a free AI talent agent for senior engineers. Tell it what you want next and get a short list of roles at top startups: https://meetdex.link/caleb-1\n\nAI infrastructure companies like CoreWeave, IREN, Nebius, and Cipher Mining are crashing in valuation. Hyperscalers like Microsoft, Google, and Meta on the other hand are still insulated from the falling valuation compared to neoclouds that str"
+  },
+  {
+   "id": "9-QCQX9DYEs",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "AI Bubble is starting to Pop...",
+   "published": "2026-11-07T17:44:40+00:00",
+   "url": "https://www.youtube.com/watch?v=9-QCQX9DYEs",
+   "isShort": false,
+   "views": 2005188,
+   "description": "Diwali offers is live on our Data Science and Data Analytics courses. If you are looking to upskill and enroll in any of these courses, use the links below:\n\nData Science: https://goharry.in/ds\nData Analytics: https://goharry.in/da\nContent Creator Bootcamp: https://goharry.in/ccb\n\nTimeStamps:\n00:00 - Introduction\n01:27 - Where it all started\n03:55 - The Exploding Cost of Training AI Models\n05:45 -"
+  },
+  {
+   "id": "lVbQqjAJpkE",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "12 months to the singularity",
+   "published": "2026-11-07T17:28:06+00:00",
+   "url": "https://www.youtube.com/watch?v=lVbQqjAJpkE",
+   "isShort": false,
+   "views": 161361,
+   "description": "Check out IntelliJ IDEA: https://jb.gg/air_ij_2026\n\nJoin My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship"
+  },
+  {
+   "id": "ToXnsh_KlNs",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "Windows Secret Command!",
+   "published": "2026-11-07T17:02:19+00:00",
+   "url": "https://www.youtube.com/shorts/ToXnsh_KlNs",
+   "isShort": true,
+   "views": 99303,
+   "description": ""
   },
   {
    "id": "GJ6PMUm5oTA",
@@ -326,7 +1574,7 @@
    "published": "2026-11-07T16:24:47+00:00",
    "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
    "isShort": false,
-   "views": 146261,
+   "views": 235353,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers\n\n📝 The Weight Space Programming work is available here:\nhttps://rikiyat.github.io/blog/weight-space-programming/\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedde"
   },
   {
@@ -338,8 +1586,44 @@
    "published": "2026-11-07T15:00:14+00:00",
    "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
    "isShort": false,
-   "views": 86647,
+   "views": 91124,
    "description": "Replit was building toward the AI coding era years before it had a name. In 2024, the company shipped an agent that could take a request in plain English, work through errors, provision its own infrastructure, and keep going until the software actually worked. The model companies even reached out to ask how Replit had pulled it off.\n\nCo-founder and CEO Amjad Masad had been thinking about making pr"
+  },
+  {
+   "id": "vpN3kwot8XY",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "The Ultimate AI Product Management Toolkit: Every Product Manager Must Know in 2027",
+   "published": "2026-11-07T03:57:25+00:00",
+   "url": "https://www.youtube.com/watch?v=vpN3kwot8XY",
+   "isShort": false,
+   "views": 10296,
+   "description": "AI tools are changing how product managers research, plan, build and ship. With new tools launching every week, the hard part is knowing which ones are actually worth your time.\n\nIn this live session, we will cover the best AI tools for every stage of product management and show you how to choose the right tools to build AI products and MVPs faster. You will also leave with a practical AI PM toolk"
+  },
+  {
+   "id": "7cFV4oDfwIc",
+   "channel": "ByteMonk",
+   "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
+   "lang": "en",
+   "title": "Did AI Just Solve an 'Impossible' Problem? | Full Breakdown",
+   "published": "2026-11-07T03:56:43+00:00",
+   "url": "https://www.youtube.com/watch?v=7cFV4oDfwIc",
+   "isShort": false,
+   "views": 50048,
+   "description": "The Exponential Time Hypothesis has been broken by a new AI algorithm. OpenAI's model just challenged decades of CS theory.\n\nFor years, computer scientists operated under the assumption that specific computational problems were inherently time-consuming. This belief served as a foundation for much of modern research. In October 2026, an OpenAI model produced a new algorithm that shifts our underst"
+  },
+  {
+   "id": "wXe420Q5-l8",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "AI Agents Write Code Faster Than Git Can Merge #ai #coding #tech",
+   "published": "2026-11-07T02:00:06+00:00",
+   "url": "https://www.youtube.com/shorts/wXe420Q5-l8",
+   "isShort": true,
+   "views": 6752,
+   "description": "AI agents are generating code so fast that they have outgrown Git. Anthropic saw daily merges jump from 2,500 to 30,000.\n\nWhen code generation hits this scale, standard version control becomes a bottleneck. This video examines how Anthropic scaled their infrastructure to handle the immense volume of automated commits and the challenges of managing AI agents that operate at such a high velocity.\n\nB"
   },
   {
    "id": "TFCDWrEBaFM",
@@ -350,8 +1634,32 @@
    "published": "2026-11-06T23:00:39+00:00",
    "url": "https://www.youtube.com/watch?v=TFCDWrEBaFM",
    "isShort": false,
-   "views": 112134,
+   "views": 150150,
    "description": "Anthropic released an article on their Code Review process and since T3 Code has seen as many as 800 pull requests filed in a day, lets compare their process to what I've experienced recently and see what differs!\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nSource:\nhttps://claude.dev/blog/solving-code-review-at-anthropic/\n\nWant to sponsor a video"
+  },
+  {
+   "id": "vfNrPcS6pxg",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "I Got Wrong Challan!",
+   "published": "2026-11-06T18:38:29+00:00",
+   "url": "https://www.youtube.com/shorts/vfNrPcS6pxg",
+   "isShort": true,
+   "views": 133946,
+   "description": ""
+  },
+  {
+   "id": "iw9SZgyahqg",
+   "channel": "Fireship",
+   "channelId": "UCsBjURrPoezykLs9EqgamOA",
+   "lang": "en",
+   "title": "The one thing holding theoretical CS together just broke... kinda",
+   "published": "2026-11-06T16:42:38+00:00",
+   "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
+   "isShort": false,
+   "views": 2115581,
+   "description": "Warp Factories is open infrastructure to build self-improving software factories. Get early access: https://warp.dev/fireship\n\nAn unnamed OpenAI model just wrote an algorithm that solves 3-SAT faster than exponential time, breaking a 27-year-old hypothesis that over 800 published papers depend on. Let's break it down.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://firesh"
   },
   {
    "id": "NYGf--dBeHA",
@@ -362,8 +1670,44 @@
    "published": "2026-11-06T16:00:09+00:00",
    "url": "https://www.youtube.com/watch?v=NYGf--dBeHA",
    "isShort": false,
-   "views": 16962,
+   "views": 17465,
    "description": "In this Social Radars episode we talk with Blake Scholl about one of the cleverest business model transformations in the history of startups: Boom's move into building gas turbines. When Rolls Royce pulled out as Boom's engine supplier, it seemed to many like fatally bad news. But instead it not only helped Boom solve boomless supersonic flight, but also enabled them to tap a huge new revenue stre"
+  },
+  {
+   "id": "EMIRXv2iE_Q",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "Your Coding Agent Knows Your Code, But Not Your Actual App (Here's the Fix)",
+   "published": "2026-11-06T15:15:48+00:00",
+   "url": "https://www.youtube.com/shorts/EMIRXv2iE_Q",
+   "isShort": true,
+   "views": 3795,
+   "description": "Your coding agent can read every file in your repo and still not really know your app - how the data connects, what depends on what, where it's deployed, or why it broke last night. All of that lives in the platforms your app runs on, not in the code, so what you need is one place where your agent can see the whole app and work with all of it.\n\nWith OutSystems MCP, any coding agent like Claude Cod"
+  },
+  {
+   "id": "AyzLIRBuUN8",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "What Exactly are AI Evals? And How to Build Your First One... Correctly!",
+   "published": "2026-11-06T14:00:21+00:00",
+   "url": "https://www.youtube.com/watch?v=AyzLIRBuUN8",
+   "isShort": false,
+   "views": 22886,
+   "description": "Thanks to Progress for sponsoring the video. checkout it out here: https://www.progress.com/agentic-rag/book-a-demo?utm_medium=paid-social&utm_source=promptengineering&utm_campaign=influencer\n\n\nAI evals are how you know whether an AI agent actually works. In this video, you'll learn what evals are, why testing an AI agent is different from testing regular software, and how to evaluate an agent wit"
+  },
+  {
+   "id": "C9HS3zMrGo0",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "AREX-2 - The Harness in the Model",
+   "published": "2026-11-06T14:00:01+00:00",
+   "url": "https://www.youtube.com/watch?v=C9HS3zMrGo0",
+   "isShort": false,
+   "views": 34624,
+   "description": "In this video, I go through AREX-2, a new 27B open-weights model from BAAI, fine-tuned from Qwen3.8-27B built to run the try, check and retry loop itself rather than leaving it all to your harness. \n\nPaper: https://arxiv.org/abs/2609.38288\nHF Link: https://huggingface.co/BAAI/AREX-2\nGitHub: https://github.com/VectorSpaceLab/AREX-2\n\n2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrL"
   },
   {
    "id": "x_5JijpzprU",
@@ -374,7 +1718,7 @@
    "published": "2026-11-06T09:30:07+00:00",
    "url": "https://www.youtube.com/watch?v=x_5JijpzprU",
    "isShort": false,
-   "views": 18519,
+   "views": 19324,
    "description": "Visit Mixture of Experts podcast page to get more AI content  → https://ibm.biz/~Rz77ywquX\n\nHow close are we to AI that can improve itself?\n\nThis week on Mixture of Experts, guest host Aili McConnon is joined by Chris Hay, Sascha Brodsky and Kiyu Gabriel tackle that question and more from the latest AI headlines.\n\nFirst, MIT researchers demonstrate a technique that uses AI to modify another model'"
   },
   {
@@ -386,8 +1730,152 @@
    "published": "2026-11-06T07:27:02+00:00",
    "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
    "isShort": false,
-   "views": 38729,
+   "views": 55341,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nChapters:\n00:00 Intro\n02:40 Why Robots Are Hard\n08:16 The Perfect Data Diet\n16:05 Intelligence Density\n20:13 Building AI Worlds\n22:10 Learning From Failure\n25:41 The Reality Gap\n29:35 Robots Get Injured Too\n31:28 100 Years in Seconds\n35:35 The Popcorn Robot\n37:35 Easy for Humans, Hard for AI\n39:57 Will AI Ever Be G"
+  },
+  {
+   "id": "_CQ2QEI63o8",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "Pika turns images and sound into an editable video",
+   "published": "2026-11-06T07:12:53+00:00",
+   "url": "https://www.youtube.com/shorts/_CQ2QEI63o8",
+   "isShort": true,
+   "views": 2859,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "s5gv46DcRSs",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "Build a Production Pipeline Live: Raw Files to a Medallion Lakehouse in 60 Minutes",
+   "published": "2026-11-06T02:23:31+00:00",
+   "url": "https://www.youtube.com/watch?v=s5gv46DcRSs",
+   "isShort": false,
+   "views": 10853,
+   "description": "Raw data rarely arrives ready for analysis. The medallion architecture gives your data pipeline a clear structure, moving data step by step from raw ingestion to clean, business-ready tables.\n\nIn this live session, we will explain what the bronze, silver and gold layers are and why the split exists. We will show you how to build bronze and silver layers with Delta tables in Databricks, then build "
+  },
+  {
+   "id": "d_e96anhlp4",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "Should you still learn to code in 2026? #softwareengineering #tech",
+   "published": "2026-11-06T02:00:35+00:00",
+   "url": "https://www.youtube.com/shorts/d_e96anhlp4",
+   "isShort": true,
+   "views": 9126,
+   "description": "Is learning to code still worth it in 2026? Linus Torvalds, the creator of Linux, called AI “a gateway drug” to programming, because it lowers the bar for beginners who might never have started.\n\nLinux kernel maintainers recently dropped the “Assisted-by” tag for AI-generated code, and Torvalds called stricter disclosure rules “utterly stupid.” He still warns that you need to be very careful using"
+  },
+  {
+   "id": "F4i_-wbmhC8",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "AI identified Breakout from 17,253 numbers",
+   "published": "2026-11-06T00:32:37+00:00",
+   "url": "https://www.youtube.com/shorts/F4i_-wbmhC8",
+   "isShort": true,
+   "views": 5976,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "bH9jjQL9DB0",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "OpenAI Just Dropped Dots, Your Own AI Agent That Works for You 24/7",
+   "published": "2026-11-05T21:34:39+00:00",
+   "url": "https://www.youtube.com/shorts/bH9jjQL9DB0",
+   "isShort": true,
+   "views": 15002,
+   "description": "You can now give ChatGPT a job and just walk away.\n\nOpenAI just rolled out these things called dots, and here's how they work.\n\nA dot is basically an always on agent that lives inside @ChatGPT.\n\nIt's powered by OpenAI’s family of frontier models.\n\nAnd it gets its own cloud computer.\n\nIt's like hiring an employee who shows up with their own laptop.\n\nYou don't babysit it with prompts.\n\nYou hand it s"
+  },
+  {
+   "id": "hu1YDJZYGTc",
+   "channel": "Matthew Berman",
+   "channelId": "UCawZsQWqfGSbCI5yjkdVkTA",
+   "lang": "en",
+   "title": "A 4B AI model that creates 3D game assets",
+   "published": "2026-11-05T20:32:08+00:00",
+   "url": "https://www.youtube.com/shorts/hu1YDJZYGTc",
+   "isShort": true,
+   "views": 8135,
+   "description": "Join My Newsletter for Regular AI Updates 👇🏼\nhttps://forwardfuture.com\n\nMy Links 🔗\n👉🏻 X: https://x.com/matthewberman\n👉🏻 Forward Future X: https://x.com/forwardfuture\n👉🏻 Instagram: https://www.instagram.com/matthewberman_ai\n👉🏻 Discord: https://discord.gg/u7wTTGWhuJ\n👉🏻 Spotify: https://open.spotify.com/show/6dBxDwxtHl1hpqHhfoXmy8\n\nMedia/Sponsorship Inquiries ✅ \nhttps://bit.ly/44TC45V"
+  },
+  {
+   "id": "m5FsWlrwFJM",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "How RAG, Fine-Tuning, LoRA & RL Fit Together in One AI System",
+   "published": "2026-11-05T17:30:23+00:00",
+   "url": "https://www.youtube.com/watch?v=m5FsWlrwFJM",
+   "isShort": false,
+   "views": 19120,
+   "description": "🔔 Join our next Applied AI cohort, taught by me and an OpenAI lead. Use YT25 for 25% off: https://maven.com/aishwarya-kiriti/genai-system-design?promoCode=YT25\n\nIs fine-tuning dead? OpenAI is winding down its self-service fine-tuning platform, while companies like Thinking Machines, Mistral, and Fireworks are investing heavily in it.\n\nSo what's really happening?\n\nIn this video, I break down why fi"
+  },
+  {
+   "id": "2dD4HXg-YJ4",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "Ripple 65B: A Chip Design Lab Just Beat Every US Open Model",
+   "published": "2026-11-05T16:01:13+00:00",
+   "url": "https://www.youtube.com/watch?v=2dD4HXg-YJ4",
+   "isShort": false,
+   "views": 130192,
+   "description": "In this video, I go through a new model that has come out from an interesting company that wasn't focused on making LLM models but is focused on creating models that can be used for chip design. \n\nBlog: https://www.ricursive.com/ripple\nHF: https://huggingface.co/ricursiveAI\n\n2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrLeADw\n\nTwitter: https://x.com/Sam_Witteveen \n\n🕵️ Interested"
+  },
+  {
+   "id": "3wCkFtIz88g",
+   "channel": "Nick Saraev",
+   "channelId": "UCbo-KbSjJDG6JWQ_MTZ_rNA",
+   "lang": "en",
+   "title": "How The #1 AI Engineer in The World Actually Uses AI",
+   "published": "2026-11-05T14:00:01+00:00",
+   "url": "https://www.youtube.com/watch?v=3wCkFtIz88g",
+   "isShort": false,
+   "views": 701099,
+   "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/1-ai-engineer\n💎 Get all course resources 100% free: https://go.nicksaraev.com/1-ai-engineer-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: "
+  },
+  {
+   "id": "h2sta8uHndU",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "8 Skills to Become a Forward Deployed Engineer (FDE)",
+   "published": "2026-11-05T13:30:08+00:00",
+   "url": "https://www.youtube.com/watch?v=h2sta8uHndU",
+   "isShort": false,
+   "views": 44606,
+   "description": "Forward deployed engineer is a new hot AI career role. In this video, we will discuss 8 skills that you need to become forward deployed engineer\n\nResources: https://codebasics.io/resources/8-skills-to-become-a-forward-deployed-engineer-fde \n\nFDE Bootcamp: https://codebasics.io/lp/bootcamp/fde-bootcamp-ai-engineers-1?utm_source=youtube&utm_medium=video&utm_campaign=fde_cohort1&utm_content=fde-8-ski"
+  },
+  {
+   "id": "PzK-XYKyn30",
+   "channel": "Harkirat Singh",
+   "channelId": "UCWX0cUR2rZcqKei1Vstww-A",
+   "lang": "hi",
+   "title": "The ₹56,600 Crore Binance Hack Explained",
+   "published": "2026-11-05T13:30:02+00:00",
+   "url": "https://www.youtube.com/watch?v=PzK-XYKyn30",
+   "isShort": false,
+   "views": 76349,
+   "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nI break down how North Korea's TraderTraitor group got in, how one EIP-7702 signature let them drain Binance's hot wallet for hours, where AI tools fit in, and how Binance is covering the hole.\n\n00:00 Binance's $6B hack\n00:38 The compromise: engineer #1's laptop\n01:15 The fake job interview\n02:18 Social engineering attacks"
+  },
+  {
+   "id": "DXLr6P-cOxM",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "8 Skills You Need to Become an AI PM",
+   "published": "2026-11-05T12:03:39+00:00",
+   "url": "https://www.youtube.com/shorts/DXLr6P-cOxM",
+   "isShort": true,
+   "views": 10414,
+   "description": "Thinking of moving into AI Product Management?\n\nYou don’t need to be an ML engineer. But one skill separates senior PMs from juniors.\n\nHere’s a quick look at all 8 skills in under a minute.\n\nWhich one would you work on first?\n\nWatch full video - https://youtu.be/JzrEsnAAXkc?si=Q9vJBpWGlVj4Zp-B\n\nFollow us on Instagram :\nDhaval - https://www.instagram.com/dhavalcodebasics/\nCodebasics - https://www.i"
   },
   {
    "id": "rXFV1ivDe6c",
@@ -398,7 +1886,7 @@
    "published": "2026-11-05T12:00:09+00:00",
    "url": "https://www.youtube.com/watch?v=rXFV1ivDe6c",
    "isShort": false,
-   "views": 526839,
+   "views": 568924,
    "description": "Learn more about Vector Databases here → https://ibm.biz/~aHY62ka9p\n\nDo AI applications still need vector databases? Martin Keen explores RAG, AI agents, embeddings, semantic search, and context windows to explain when vector databases matter and when simpler retrieval approaches work just as well. Learn how to choose the right retrieval architecture for your workload.\n\n00:00 - Are Vector Database"
   },
   {
@@ -410,8 +1898,56 @@
    "published": "2026-11-05T08:36:45+00:00",
    "url": "https://www.youtube.com/watch?v=tc8GNdrhozA",
    "isShort": false,
-   "views": 213909,
+   "views": 261307,
    "description": "OpenAI banned PewdiePie TWICE while he was building his own AI systems and the technical work behind it has me impressed, so lets see what he actually made and whether or not you should use it\n\nThank you Clerk for sponsoring! Check them out at: https://soydev.link/clerk\n\nSources:\nhttps://youtu.be/ODDJXGY_1kQ?si=Ka5jtWF7l3RiJ3EG\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor"
+  },
+  {
+   "id": "eynDCMF5Wmc",
+   "channel": "ByteMonk",
+   "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
+   "lang": "en",
+   "title": "How One Script Stole Millions From Polymarket #crypto #security #tech",
+   "published": "2026-11-05T04:11:15+00:00",
+   "url": "https://www.youtube.com/shorts/eynDCMF5Wmc",
+   "isShort": true,
+   "views": 3547,
+   "description": "On October 29, attackers compromised the company that supplied Polymarket’s website-monitoring code and swapped it for a version built to steal. Code that was only supposed to measure how fast the page loaded ended up using the trading software already on the page: selling users’ bets and moving money out of their wallets.\n\nThe lesson for developers: review what outside code can access and do, not"
+  },
+  {
+   "id": "dgAb-QWmVbw",
+   "channel": "Aish Reganti",
+   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
+   "lang": "en",
+   "title": "Did AI make my $100K CMU master's useless?",
+   "published": "2026-11-05T03:00:33+00:00",
+   "url": "https://www.youtube.com/shorts/dgAb-QWmVbw",
+   "isShort": true,
+   "views": 921,
+   "description": "Is a CS master's still worth it now that AI can teach you so much? I did my master's at Carnegie Mellon, ranked the #1 graduate computer science program, and I'd still go, for a different reason than most people expect.\n\nRandy Pausch, the CMU professor behind The Last Lecture, called them head fakes: the lessons you learn while you think you're learning something else. Much of the machine learning"
+  },
+  {
+   "id": "P6SH3-oqDrY",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "Hy4 Beats it's Preview Easily",
+   "published": "2026-11-05T02:30:39+00:00",
+   "url": "https://www.youtube.com/shorts/P6SH3-oqDrY",
+   "isShort": true,
+   "views": 4911,
+   "description": "Hy4 is finally out after the preview version was released back in August. Things are looking really good, but we're still waiting for the open weight.  Subscribe if you want to see a full video about it."
+  },
+  {
+   "id": "RYIV5E2Xq60",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "I REALLY Want Open Models to Win, But They Just Don't Cut It (Yet)",
+   "published": "2026-11-05T01:00:05+00:00",
+   "url": "https://www.youtube.com/watch?v=RYIV5E2Xq60",
+   "isShort": false,
+   "views": 14774,
+   "description": "I really want open-weight models like Kimi K3.1 to be a real option for agentic engineering. They match Opus 5.5 and GPT-6 Astra on the benchmarks and work great for smaller tasks, but on long running agentic work they stop following instructions and fall apart.\n\nIn this video I break down why, show how I tested it by having all three build the same game in my AI software factory, and cover the mi"
   },
   {
    "id": "u-8KpXcPYCw",
@@ -422,8 +1958,32 @@
    "published": "2026-11-04T15:00:23+00:00",
    "url": "https://www.youtube.com/watch?v=u-8KpXcPYCw",
    "isShort": false,
-   "views": 57812,
+   "views": 60944,
    "description": "Google, Anthropic, and Databricks were all started by founders with PhDs. But they’re the exceptions. Most academic founders fail, because the instincts that get you published are the ones that can get you killed in a startup. Francois Chaubard knows both sides. He’s a visiting partner at YC and a current PhD student, and before that he was a researcher in Fei-Fei Li’s lab and the founder and CEO "
+  },
+  {
+   "id": "JZB-7qwHizo",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "QR code Secret!",
+   "published": "2026-11-04T14:05:53+00:00",
+   "url": "https://www.youtube.com/shorts/JZB-7qwHizo",
+   "isShort": true,
+   "views": 119364,
+   "description": ""
+  },
+  {
+   "id": "I5VxMzaBD6s",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "What is the Future of IDEs?",
+   "published": "2026-11-04T14:00:23+00:00",
+   "url": "https://www.youtube.com/watch?v=I5VxMzaBD6s",
+   "isShort": false,
+   "views": 21139,
+   "description": "Do we still need IDEs?\n\nRecently JetBrains reached out to me to get my take on where I thought IDEs were going and what their role was in software development and agentic coding. They themselves have released an interesting blog post (which I refer to in the video) and are engaging with developers to get your take as well.\n\nCheck out JetBrains IDEs: https://jb.gg/Why-IDEs-JetBrains\n\nAnd here's the"
   },
   {
    "id": "c5n94VqXZAw",
@@ -434,8 +1994,56 @@
    "published": "2026-11-04T10:00:20+00:00",
    "url": "https://www.youtube.com/watch?v=c5n94VqXZAw",
    "isShort": false,
-   "views": 12525,
+   "views": 12851,
    "description": "Visit Security Intelligence podcast page to get more AI content  → https://ibm.biz/~vrweMGEy6\n\nClick to claim your free Knicks championship ring, and you might end up in security training.\n\nFirst, MSG sends staff an offer to pick their own championship ring, and everyone who clicks lands in mandatory security training. Timely lures catch real behavior, but the panel debates whether a test this rea"
+  },
+  {
+   "id": "J5fqR-TRebI",
+   "channel": "Krish Naik",
+   "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+   "lang": "en",
+   "title": "AI in 2027-What Should You Learn to Stay Ahead?",
+   "published": "2026-11-04T07:48:07+00:00",
+   "url": "https://www.youtube.com/watch?v=J5fqR-TRebI",
+   "isShort": false,
+   "views": 187731,
+   "description": "🪔🎉 **DIWALI MEGA OFFER – FLAT 20% OFF ON ALL LIVE BOOTCAMPS!** 🚀🔥\n\nThis Diwali, invest in your skills and accelerate your AI career with **Krish Naik Academy!** ❤️\n\n🎁 **Get FLAT 20% OFF on ALL Live Courses & Bootcamps!**\n\n🎯 **What You Get:**\n\n✅ Live Interactive Sessions with Industry Experts  \n✅ Hands-on Industry-Ready Projects  \n✅ Real-World AI Use Cases  \n✅ Recordings for Flexible Learning  \n✅ P"
+  },
+  {
+   "id": "DZ5fCu2eH2Q",
+   "channel": "ByteMonk",
+   "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
+   "lang": "en",
+   "title": "How Uber Connected AI Agents to 5,000+ Tools",
+   "published": "2026-11-04T04:31:31+00:00",
+   "url": "https://www.youtube.com/watch?v=DZ5fCu2eH2Q",
+   "isShort": false,
+   "views": 27299,
+   "description": "Uber's MCP Gate allows AI agents to interact with over 5000 tools. Learn how to connect disparate systems without custom code.\n\nMost AI assistants struggle when forced to interact with systems using different communication protocols like HTTP, DRPC, or T-channel. This breakdown explains the engineering behind Uber's MCP Gate, a architecture designed to bridge the gap between autonomous agents and "
+  },
+  {
+   "id": "YMhNStVfIuI",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "Responsible AI & UX Design",
+   "published": "2026-11-04T03:03:06+00:00",
+   "url": "https://www.youtube.com/watch?v=YMhNStVfIuI",
+   "isShort": false,
+   "views": 8443,
+   "description": "As AI products become part of everyday life, building trust is no longer optional. Trust is not only about meeting legal requirements but also about how compliant and reliable your product feels to the people using it.\n\nIn this live session, we will break down what trust really means, covering both legal compliance and perceived compliance. We will give a high-level overview of the EU AI Act and o"
+  },
+  {
+   "id": "77hHgDkbtLI",
+   "channel": "Caleb Writes Code",
+   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
+   "lang": "en",
+   "title": "Weight-Space Programming explained in 10min..",
+   "published": "2026-11-04T00:08:54+00:00",
+   "url": "https://www.youtube.com/watch?v=77hHgDkbtLI",
+   "isShort": false,
+   "views": 140624,
+   "description": "Try DataImpulse now https://dataimpulse.com/?utm_source=youtube&utm_medium=video&utm_campaign=calebwritescode\n\nWeight-space programming is an emerging idea where LLM can read and write neural networks to detect and fix the model for improved capabilities. Astra was able to perform fairly magical things where it knew just by looking at the model's weights what it was trained to do, and where to edi"
   },
   {
    "id": "xq0eB8vxeqk",
@@ -446,8 +2054,56 @@
    "published": "2026-11-03T23:00:28+00:00",
    "url": "https://www.youtube.com/watch?v=xq0eB8vxeqk",
    "isShort": false,
-   "views": 387617,
+   "views": 439358,
    "description": "It’s time to make agents good at design, so let’s breakdown how I made Opus hill climb till it finally was making what I wanted it to\n\nThank you Magic Patterns for sponsoring the video! Check them out at: https://soydev.link/magicpatterns\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awe"
+  },
+  {
+   "id": "k2ruCf_z75I",
+   "channel": "Fireship",
+   "channelId": "UCsBjURrPoezykLs9EqgamOA",
+   "lang": "en",
+   "title": "The worst week in cybersecurity history... so far",
+   "published": "2026-11-03T19:47:10+00:00",
+   "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
+   "isShort": false,
+   "views": 2159574,
+   "description": "Start a free 14-day CodeRabbit Secure trial, no credit card required: https://coderabbit.link/fireship-011\n\nCursor shipped a backdoor, Polymarket got drained, North Korea pulled off the largest theft in human history, and Anthropic showed an unreleased Claude model can get root on any unpatched Linux server. Let's break it all down.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses:"
+  },
+  {
+   "id": "OrcsMi2-IcM",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "NEW DeepSeek Harness -  Super Agent!",
+   "published": "2026-11-03T14:30:33+00:00",
+   "url": "https://www.youtube.com/watch?v=OrcsMi2-IcM",
+   "isShort": false,
+   "views": 215917,
+   "description": "In this video, I look at the new announcement about the DeepSeek harness and the introduction of their super agent add-on for their harness. \n\nGH: https://github.com/deepseek-ai/dsh-superagent-prototype\nX post: https://x.com/DeepSeekHarness/status/2116857257245987236\n\n2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrLeADw\n\nTwitter: https://x.com/Sam_Witteveen \n\n🕵️ Interested in bui"
+  },
+  {
+   "id": "_YEUMen_khg",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "Docker Tutorial for Beginners",
+   "published": "2026-11-03T14:23:51+00:00",
+   "url": "https://www.youtube.com/watch?v=_YEUMen_khg",
+   "isShort": false,
+   "views": 69841,
+   "description": "In this beginner friendly docker full course we will start from scratch and go advanced in docker concepts. This full course should be enough to learn docker skills required for the role of software engineer, AI engineer or FDE.\n\nResources: https://codebasics.io/resources/docker-tutorial-for-beginners\nCode: https://github.com/codebasics/docker-tutorial\nSid's linkedin: https://www.linkedin.com/in/t"
+  },
+  {
+   "id": "wXJDtImT_-0",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Weight-Space Programming: AI Is Now Rewriting Other AI Models",
+   "published": "2026-11-03T14:00:04+00:00",
+   "url": "https://www.youtube.com/watch?v=wXJDtImT_-0",
+   "isShort": false,
+   "views": 33469,
+   "description": "GPT-6 Astra edited just 0.016% of Qwen3.5-0.8B's weights, and its MATH-500 score jumped from 7.9% to 48.1%, with no training and no gradients. This is Weight-Space Programming, new research from MIT CSAIL in which a frontier LLM reads and writes neural network weights directly. In this video I explain how Astra reads a network's weights, how it wrote a Breakout network from all-zero weights, what "
   },
   {
    "id": "jnP9AgtX0qo",
@@ -458,7 +2114,7 @@
    "published": "2026-11-03T12:00:36+00:00",
    "url": "https://www.youtube.com/watch?v=jnP9AgtX0qo",
    "isShort": false,
-   "views": 50242,
+   "views": 53207,
    "description": "Learn more about Digital Sovereignty here → https://ibm.biz/~Wxx0y9d9w\n\nSensitive data makes AI powerful, but also risky. Jeff Crume explains five essential capabilities for using sensitive data safely across AI systems, agents, tools, and RAG pipelines. Learn how visibility, classification, governance, access controls, and evidence help secure AI-driven workflows.\n\n00:00 - Why AI Requires Machine"
   },
   {
@@ -470,8 +2126,20 @@
    "published": "2026-11-03T05:05:32+00:00",
    "url": "https://www.youtube.com/watch?v=Hq2c7pww1Ds",
    "isShort": false,
-   "views": 168078,
+   "views": 175304,
    "description": "Just a month after their reduction, OpenAI is doubling the limits of their plans. Is it enough? \n\nThanks to WorkOS for sponsoring! Check passport out here: https://soydev.link/passport\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programming #coding"
+  },
+  {
+   "id": "qCvroAhWiiQ",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "Understanding Harness Engineering: By Dissecting Claude Code's Architecture",
+   "published": "2026-11-03T02:49:33+00:00",
+   "url": "https://www.youtube.com/watch?v=qCvroAhWiiQ",
+   "isShort": false,
+   "views": 14883,
+   "description": "In this live session, we will explain what a harness is and explore the core architecture of Claude Code. We will then build a mini Claude Code with the basic components.\n\nMeet the Panel:\n\nSiddhant Pandey: https://www.linkedin.com/in/tnahddisttud/\nSrikanth Dongala: https://www.linkedin.com/in/srikanth-dongala/\n\nGitHub link shared in the session: https://github.com/Srikanthdongalajsr/mini-claude\n\nD"
   },
   {
    "id": "lqdc1MeyIfs",
@@ -482,7 +2150,7 @@
    "published": "2026-11-02T23:54:36+00:00",
    "url": "https://www.youtube.com/shorts/lqdc1MeyIfs",
    "isShort": true,
-   "views": 33812,
+   "views": 34263,
    "description": "A lot of what makes a great engineer also makes a great founder.\n\nBefore starting Layers and BootLoop, Shivani Patel and Chris Markus worked at SpaceX, where they learned to take ideas from zero to one, solve hard problems, and own the outcome."
   },
   {
@@ -494,8 +2162,44 @@
    "published": "2026-11-02T22:16:58+00:00",
    "url": "https://www.youtube.com/watch?v=KDyPHt4lW60",
    "isShort": false,
-   "views": 647625,
+   "views": 1384679,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/31-life-changing-ways\n💎 Get all prompts 100% free: https://go.nicksaraev.com/31-life-changing-ways-2\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I "
+  },
+  {
+   "id": "YHKuUjicB3M",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "My AI Software Factory Ships Hundreds of PRs a Week (Here's How I Manage It)",
+   "published": "2026-11-02T21:06:17+00:00",
+   "url": "https://www.youtube.com/watch?v=YHKuUjicB3M",
+   "isShort": false,
+   "views": 27879,
+   "description": "My AI software factory ships hundreds of pull requests a week, and I really didn't want a control plane for it. I figured it would make things less autonomous and give me more to manage. It's turned out to be the only way I can keep up with all of it, so here's a tour of the mission control dashboard I've been building (with the factory itself doing the building!).\n\nYou'll see the whole factory at"
+  },
+  {
+   "id": "WwjqENPaNQ0",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "Impossible Impossible Impossible!",
+   "published": "2026-11-02T17:56:19+00:00",
+   "url": "https://www.youtube.com/shorts/WwjqENPaNQ0",
+   "isShort": true,
+   "views": 446800,
+   "description": ""
+  },
+  {
+   "id": "0Kw6_DTZPrY",
+   "channel": "AI Explained",
+   "channelId": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+   "lang": "en",
+   "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+   "published": "2026-11-02T17:02:16+00:00",
+   "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+   "isShort": false,
+   "views": 149977,
+   "description": "You know what, by AI standards, it might not have been the craziest week, but that doesn’t mean several headline-worthy things happened - from Altman and Anthropic implying they would release models they can’t control, with behavior they cannot verify, to Gemini 4 Carbon bursting onto the scene, some Amodei rationalization, de-tokenization and more…\n\n\nAI Insiders ($9!): https://www.patreon.com/AIE"
   },
   {
    "id": "NVzgt2AEvDg",
@@ -506,8 +2210,20 @@
    "published": "2026-11-02T16:29:13+00:00",
    "url": "https://www.youtube.com/watch?v=NVzgt2AEvDg",
    "isShort": false,
-   "views": 39934,
+   "views": 40535,
    "description": "Blacksmith (YC W24) is building a faster cloud for continuous integration (CI), helping developers test and ship code as AI coding tools generate more of it.\n\nAs software production accelerates, testing and validation are becoming the new bottleneck. That shift has helped Blacksmith grow 20x over the last year, and the company recently raised a $66 million Series C at a $1 billion valuation.\n\nThe "
+  },
+  {
+   "id": "vSCYL8ySh9g",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "Dory - NVIDIA's Looped Transformer",
+   "published": "2026-11-02T13:00:00+00:00",
+   "url": "https://www.youtube.com/watch?v=vSCYL8ySh9g",
+   "isShort": false,
+   "views": 158442,
+   "description": "In this video, I look at a research release from NVIDIA called Dory, which is a 4B looped transformer. \n\nHF: https://huggingface.co/collections/nvidia/nemotron-labs-dory\n\n2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrLeADw\n\nTwitter: https://x.com/Sam_Witteveen \n\n🕵️ Interested in building LLM Agents? Fill out the form below\nBuilding LLM Agents Form: https://drp.li/dIMes\n\n👨‍💻Githu"
   },
   {
    "id": "EkdIZXDnRK8",
@@ -518,8 +2234,32 @@
    "published": "2026-11-02T12:00:35+00:00",
    "url": "https://www.youtube.com/watch?v=EkdIZXDnRK8",
    "isShort": false,
-   "views": 57758,
+   "views": 58786,
    "description": "Learn more about Agentic Coding here → https://ibm.biz/~YeRLqinv2\n\nA good prompt isn't enough for good AI code. Legare Kerrison explains how context helps AI coding agents understand your repository, dependencies, tests, and intent. Learn how to give agents the right context without overwhelming them.\n\n 00:00 – Give AI Coding Agents Better Context\n 00:37 – See Why One Prompt Isn't Enough\n 01:23 – "
+  },
+  {
+   "id": "GDwiqnofiAI",
+   "channel": "Codebasics",
+   "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+   "lang": "en",
+   "title": "What If Ford’s Forecast Team Vanished?",
+   "published": "2026-11-02T10:31:23+00:00",
+   "url": "https://www.youtube.com/shorts/GDwiqnofiAI",
+   "isShort": true,
+   "views": 2684,
+   "description": "Who decides how many cars Ford plans to make?\n\nA forecasting team’s numbers go to finance first. Then finance turns them into production plans.\n\nWould you have guessed a forecast matters this much?\n\nWatch full video - https://youtu.be/qkw-eC8tULI?si=vcWN3ScIYKWr7SfW\n\nFollow us on Instagram :\nDhaval - https://www.instagram.com/dhavalcodebasics/\nCodebasics - https://www.instagram.com/codebasicshub\n\n"
+  },
+  {
+   "id": "kckw-OmMSfg",
+   "channel": "Krish Naik",
+   "channelId": "UCNU_lfiiWBdtULKOw6X0Dig",
+   "lang": "en",
+   "title": "Complete AI Interview Preparation With Usecases- Free For everyone",
+   "published": "2026-11-02T10:07:50+00:00",
+   "url": "https://www.youtube.com/watch?v=kckw-OmMSfg",
+   "isShort": false,
+   "views": 39835,
+   "description": "🎉 Festive Offer on AI PRO by Krish Naik Academy!\n\nOne subscription gives you 12 months of access to 14+ premium AI courses and bootcamps, covering GenAI, Agentic AI, RAG, LLMs, AI Engineering, and AI System Design. You get live bootcamps with recordings, plus every upcoming course released during your subscription.\n\n💰 Regular price: ₹21,000/year\n🎁 New students: flat 20% off, so you pay ₹16,800/yea"
   },
   {
    "id": "y5TEATUDDfc",
@@ -530,8 +2270,20 @@
    "published": "2026-11-02T09:10:01+00:00",
    "url": "https://www.youtube.com/watch?v=y5TEATUDDfc",
    "isShort": false,
-   "views": 212627,
+   "views": 218352,
    "description": "Anthropic has announced Claude Ultra, a rebrand on the $200 monthly tier while REMOVING 5 hour limits from verified accounts, which seems awesome, but the details matter, so lets break it down\n\nThank you to Greptile for Sponsoring: https://soydev.link/greptile\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O"
+  },
+  {
+   "id": "kzAuemjQpJA",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "Money Doesn’t Matter!",
+   "published": "2026-11-02T04:30:37+00:00",
+   "url": "https://www.youtube.com/shorts/kzAuemjQpJA",
+   "isShort": true,
+   "views": 117440,
+   "description": ""
   },
   {
    "id": "8c6JZ18W0Bo",
@@ -542,8 +2294,32 @@
    "published": "2026-11-01T21:43:00+00:00",
    "url": "https://www.youtube.com/watch?v=8c6JZ18W0Bo",
    "isShort": false,
-   "views": 101024,
+   "views": 377991,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/worlds-shortest-claude\n💎 Get all course resources 100% free: https://go.nicksaraev.com/worlds-shortest-claude-2\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain "
+  },
+  {
+   "id": "bR_OKOBGCHI",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "Sam Altman Wants Your Ram!",
+   "published": "2026-11-01T15:29:57+00:00",
+   "url": "https://www.youtube.com/shorts/bR_OKOBGCHI",
+   "isShort": true,
+   "views": 174237,
+   "description": ""
+  },
+  {
+   "id": "AQyyi-Pcirc",
+   "channel": "Sam Witteveen",
+   "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
+   "lang": "en",
+   "title": "Open Models Have Dropped to 12 Points Behind #artificialanalysis #localai",
+   "published": "2026-11-01T13:00:06+00:00",
+   "url": "https://www.youtube.com/shorts/AQyyi-Pcirc",
+   "isShort": true,
+   "views": 12478,
+   "description": "This week, Artificial Analysis released their new 5.0 Intelligence Index benchmark.  Suddenly, open models have dropped much lower."
   },
   {
    "id": "QUZ4KEDxhCM",
@@ -558,6 +2334,18 @@
    "description": "Learn more about Faster AI Models here → https://ibm.biz/~9RJjTpaDF\n\nOne line can change how your AI model runs. Avery Blanchard explains how torch.compile, Dynamo, AOT Autograd, and Inductor optimize PyTorch models. Learn how graph breaks, recompilation, and kernel fusion affect AI performance.\n\n 00:00 – See What torch.compile Does to PyTorch Models\n 00:20 – Understand the Three torch.compile Sta"
   },
   {
+   "id": "Wg0WNfb5TfE",
+   "channel": "CodeWithHarry",
+   "channelId": "UCeVMnSShP_Iviwkknt83cww",
+   "lang": "hi",
+   "title": "Trump’s AI Dependency!",
+   "published": "2026-11-01T10:19:34+00:00",
+   "url": "https://www.youtube.com/shorts/Wg0WNfb5TfE",
+   "isShort": true,
+   "views": 298505,
+   "description": ""
+  },
+  {
    "id": "FIpGRH8vdos",
    "channel": "CodeWithHarry",
    "channelId": "UCeVMnSShP_Iviwkknt83cww",
@@ -566,7 +2354,7 @@
    "published": "2026-11-01T05:07:13+00:00",
    "url": "https://www.youtube.com/shorts/FIpGRH8vdos",
    "isShort": true,
-   "views": 12964,
+   "views": 119614,
    "description": ""
   },
   {
@@ -578,8 +2366,20 @@
    "published": "2026-10-31T22:34:52+00:00",
    "url": "https://www.youtube.com/watch?v=rl6QMOrwY5w",
    "isShort": false,
-   "views": 77560,
+   "views": 110485,
    "description": "🔥 Kimi K3.1 Pro here + benchmarks: https://www.kimi.ai/code?utm_campaign=TR_idCFfXg7&utm_content=&utm_medium=Youtube&utm_source=CH_kEMBez3l&utm_term=\n💎 Get all course resources 100% free: https://go.nicksaraev.com/big-corporations-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. "
+  },
+  {
+   "id": "BlbxhsItZPg",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "Anthropic's New Study: You're Not Controlling AI as Much as You Think You Are",
+   "published": "2026-10-31T16:51:47+00:00",
+   "url": "https://www.youtube.com/watch?v=BlbxhsItZPg",
+   "isShort": false,
+   "views": 16155,
+   "description": "Open a Revolut Business account and get a $200 welcome bonus: https://get.revolut.com/Kjth/nn8ax572\n\nHow much control do you really have when AI helps you make decisions? Anthropic's new study shows how strongly an agent's recommendations can shape expert judgment, and it made me question a habit in my own planning sessions: accepting the recommended answer and feeling like I was the one steering."
   },
   {
    "id": "mfgSBLGePuA",
@@ -602,7 +2402,7 @@
    "published": "2026-10-31T12:13:12+00:00",
    "url": "https://www.youtube.com/shorts/nlFn9wbtIr4",
    "isShort": true,
-   "views": 136087,
+   "views": 264431,
    "description": ""
   },
   {
@@ -614,7 +2414,7 @@
    "published": "2026-10-30T21:42:50+00:00",
    "url": "https://www.youtube.com/watch?v=ebILGCoN4UU",
    "isShort": false,
-   "views": 198128,
+   "views": 208227,
    "description": "Here we go again, it seems like there's no single \"resource\" that properly explains what a harness actually is, so I made a video about it\n\nThank you to Vercel for sponsoring the vid! Check them out: https://soydev.link/eve \n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my article on Harnesses here too:\nhttps://x.com/theo/status/2113424203345265053\n\nCheck out"
   },
   {
@@ -626,7 +2426,7 @@
    "published": "2026-10-30T18:39:44+00:00",
    "url": "https://www.youtube.com/watch?v=lPo36U3q3h0",
    "isShort": false,
-   "views": 90142,
+   "views": 101123,
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/openai-made-vibe\n💎 Get all course resources 100% free: https://go.nicksaraev.com/openai-made-vibe-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain Eng"
   },
   {
@@ -638,7 +2438,7 @@
    "published": "2026-10-30T17:45:01+00:00",
    "url": "https://www.youtube.com/shorts/7WvCDSSiNxE",
    "isShort": true,
-   "views": 275572,
+   "views": 346284,
    "description": ""
   },
   {
@@ -662,8 +2462,20 @@
    "published": "2026-10-30T15:57:16+00:00",
    "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
    "isShort": false,
-   "views": 490053,
+   "views": 498113,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 OpenAI's paper is available here:\nhttps://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf\n\nOur paper with the cherry splash ray tracing simulation at 0:17 https://users.cg.tuwien.ac.at/zsolnai/gfx/adaptive_metropolis/\n\n🙏 We would like to thank our gene"
+  },
+  {
+   "id": "s48xeUP_2qI",
+   "channel": "Caleb Writes Code",
+   "channelId": "UCuU9jE4MHHEIyYMbDfUPSew",
+   "lang": "en",
+   "title": "CUDA is hard..",
+   "published": "2026-10-30T15:25:24+00:00",
+   "url": "https://www.youtube.com/watch?v=s48xeUP_2qI",
+   "isShort": false,
+   "views": 204082,
+   "description": "Invite code: LNWP9U\nInvite link: https://studio.tripo3d.ai/home?invite_code=LNWP9U&utm_source=YouTube&utm_medium=kol&utm_campaign=kol_CalebWritesCode\n\nCUDA explained from the first principles perspective. Ever NVIDIA worked on making their GPUs programmable for downstream use cases, AI/ML, graphics, quantum, and other industries have relied on CUDA to accelerate their work. And central to that is "
   },
   {
    "id": "vl7HiMdGfjo",
@@ -674,7 +2486,7 @@
    "published": "2026-10-30T14:30:00+00:00",
    "url": "https://www.youtube.com/watch?v=vl7HiMdGfjo",
    "isShort": false,
-   "views": 116661,
+   "views": 121834,
    "description": "In this episode of the Lightcone, the hosts sit down with Paul Copplestone, co-founder and CEO of Supabase. Since starting in the YC summer batch of 2020, the company has exploded to 13 million users and over 50 million databases under management. Supabase is now positioning for a future where everyone can write their own software, billions have access to personal databases and agents are driving "
   },
   {
@@ -682,11 +2494,11 @@
    "channel": "Sam Witteveen",
    "channelId": "UC55ODQSvARtgSyc8ThfiepQ",
    "lang": "en",
-   "title": "3,000 Tokens/Sec Locally: Testing the ZGX Fury",
+   "title": "HP ZGX Fury - No Token Bill",
    "published": "2026-10-30T13:00:24+00:00",
    "url": "https://www.youtube.com/watch?v=lEFFa0Z5BIE",
    "isShort": false,
-   "views": 50307,
+   "views": 85500,
    "description": "In this video, I look at the ZGX Fury which is the big brother of the ZGX Nano (DGX Spark). While many people know the GB10s, most people haven't seen the power of what a machine like HP's ZGX Fury can do. With 748 GB of memory and NVIDIA's GB300 chipset, this is a mini data center your whole team can use\n\nHP ZGX Fury : https://www.hp.com/us-en/workstations/ai-stations/zgx-fury-ai-station.html\nHP "
   },
   {
@@ -698,7 +2510,7 @@
    "published": "2026-10-30T11:30:08+00:00",
    "url": "https://www.youtube.com/shorts/pQRf3_7OZJ0",
    "isShort": true,
-   "views": 71411,
+   "views": 103850,
    "description": ""
   },
   {
@@ -722,7 +2534,7 @@
    "published": "2026-10-30T07:54:46+00:00",
    "url": "https://www.youtube.com/shorts/9hT3SOBPzDs",
    "isShort": true,
-   "views": 75824,
+   "views": 106924,
    "description": ""
   },
   {
@@ -734,7 +2546,7 @@
    "published": "2026-10-30T05:41:20+00:00",
    "url": "https://www.youtube.com/shorts/x21EgQzfZaM",
    "isShort": true,
-   "views": 42646,
+   "views": 42986,
    "description": "Some of the most valuable data in the world can never leave the building. Defense contractors, banks, hospitals, and nuclear plants can’t simply send it to a cloud AI API.\n\nThat creates an opportunity to bring frontier AI inside those walls: on-prem models, deployment tooling, security accreditation, and hardware for the parts of the economy the cloud can’t reach.\n\nApply for the Winter 2027 batch "
   },
   {
@@ -746,7 +2558,7 @@
    "published": "2026-10-30T03:03:53+00:00",
    "url": "https://www.youtube.com/watch?v=2DvtD1q1fpE",
    "isShort": false,
-   "views": 21918,
+   "views": 27964,
    "description": "Everyone is hiring Forward Deployed Engineers, from OpenAI and Anthropic to enterprise AI startups, and job postings have jumped 350% in a year. \n\nBut most people still can’t explain what an FDE actually does. \n\nIn this live session, we will break down the role in plain terms: what the work looks like day to day, how it differs from an onsite IT job, what it pays, and the skills you need to move i"
   },
   {
@@ -758,7 +2570,7 @@
    "published": "2026-10-30T01:13:58+00:00",
    "url": "https://www.youtube.com/watch?v=U3BAkWPA2gw",
    "isShort": false,
-   "views": 32238,
+   "views": 40816,
    "description": "🔥 Fish audio (for the Japanese voice): https://fish.audio/?fpr=fhs32\n💎 Get all course resources 100% free: https://go.nicksaraev.com/biggest-faceless-content-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I help peo"
   },
   {
@@ -770,7 +2582,7 @@
    "published": "2026-10-29T22:23:19+00:00",
    "url": "https://www.youtube.com/shorts/VoSVN7H07-Q",
    "isShort": true,
-   "views": 23428,
+   "views": 23718,
    "description": "In some cities, getting a building permit takes longer than building the house.\n\nAI can help with plan reviews, zoning checks, inspections, licensing, public records, and other work that still happens largely by hand. There are 19,000 cities in America. City Hall could be one of the biggest untouched markets for AI.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
   },
   {
@@ -782,7 +2594,7 @@
    "published": "2026-10-29T18:48:01+00:00",
    "url": "https://www.youtube.com/shorts/674Efd5Scfg",
    "isShort": true,
-   "views": 56625,
+   "views": 57004,
    "description": "LLMs have gotten much better at coding and math, but their writing increasingly sounds flat and robotic.\n\nThe same reward signals that improve coding and agentic work can flatten voice and style. That leaves room for models built specifically to write well and be enjoyable to talk to.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
   },
   {
@@ -794,7 +2606,7 @@
    "published": "2026-10-29T17:34:08+00:00",
    "url": "https://www.youtube.com/watch?v=uLGxb4F3SyI",
    "isShort": false,
-   "views": 430850,
+   "views": 465531,
    "description": "T3 Code has broken over 700,000 users, so I think it's time to give ya'll a tutorial on how I use it since I'm still contributing to it\n\nThank you to Apify for Sponsoring! Check them out: https://soydev.link/apify\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #program"
   },
   {
@@ -806,7 +2618,7 @@
    "published": "2026-10-29T15:43:49+00:00",
    "url": "https://www.youtube.com/shorts/wvx5qvZln9I",
    "isShort": true,
-   "views": 201654,
+   "views": 228835,
    "description": ""
   },
   {
@@ -818,7 +2630,7 @@
    "published": "2026-10-29T14:31:00+00:00",
    "url": "https://www.youtube.com/shorts/LI9NqE2iIqg",
    "isShort": true,
-   "views": 29586,
+   "views": 29867,
    "description": "General-purpose AI is getting incredibly capable, but many industrial problems don’t need a giant model that can do everything.\n\nSpecialized foundation models for manufacturing, energy, and biology could match or beat general models with a fraction of the compute, learning new tasks from little or no labeled data.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
   },
   {
@@ -830,7 +2642,7 @@
    "published": "2026-10-29T13:52:45+00:00",
    "url": "https://www.youtube.com/watch?v=5uHwUAtrSHM",
    "isShort": false,
-   "views": 152107,
+   "views": 184399,
    "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nI break down what the email actually says, what the offer is worth, why I had a Microsoft offer on campus day zero and what's changed since, and what this means for engineers at Microsoft, in big tech, and anyone thinking about getting into software right now.\n\n\n00:00 Microsoft's voluntary exit offer\n01:07 What the email a"
   },
   {
@@ -846,6 +2658,18 @@
    "description": "🔥 Join Maker School & get customer #1 guaranteed: https://go.nicksaraev.com/make-12-373\n💎 Get all course resources 100% free: https://go.nicksaraev.com/make-12-373-maker-zero\n➡️ If this is your first video: I'm Nick Saraev. I run LeftClick, an AI growth agency. We've done work for large brands you're likely familiar with, like Mr. Beast, Anthropic, OpenAI, and a few others.\n\nIn plain English: I he"
   },
   {
+   "id": "hOitZIkMT2Y",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Distillation: Can A Small Model Beat A Bigger Model?",
+   "published": "2026-10-29T13:00:37+00:00",
+   "url": "https://www.youtube.com/watch?v=hOitZIkMT2Y",
+   "isShort": false,
+   "views": 42265,
+   "description": "Can a 27 billion parameter model teach a 4 billion model to be as good as itself? Last time, RL got Qwen 4B from 52% to 58.4% and then hit a wall. This time I used Qwen 27B as a teacher and tried all three kinds of distillation on two DGX Sparks: training on the teacher's answers, training on its probabilities, and on-policy distillation where the 27B grades every token the 4B writes.\n\nSponsored b"
+  },
+  {
    "id": "mmns33BsBcY",
    "channel": "IBM Technology",
    "channelId": "UCKWaEZ-_VweaEx1j62do_vQ",
@@ -858,6 +2682,18 @@
    "description": "Learn more about Quantization here → https://ibm.biz/~NdqpU881V\n\nHuge AI models come with huge memory requirements.Grace Ableidinger explains how quantization compresses LLMs using lower-precision formats like INT8 and INT4. Learn how model size, GPU memory, speed, and accuracy trade off during AI inference.\n\n 00:00 – Understand What Quantization Does\n 00:23 – See Why LLMs Need Quantization\n 00:51"
   },
   {
+   "id": "qIWB1yMsqRo",
+   "channel": "Cole Medin",
+   "channelId": "UCMwVTLZIRRUyyVrkjDpn4pA",
+   "lang": "en",
+   "title": "The 4 Components of Every Successful AI Second Brain (Build These Now)",
+   "published": "2026-10-29T00:00:35+00:00",
+   "url": "https://www.youtube.com/watch?v=qIWB1yMsqRo",
+   "isShort": false,
+   "views": 19568,
+   "description": "Your AI second brain should be dead simple. Mine is a few tools and a folder of markdown files, and it saves me 25 to 30 hours every week. \n\nIn this video I cover the four fundamentals that make it work (Context, Connections, Capabilities and Cadence), so you can build them into a new second brain or use them to audit the one you already have, no matter what you built it with!\n\n~~~~~~~~~~~~~~~~~~~"
+  },
+  {
    "id": "KlHzPbZ6PNI",
    "channel": "Y Combinator",
    "channelId": "UCcefcZRL2oaA_uBNeo5UOWg",
@@ -866,7 +2702,7 @@
    "published": "2026-10-28T21:44:28+00:00",
    "url": "https://www.youtube.com/shorts/KlHzPbZ6PNI",
    "isShort": true,
-   "views": 40686,
+   "views": 40946,
    "description": "Software is cheap to start. Robots, GPU clusters, and data centers are not.\n\nThe physical AI buildout will need new ways to finance steel and silicon: lenders, leasing companies, securitization, and hedging products designed around machines and compute. Every great infrastructure boom created financial giants alongside it.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
   },
   {
@@ -878,7 +2714,7 @@
    "published": "2026-10-28T20:15:52+00:00",
    "url": "https://www.youtube.com/shorts/DzblM1Mc-J8",
    "isShort": true,
-   "views": 68955,
+   "views": 69508,
    "description": "Most companies building with AI still rent their intelligence from frontier labs.\n\nAs open models improve, more companies will want models they can run, train, and control themselves. The opportunity is to turn a company’s workflows, expertise, and failures into specialized models that improve with the business.\n\nApply for the Winter 2027 batch at ycombinator.com/apply."
   },
   {
@@ -890,8 +2726,20 @@
    "published": "2026-10-28T19:05:28+00:00",
    "url": "https://www.youtube.com/watch?v=NBCM_ZoWZo8",
    "isShort": false,
-   "views": 223825,
+   "views": 232554,
    "description": "Claude should have a limit...right? You would think so. But today I'm going to show you how to run Claude for WEEKS\n\nThank you to Browserbase for Sponsoring! Check them out here:\nhttps://soydev.link/browserbase\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programmin"
+  },
+  {
+   "id": "kMpTBy3g1N0",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "Gemini 4 Carbon: The New Frontier",
+   "published": "2026-10-28T18:57:07+00:00",
+   "url": "https://www.youtube.com/shorts/kMpTBy3g1N0",
+   "isShort": true,
+   "views": 565746,
+   "description": "Google just announced Gemini 4 Carbon, its second frontier model in about two weeks after Gemini 4 Argon. According to Artificial Analysis, Carbon is now #1 on their Intelligence Index at 59, one point ahead of Claude Opus 5.5.\n\nGoogle says Carbon leads across the whole cyber defense workflow: finding vulnerabilities (SEC-bench Pro 88.2%), proving they can be exploited (ExploitGym 54.8%) and writi"
   },
   {
    "id": "Lxkb4gd041I",
@@ -914,7 +2762,7 @@
    "published": "2026-10-28T17:32:40+00:00",
    "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
    "isShort": false,
-   "views": 199269,
+   "views": 206089,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 DeepSeek v4.1 Flash 1017 is available here:\nhttps://api-docs.deepseek.com/news/news261017/\n\nSources:\nhttps://x.com/marcthecreatorr/status/2111427716142571554/video/1\nhttps://x.com/olezhavich/status/2112897791022264814/video/1\nhttps://x.com/notjazii/status/2111432925313179689/video/1\nhttps://x.com/izag82161/status"
   },
   {
@@ -938,8 +2786,20 @@
    "published": "2026-10-28T15:27:56+00:00",
    "url": "https://www.youtube.com/watch?v=TfMwWWmwz4g",
    "isShort": false,
-   "views": 214304,
+   "views": 281015,
    "description": "My honest advice for tech workers after Microsoft's exit offer news."
+  },
+  {
+   "id": "nEaJMdM1djM",
+   "channel": "Fireship",
+   "channelId": "UCsBjURrPoezykLs9EqgamOA",
+   "lang": "en",
+   "title": "Did the AI bubble just pop?",
+   "published": "2026-10-28T13:31:29+00:00",
+   "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
+   "isShort": false,
+   "views": 2707874,
+   "description": "Try Hyperagent for free, or sign in with ChatGPT to get more usage from your existing plan: https://www.hyperagent.com/login?utm_source=youtube&utm_medium=influencer&utm_campaign=FIRESHIP\n\nAre we cooked chat?\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
   },
   {
    "id": "QH30081LoOY",
@@ -952,6 +2812,18 @@
    "isShort": true,
    "views": 6127,
    "description": "Degree in hand, but still not getting AI interviews?\n\nWhat you build in public can speak louder than a certificate.\n\nAnd who knows your name can matter just as much.\n\nHere’s a simple way to start showing your skills.\n\nWatch full video - https://youtu.be/JzrEsnAAXkc?si=Q9vJBpWGlVj4Zp-B\n\nFollow us on Instagram :\nDhaval - https://www.instagram.com/dhavalcodebasics/\nCodebasics - https://www.instagram."
+  },
+  {
+   "id": "_87vrjxx1EE",
+   "channel": "Prompt Engineering",
+   "channelId": "UCDq7SjbgRKty5TgGafW8Clg",
+   "lang": "en",
+   "title": "This New AI Architecture Is 31x Faster (NCM)",
+   "published": "2026-10-28T13:00:01+00:00",
+   "url": "https://www.youtube.com/watch?v=_87vrjxx1EE",
+   "isShort": false,
+   "views": 39571,
+   "description": "Next-Concept Modeling (NCM) from Stanford’s Hazy Research writes an answer as a rough sketch first and the exact words last, in a handful of passes instead of one pass per token. I ran the released models on a DGX Spark and timed NCM against a same-size word-by-word LLM: it’s up to 4x faster for one request and 4–8x slower at 64 requests. I also trained my own diffusion model, which tied NCM’s 86%"
   },
   {
    "id": "v4zRb6DT77s",
@@ -974,7 +2846,7 @@
    "published": "2026-10-28T07:50:21+00:00",
    "url": "https://www.youtube.com/watch?v=r3EvmbmOuGc",
    "isShort": false,
-   "views": 31073,
+   "views": 34909,
    "description": "🚨 **Anthropic's IPO Reveals 7 Shocking AI Risks! Is AI Getting Out of Control?**\n\nAnthropic, the company behind Claude AI, is preparing for its IPO. But ahead of going public, the company has disclosed some serious risks associated with advanced artificial intelligence.\n\nFrom AI models potentially resisting shutdown and demonstrating manipulative behavior to unauthorized system access, AI-powered "
   },
   {
@@ -998,7 +2870,7 @@
    "published": "2026-10-28T02:57:36+00:00",
    "url": "https://www.youtube.com/watch?v=Gy4ECDG_hI4",
    "isShort": false,
-   "views": 13709,
+   "views": 22382,
    "description": "In this video I want to follow one engineering task all the way down to the infrastructure that makes it run. Because once you give an agent tools, the environment becomes part of the system. And that is where coding agents are getting genuinely interesting. Sponsored by Coder remote development workspaces and agentic coding infrastructure for engineering teams. \n\nTry it here → https://fandf.co/4r"
   },
   {
@@ -1058,7 +2930,7 @@
    "published": "2026-10-27T19:59:02+00:00",
    "url": "https://www.youtube.com/watch?v=bi2np7qc3Lw",
    "isShort": false,
-   "views": 19387,
+   "views": 55485,
    "description": "New model Kimi K3.1 is reaching frontier capabilities in Artificial Analysis aggregate benchmark. The model remains the same architecture as the previous K3 model at 2.8T parameters which puts a huge strain on GPU and compute since inference providers need to work hard to make this work.\n\n#ai #artificialintelligence #llm \nFollow me:\nX: https://x.com/calebfoundry\nLinkedIn: https://www.linkedin.com/"
   },
   {
@@ -1154,7 +3026,7 @@
    "published": "2026-10-27T12:46:18+00:00",
    "url": "https://www.youtube.com/watch?v=QgELejeVt_g",
    "isShort": false,
-   "views": 62830,
+   "views": 64518,
    "description": "🎉 Festive Offer on AI PRO by Krish Naik Academy!\n\nOne subscription gives you 12 months of access to 14+ premium AI courses and bootcamps, covering GenAI, Agentic AI, RAG, LLMs, AI Engineering, and AI System Design. You get live bootcamps with recordings, plus every upcoming course released during your subscription.\n\n💰 Regular price: ₹21,000/year\n🎁 New students: flat 20% off, so you pay ₹16,800/yea"
   },
   {
@@ -1214,7 +3086,7 @@
    "published": "2026-10-27T04:02:18+00:00",
    "url": "https://www.youtube.com/watch?v=FHGfSjDGUIw",
    "isShort": false,
-   "views": 141288,
+   "views": 144485,
    "description": "Lauren's (@poteto) is spending 1.5 Trillion tokens a month, which sounds crazy, until we talk about what tokens actually cost\n\nThank you Depot for sponsoring! Check them out at: https://soydev.link/depot\n\nWant to sponsor a video? Learn more here: https://soydev.link/sponsor-me\n\nCheck out my Twitch, Twitter, Discord more at https://t3.gg\n\nS/O @Ph4seon3 for the awesome edit 🙏\n\n#ai #programming #codi"
   },
   {
@@ -1226,7 +3098,7 @@
    "published": "2026-10-27T02:32:01+00:00",
    "url": "https://www.youtube.com/shorts/PcU-IaHElKM",
    "isShort": true,
-   "views": 5122,
+   "views": 7322,
    "description": "China's Kimi K3.1 Pro comes very close to Claude on Moonshot’s own coding benchmark. But there’s a catch: they used the Claude Code harness to run the test, not the Claude model. The tools aren’t neutral — they’re part of the score.\n\nIf you’re choosing a coding AI, don’t just look at the model. Look at model + tools together, on your actual task, with the same time and budget constraints.\n\n#KimiK3"
   },
   {
@@ -1250,7 +3122,7 @@
    "published": "2026-10-26T23:13:32+00:00",
    "url": "https://www.youtube.com/shorts/Pn8e474Z5Ps",
    "isShort": true,
-   "views": 42593,
+   "views": 105854,
    "description": "Cohere says one of Alibaba’s newest Qwen models, Qwen3.8 Flash Next, tried to upload a test file to an Alibaba Cloud storage bucket in Beijing, in under 1 in 100,000 runs, right after its reasoning said it wouldn’t use any tools. Here’s what most likely happened (a habit from training on Alibaba’s own sandboxes), why a made-up address still matters, and how to protect any agent: block outbound net"
   },
   {
@@ -1298,7 +3170,7 @@
    "published": "2026-10-26T18:55:29+00:00",
    "url": "https://www.youtube.com/watch?v=G_em1hHPnXY",
    "isShort": false,
-   "views": 1795893,
+   "views": 2514317,
    "description": "Get 20% off Mobbin Pro to help your agent design UIs that actually convert - https://mobbin.com/fireship\n\nKimi K3.1 just dropped as a free 3-trillion-parameter open-weight model that comes within one point of Opus on Terminal Bench. But is it *actually* good? Let's find out.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
   },
   {
@@ -1310,7 +3182,7 @@
    "published": "2026-10-26T18:30:11+00:00",
    "url": "https://www.youtube.com/watch?v=m2M1xdb6W38",
    "isShort": false,
-   "views": 28989,
+   "views": 32624,
    "description": "🎉 Festive Offer on AI PRO by Krish Naik Academy!\n\nOne subscription gives you 12 months of access to 14+ premium AI courses and bootcamps, covering GenAI, Agentic AI, RAG, LLMs, AI Engineering, and AI System Design. You get live bootcamps with recordings, plus every upcoming course released during your subscription.\n\n💰 Regular price: ₹21,000/year\n🎁 New students: flat 20% off, so you pay ₹16,800/yea"
   },
   {
@@ -1334,7 +3206,7 @@
    "published": "2026-10-26T13:52:07+00:00",
    "url": "https://www.youtube.com/watch?v=1dkz-2u99U8",
    "isShort": false,
-   "views": 99015,
+   "views": 102750,
    "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nRailway and OpenCode both got breached days apart, through the same\nattack vector. The attackers weren't after user data — they were after\nAI provider API keys, and the reason why is the interesting part.\n\nThis is what a distillation attack actually is, why the labs ban it,\nand why it's worth auditing your own systems befo"
   },
   {
@@ -1358,7 +3230,7 @@
    "published": "2026-10-26T13:30:16+00:00",
    "url": "https://www.youtube.com/watch?v=VhrtlfTyqp4",
    "isShort": false,
-   "views": 13148,
+   "views": 15023,
    "description": "In this video I look at MOSS Image. A 5B diffusion transformer, which has an Apache 2 license, allowing you to create images and do whatever you want with it. It also allows you to use JSON to layout the image\n\nBlog: https://openmoss.ai/MOSS-Image/\nHF: https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT\n\n2nd Channel:  https://www.youtube.com/channel/UCUF7WtR4JpVbQqcQGrLeADw\n\nTwitter: https://x.com"
   },
   {
@@ -1370,7 +3242,7 @@
    "published": "2026-10-26T13:15:22+00:00",
    "url": "https://www.youtube.com/shorts/lcVFk4df5Ms",
    "isShort": true,
-   "views": 7592,
+   "views": 17311,
    "description": "Harness² lets an AI agent build and evolve its own harness (its instructions, tools and control loop) for every task, with no retraining. Watch the full explainer: https://youtu.be/pW2ktrJlsyE\n\nPaper: https://arxiv.org/abs/2610.14224\nCode: https://github.com/google-research/harness2\nProject page: https://harness2.github.io\n\n\n#AIAgents #Harness2 #ClaudeCode #AgenticAI #LLM"
   },
   {
@@ -1478,7 +3350,7 @@
    "published": "2026-10-25T16:04:43+00:00",
    "url": "https://www.youtube.com/watch?v=nAwTtbSV130",
    "isShort": false,
-   "views": 16155,
+   "views": 18605,
    "description": "Two critical PHP runtime vulnerabilities have been identified with a 9.2 severity score, putting countless servers at risk.\n\nWe analyze the mechanics of these flaws, which allow for malicious code execution and were being actively exploited before emergency patches were released. This breakdown examines why relying on single-developer dependencies poses a significant supply chain risk for modern w"
   },
   {
@@ -1670,7 +3542,7 @@
    "published": "2026-10-23T18:19:58+00:00",
    "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
    "isShort": false,
-   "views": 1794473,
+   "views": 1883472,
    "description": "Semgrep Guardian catches the risky code and packages your agent introduces. Try it free for 60 days: https://semgrep.dev/onboarding/guardian?offer=fireship_202610&utm_source=fireship&utm_medium=referral&utm_campaign=2026-10_fireship_guardian_campaign\n\nPHP2Shell, a backdoored Python package with 23 million weekly downloads, a GitLab bug dating back to 2014, rogue AI agents inside bank accounts, and"
   },
   {
@@ -1742,7 +3614,7 @@
    "published": "2026-10-23T15:48:58+00:00",
    "url": "https://www.youtube.com/watch?v=M-UaSHSIgJs",
    "isShort": false,
-   "views": 110558,
+   "views": 135713,
    "description": "Here are 6 things I strongly recommend 👇\n1️⃣ CHOOSE THE RIGHT AI ROLE\nDon't just say, \"I want a job in AI.\"\nFocus on AI Engineer, GenAI Engineer, Agentic AI Engineer, ML Engineer, MLOps Engineer, Data Scientist, or AI Forward Deployed Engineer (FDE).\n\n2️⃣ LEARN SKILLS COMPANIES ACTUALLY NEED\n✅ Python, SQL, Git, APIs\n✅ LLMs, Transformers, Embeddings\n✅ Prompt and Context Engineering\n✅ RAG, Hybrid Se"
   },
   {
@@ -1778,7 +3650,7 @@
    "published": "2026-10-23T13:30:14+00:00",
    "url": "https://www.youtube.com/watch?v=tNKmMhiOw9w",
    "isShort": false,
-   "views": 17532,
+   "views": 24318,
    "description": "A software factory is a system that moves work through the software development lifecycle (SDLC) using repeatable, agent-driven workflows, with context, guardrails, and human approval built in. As teams scale AI-driven development, a software factory needs a wrapper that provides context, observability, and control. In this video, I walk through how I scale my own software factory with Port, cover"
   },
   {
@@ -1790,7 +3662,7 @@
    "published": "2026-10-23T13:00:20+00:00",
    "url": "https://www.youtube.com/watch?v=BsfjQDSeTwI",
    "isShort": false,
-   "views": 82859,
+   "views": 102024,
    "description": "In this video, I look at an interesting model from Recursive AI called Flint, which is their first public attempt at building a very fast mixture-of-experts model specifically for taking on the Qwen3.8 and similar coding models. They are using an RSI system to do this. \n\nBlog: https://recursive.com/updates/introducing-recursive-flint\nHF: https://huggingface.co/RecursiveSI/flint\nNVFP4: https://hugg"
   },
   {
@@ -1814,7 +3686,7 @@
    "published": "2026-10-23T12:03:59+00:00",
    "url": "https://www.youtube.com/watch?v=XtGnIG38Ciw",
    "isShort": false,
-   "views": 15907,
+   "views": 19146,
    "description": "Most developers don't need to OWN a GPU — they need one for the 90 seconds it takes to answer a request. In this video I sign up for RunPod live on camera, deploy FLUX.1-schnell as a serverless endpoint, and prove the whole story with real numbers:\n\n▶️ Sign up to a working AI endpoint — no sales calls, no contracts\n▶️ What a cold start actually looks like (worker boots from zero)\n▶️ The FlashBoot "
   },
   {
@@ -1838,7 +3710,7 @@
    "published": "2026-10-23T04:17:50+00:00",
    "url": "https://www.youtube.com/watch?v=6VmA4x1lh1M",
    "isShort": false,
-   "views": 187335,
+   "views": 224400,
    "description": "Bluehost: https://www.bluehost.com/ai-gateway?utm_source=influencer&utm_medium=youtube&utm_campaign=jev&utm_content=Caleb_Writes_Code&channelid=P99C46097236S651N0B3003A151D115E0000V107\n\nPHP2Shell is a big vulnerability found with CVE classification of 9.2 right now taking over the Internet as we peak. PHP is what holds more than 70% of the websites and this is a pretty big deal as AI continues to "
   },
   {
@@ -1850,7 +3722,7 @@
    "published": "2026-10-23T03:09:52+00:00",
    "url": "https://www.youtube.com/shorts/tjE7G0UfWRE",
    "isShort": true,
-   "views": 4639,
+   "views": 4934,
    "description": "Imagine 10 AI coding agents working in parallel, fixing bugs, running tests, and investigating issues.\n\nBut how do we manage them safely?\n\nThe secret is separating the AI model, agent software, execution environment, and security policies.\n\nIn this Short, we explore how multi-agent coding systems work, why isolated workspaces matter, and how AI is changing software engineering.\n\n#AIAgents #Agentic"
   },
   {
@@ -1910,7 +3782,7 @@
    "published": "2026-10-22T15:09:31+00:00",
    "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
    "isShort": false,
-   "views": 1572883,
+   "views": 1805528,
    "description": "Get real-time search data from a single API. Fireship viewers get 1,000 free searches: https://serpapi.com/fireship\n\nYes the very foundations of the internet are currently crumbling to pieces, but before we look at that, let's distract ourselves with the 7 common programmer stereotypes that still exist.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
   },
   {
@@ -1970,7 +3842,7 @@
    "published": "2026-10-22T03:10:23+00:00",
    "url": "https://www.youtube.com/watch?v=0SVpmARc90o",
    "isShort": false,
-   "views": 138037,
+   "views": 211679,
    "description": "FireCrawl: https://firecrawl.link/caleb-writes-code\n\nWhy RL doesn't scale and is difficult to set up. Reinforcement Learning has been helping LLMs improve capabilities in post training beyond what we could expect from these systems. And it is growingly becoming more important in robotics, gaming and simulation but where are the bottlenecks and challenges that still exist? What about RL makes it so"
   },
   {
@@ -2006,7 +3878,7 @@
    "published": "2026-10-22T00:00:15+00:00",
    "url": "https://www.youtube.com/watch?v=zj1TJlP7c9Y",
    "isShort": false,
-   "views": 27208,
+   "views": 29344,
    "description": "Open a Revolut Business account and get a $200 welcome bonus: https://get.revolut.com/Kjth/nn8ax572\n\nAI coding made me faster than I've ever been, and I'd never go back. But I used to sit down and code for four hours straight with music on, and I can't do that anymore. I'm running several agent sessions at once, dictating prompts all day, switching every few minutes, and it gets tiring!\n\nSo here I"
   },
   {
@@ -2138,7 +4010,7 @@
    "published": "2026-10-20T18:00:17+00:00",
    "url": "https://www.youtube.com/shorts/hLoyhm1dHlM",
    "isShort": true,
-   "views": 2461,
+   "views": 2891,
    "description": "Learn more about agent security here: https://fandf.co/4i1Qs4u\n\nMy second brain helps me run my entire business, and that means giving it access to a lot of my systems and data, so I check everything it pulls in and keep its access limited. That works for one agent. A company has agents running across cloud platforms and employee devices, and IT has to know which ones exist, who owns them, and wha"
   },
   {
@@ -2150,7 +4022,7 @@
    "published": "2026-10-20T16:21:03+00:00",
    "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
    "isShort": false,
-   "views": 1938524,
+   "views": 2028118,
    "description": "Macroscope can auto-approve your team's PRs safely. Try it here: https://macroscope.com/?utm_source=fireship\n\nGoogle’s new model claims to beat GPT-6 and Opus 5.5, so I took them all for a test drive. Let's dive in.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
   },
   {
@@ -2162,7 +4034,7 @@
    "published": "2026-10-20T16:06:59+00:00",
    "url": "https://www.youtube.com/watch?v=TVhhmhvCovg",
    "isShort": false,
-   "views": 27930,
+   "views": 33715,
    "description": "Harness engineering is how we make AI agents better over time: improving the rules, skills and memory around the model every time the agent gets something wrong. Most of us still do that by hand. \n\nIn this video I show you how to let your agent do its own harness engineering, learning from real conversations and proposing changes to its own harness, while you stay in the driver's seat and approve "
   },
   {
@@ -2210,7 +4082,7 @@
    "published": "2026-10-20T13:00:17+00:00",
    "url": "https://www.youtube.com/watch?v=bEO_QeJU7U0",
    "isShort": false,
-   "views": 23637,
+   "views": 25451,
    "description": "Inception's Mercury 3 is a diffusion LLM running at 1,000+ tokens/sec, and Mercury Decide is a decision model that can now read images. Here's how they compare, what the independent evals say, and how fast they really are.\n\nThanks to Inception for sponsoring this video.\n\nLinks:\nTry Mercury Decide free on OpenRouter: https://openrouter.ai/inception/mercury-decide:free\nMercury 3 playground: https://"
   },
   {
@@ -2222,7 +4094,7 @@
    "published": "2026-10-20T07:00:07+00:00",
    "url": "https://www.youtube.com/watch?v=Zub-w_3xmXs",
    "isShort": false,
-   "views": 113174,
+   "views": 121373,
    "description": "🎉 Festive Offer on AI PRO by Krish Naik Academy!\n\nOne subscription gives you 12 months of access to 14+ premium AI courses and bootcamps, covering GenAI, Agentic AI, RAG, LLMs, AI Engineering, and AI System Design. You get live bootcamps with recordings, plus every upcoming course released during your subscription.\n\n💰 Regular price: ₹21,000/year\n🎁 New students: flat 20% off, so you pay ₹16,800/yea"
   },
   {
@@ -2258,7 +4130,7 @@
    "published": "2026-10-19T14:32:30+00:00",
    "url": "https://www.youtube.com/watch?v=bGzmzkX4Kqk",
    "isShort": false,
-   "views": 323167,
+   "views": 345697,
    "description": "What if you could accept online payments without relying on a traditional payment gateway?\n\nIn this video, harkirat break down how traditional payment gateways like Razorpay and Stripe work, why they involve fees and regulatory requirements, and how UPIP uses UPI payment notifications to create an alternative payment workflow.\n\nWe’ll also explore the system architecture, how payment verification w"
   },
   {
@@ -2270,7 +4142,7 @@
    "published": "2026-10-19T14:20:13+00:00",
    "url": "https://www.youtube.com/watch?v=aKVfjG7_R4g",
    "isShort": false,
-   "views": 11556,
+   "views": 12197,
    "description": "Muse Spark Open is Meta's new 816B open-weights model. In the video I go into what Meta actually released versus what they kept closed, and test it side by side with Muse Wonder.\n\nMeta's Muse Spark Open blog: https://research.meta.ai/blog/muse-spark-open\nReflection's Beam blog: https://reflection.ai/blog/introducing-beam\nDavid Senra podcast with Alexandr Wang: https://www.youtube.com/watch?v=S6l3a"
   },
   {
@@ -2306,7 +4178,7 @@
    "published": "2026-10-19T08:49:21+00:00",
    "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
    "isShort": false,
-   "views": 257849,
+   "views": 259439,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Gemini 4 Argon + report are available here:\nhttps://deepmind.google/models/model-cards/gemini-4-argon/\nhttps://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf\n\nSources:\nhttps://x.com/thebuggeddev/status/2110241991233790456\nhttps://x.com/vib3coded/status/2110136719827747181\nhttps://x.com/En"
   },
   {
@@ -2426,7 +4298,7 @@
    "published": "2026-10-17T05:15:52+00:00",
    "url": "https://www.youtube.com/watch?v=WvI90l7c5Zs",
    "isShort": false,
-   "views": 30813,
+   "views": 33030,
    "description": "Xiaomi released their new model MiMo V2.6 and their RL environment is quite beautiful. China keeps making their AI advancements open for us to learn and in this case how reinforcement learning can be scaled to be scaled to 10,000+ GPUs to run post-training in just 5 days. Let's learn how they ran asynchronous training on their massive scale of post-training spending huge tokens during the training"
   },
   {
@@ -2498,7 +4370,7 @@
    "published": "2026-10-16T12:26:14+00:00",
    "url": "https://www.youtube.com/watch?v=DhJBlhw8Ye8",
    "isShort": false,
-   "views": 238798,
+   "views": 245466,
    "description": "DevOps is solved. Mobile is solved. Native is solved. And with\nReverse Engineer Anything — newly open sourced — binaries are too.\n\nSo I pointed an agent at Mini Militia and asked it to rebuild the\ngame from the APK. Native Android and iOS, the original maps and\ntextures, then LAN multiplayer on top.\n\nI'm not releasing the app or the source code. This is just the\nprocess, so you can rebuild your ow"
   },
   {
@@ -2510,7 +4382,7 @@
    "published": "2026-10-16T12:19:30+00:00",
    "url": "https://www.youtube.com/watch?v=oUl_z3SNopU",
    "isShort": false,
-   "views": 32353,
+   "views": 35019,
    "description": "This video provides a complete end-to-end tutorial on fine-tuning, aligning, and deploying Large Language Models (LLMs) serverlessly using Amazon SageMaker AI. Here we demonstrates four levels of LLM customization—Prompt Engineering, Supervised Fine-Tuning (SFT) with LoRA, Direct Preference Optimization (DPO), and Reinforcement Learning (RLVR & RLAIF). Using real-world hands-on demonstrations, a b"
   },
   {
@@ -2558,7 +4430,7 @@
    "published": "2026-10-16T03:54:08+00:00",
    "url": "https://www.youtube.com/watch?v=R_wWbHqpQTg",
    "isShort": false,
-   "views": 30791,
+   "views": 32302,
    "description": "How does Uber make millions of little cars move smoothly across your screen? It’s not one database. It’s not a clever SQL query. It’s a pipeline where every stage is designed to be bad at everything except the one thing it is responsible for.\n\nThis video breaks down the full system design behind Uber’s real-time location infrastructure — from the GPS ingestion problem (5M phones, 1 update/sec) to "
   },
   {
@@ -2606,7 +4478,7 @@
    "published": "2026-10-15T17:35:15+00:00",
    "url": "https://www.youtube.com/watch?v=l3L_lETiSzc",
    "isShort": false,
-   "views": 1194468,
+   "views": 1227987,
    "description": "Every JetBrains account now comes with a free coding model called Junie Lite. Try it: https://jb.gg/JunieLite\n\nCloudflare just acquired Deno and the creator of Node.js is finally admitting that reimplementing it was a mistake. Let's dive in.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
   },
   {
@@ -2666,7 +4538,7 @@
    "published": "2026-10-14T17:48:10+00:00",
    "url": "https://www.youtube.com/watch?v=QZVzuq28eFw",
    "isShort": false,
-   "views": 1763231,
+   "views": 1797627,
    "description": "Run GitHub Actions 2x faster and build with Codesmith at https://www.blacksmith.sh/\n\nAn OpenAI engineer built a wiretap with his wife’s ChatGPT account, hid it in toilet paper behind the executive boardroom TV, and lasted 48 hours before getting caught. Let's dive in.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
   },
   {
@@ -2738,7 +4610,7 @@
    "published": "2026-10-13T23:31:29+00:00",
    "url": "https://www.youtube.com/watch?v=Z6AxbfCXeX8",
    "isShort": false,
-   "views": 36840,
+   "views": 38348,
    "description": "If you would like to try out Verda, apply code CALEB-50 to receive $50 of compute for only $5. That's a 90% discount on your initial top up. https://verda.com/?utm_source=cwc&utm_medium=sponsorship&utm_campaign=bundle-h2-2026&utm_content=openai\n\nOpenAI and Google continues to use LLMs and AI to push scientific boundaries putting strain on conventional way we accredit and legitimize breakthroughs. "
   },
   {
@@ -2762,7 +4634,7 @@
    "published": "2026-10-13T18:08:31+00:00",
    "url": "https://www.youtube.com/watch?v=N2FhJhJ5dNY",
    "isShort": false,
-   "views": 81892,
+   "views": 83198,
    "description": "Check out Gemini 4 Argon \nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/ \n\nGemini 4 Argon is now globally available today for developers and enterprises via the API in AI Studio and Gemini platform, for Google AI Ultra subscribers in Google Antigravity, and Google AI Ultra and Pro subscribers in the Gemini app and AI Mode in Search.\n\nArgon excel"
   },
   {
@@ -2834,7 +4706,7 @@
    "published": "2026-10-13T13:30:58+00:00",
    "url": "https://www.youtube.com/watch?v=y5Ox9m4BALA",
    "isShort": false,
-   "views": 51843,
+   "views": 52422,
    "description": "Check out MongoDB Atlas here: https://fandf.co/4hQM6gx\n\nThanks to MongoDB for partnering with us on this video!\n\nAI can now handle complex engineering tasks, including database migrations. In this video, I use Claude to migrate a PostgreSQL database to MongoDB Atlas Infinite, verify the data, and explore the challenges of updating application code.\n\nWe also discuss how AI is changing tech stack de"
   },
   {
@@ -2858,7 +4730,7 @@
    "published": "2026-10-13T08:56:12+00:00",
    "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
    "isShort": false,
-   "views": 370681,
+   "views": 371820,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The papers are available here:\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/\nhttps://github.com/openai/math\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, M"
   },
   {
@@ -2870,7 +4742,7 @@
    "published": "2026-10-13T02:56:08+00:00",
    "url": "https://www.youtube.com/watch?v=iSpWw6Ak6Hk",
    "isShort": false,
-   "views": 39035,
+   "views": 40212,
    "description": "👉 Databricks Free Edition → https://databricks.plug.dev/gZhiFtC\n\nMost teams wire Claude Code to a few MCP tools and call it done. Then a production 503 hits and the agent sits there, missing context it needed,  tool access it doesn't have, and guardrails nobody set up.\n\nIn this video we fix that. Using a real production 503 incident on a \nFastAPI + PostgreSQL + Kubernetes service as the teaching e"
   },
   {
@@ -2882,7 +4754,7 @@
    "published": "2026-10-12T22:52:31+00:00",
    "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
    "isShort": false,
-   "views": 156088,
+   "views": 158394,
    "description": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times.\n\nExclusives, and ad-free early access vids ($9!): https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n0:4"
   },
   {
@@ -2894,7 +4766,7 @@
    "published": "2026-10-12T19:15:23+00:00",
    "url": "https://www.youtube.com/watch?v=wajoP_5Cpw8",
    "isShort": false,
-   "views": 6646672,
+   "views": 6760806,
    "description": "Every agent needs proper tools. Apify MCP gives yours thousands of them, ready to run. Use code FIRESHIP25 for $25 in free credits: https://apify.it/4ygURHS\n\nA developer just rewrote seven Adobe apps in Rust and open-sourced them for free. Let's test them out.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
   },
   {
@@ -2966,7 +4838,7 @@
    "published": "2026-10-11T16:53:17+00:00",
    "url": "https://www.youtube.com/watch?v=4fLVq6HJsKc",
    "isShort": false,
-   "views": 336289,
+   "views": 337700,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek OCR paper is available here:\nhttps://github.com/deepseek-ai/DeepSeek-OCR\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan S"
   },
   {
@@ -2978,7 +4850,7 @@
    "published": "2026-10-11T15:29:41+00:00",
    "url": "https://www.youtube.com/watch?v=OI1-4Ui3Jzw",
    "isShort": false,
-   "views": 27060,
+   "views": 27439,
    "description": "Last call for winter bootcamp - https://100xdevs.com/new-courses/winter-camp"
   },
   {
@@ -3074,7 +4946,7 @@
    "published": "2026-10-09T03:02:37+00:00",
    "url": "https://www.youtube.com/watch?v=jvySeY-DVPY",
    "isShort": false,
-   "views": 41746,
+   "views": 42367,
    "description": "India built a payment network that processes more than 24 billion transactions a month. You scan a QR code, enter a PIN, and in a few seconds the merchant has the money. For years, that experience looked almost free — the customer paid nothing, and UPI merchants paid zero. Yet NPCI, which runs UPI, has been making thousands of crores in revenue. At the same time, the US has been complaining that I"
   },
   {
@@ -3098,7 +4970,7 @@
    "published": "2026-10-08T19:55:16+00:00",
    "url": "https://www.youtube.com/watch?v=PVe-ibLRLaw",
    "isShort": false,
-   "views": 50173,
+   "views": 52161,
    "description": "Micro Center is THE AI Destination: https://micro.center/906836\nSign up for a FREE 128 gig Flash Drive at Micro Center's Austin Store: https://micro.center/2add08\nShop Micro Center's Tech Deals: https://micro.center/58faec\nVisit Micro Center News: https://micro.center/5c45ff\n\nAnthropic released Haiku 5.5 which surpasses GPT-6 Luna in many fronts.\nHaiku does not meet the pareto frontier that GPT-6 "
   },
   {
@@ -3182,7 +5054,7 @@
    "published": "2026-10-07T20:24:27+00:00",
    "url": "https://www.youtube.com/watch?v=WrCjAAl9okA",
    "isShort": false,
-   "views": 1654737,
+   "views": 1710446,
    "description": "KERNEL is the simplest way to let your agents act on any website. Use code: FIRESHIP to get a free upgrade to the Hobbyist tier ($30 value) at https://kernel.sh/fireship\n\nMistral, Reflection AI, and Moonshot all made big moves in the open-weight race this week. Let's dive in.\n\nWant more Fireship?\n\n🗞️ Newsletter: https://bytes.dev\n🧠 Courses: https://fireship.dev"
   },
   {
@@ -3218,7 +5090,7 @@
    "published": "2026-10-07T13:29:33+00:00",
    "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
    "isShort": false,
-   "views": 156867,
+   "views": 157502,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nThank you Google DeepMind for the invite.\n\n📝 AlphaGenome Atlas is available here:\nhttps://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/\nhttps://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/\n\n🙏 We would like to "
   },
   {
@@ -3230,7 +5102,7 @@
    "published": "2026-10-07T13:25:47+00:00",
    "url": "https://www.youtube.com/watch?v=m8Ula6KZU14",
    "isShort": false,
-   "views": 43466,
+   "views": 44163,
    "description": "Checkout: https://www.asrock.com/Graphics-Card/AMD/Radeon%20AI%20PRO%20R9700%20Creator%2032GB/\n\nhttps://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nIn this video, Harkirat explores what happens when you stop relying on cloud AI subscriptions and run AI models locally on your own GPU.\n\nWe’re using the AMD Radeon AI Pro with 32GB of VRAM to self-host coding, image, and video "
   },
   {
@@ -3266,7 +5138,7 @@
    "published": "2026-10-05T15:05:41+00:00",
    "url": "https://www.youtube.com/watch?v=kErkHUuMzKM",
    "isShort": false,
-   "views": 57619,
+   "views": 61286,
    "description": "Checkout: https://100xdevs.com/new-courses/winter-camp\n\nTwo Super 30 success stories — Mrityunjay and Ashmit.\nMrityunjay cracked 3 offers in 7 days, including a 59 LPA offer. Ashmit, who dropped out of BITS earlier this year, landed an 18 LPA full-time offer in Bangalore.  \n\nIn this episode, they share their journey, Super 30 experience, interview preparation, projects, and what helped them crack "
   },
   {
@@ -3278,7 +5150,7 @@
    "published": "2026-10-05T09:53:12+00:00",
    "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
    "isShort": false,
-   "views": 168932,
+   "views": 169286,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Sonnet 5.5: \nhttps://www.anthropic.com/claude-sonnet-5-5\n\n🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible:\nAdam Bridges, B Shang, Carlos Galarza, Christian Ahlin, Eric Tyson, Juan Benet, Lukas Biewald, Michael Tedder, Owen Skarpness, Ryan Stankye, Shawn Becker, Steef, "
   },
   {
@@ -3302,7 +5174,7 @@
    "published": "2026-10-05T04:12:12+00:00",
    "url": "https://www.youtube.com/shorts/YSLXRerJ_u4",
    "isShort": true,
-   "views": 7114,
+   "views": 7272,
    "description": "Meet DOTS, a personal AI agent designed to run its own cloud computer and handle complex tasks autonomously.\n\nMost AI tools require constant input, but DOTS changes the workflow by maintaining its own environment. This AI agent acts as a persistent digital worker, utilizing a dedicated cloud computer to browse the web and execute workflows even when you are offline.\n\nWe look at how you can interac"
   },
   {
@@ -3326,7 +5198,7 @@
    "published": "2026-10-04T13:30:02+00:00",
    "url": "https://www.youtube.com/watch?v=rS978jJ9PUM",
    "isShort": false,
-   "views": 94138,
+   "views": 95920,
    "description": "Checkout:https://100xdevs.com/new-courses/winter-camp\n\nThe bootcamp will run online and offline at the Greater Noida campus, with a packed schedule covering Full Stack, DSA, System Design, Applied AI, RAG, Coding Agents and more.\n\nBy the end of the 12 weeks, you'll have a much clearer answer to: Is CS actually for me?\n\nChapters\n\n00:00 — Introducing the Winter Bootcamp\n01:19 — What You'll Learn in "
   },
   {
@@ -3338,7 +5210,7 @@
    "published": "2026-10-03T02:20:58+00:00",
    "url": "https://www.youtube.com/watch?v=77owx_9zLvY",
    "isShort": false,
-   "views": 66290,
+   "views": 67151,
    "description": "A new AI company called TypeSafe has gone in almost the opposite direction of everyone else. While labs like OpenAI build models that think longer and write better answers, TypeSafe built a model that barely generates text at all. It's called JEV.\n\nIn this video, we see how JEV actually works, how to use it, and where it fits in a real system and then put it to the test using a small decision lab,"
   },
   {
@@ -3386,7 +5258,7 @@
    "published": "2026-10-02T00:57:16+00:00",
    "url": "https://www.youtube.com/watch?v=1ZbNgx6Gscw",
    "isShort": false,
-   "views": 351677,
+   "views": 381371,
    "description": "Google just released their new flagship model Gemini 4 Argon. The preliminary benchmark show really strong numbers. But how the competition in AI continues tells a different story.\nWhat exactly is Google's positioning and how do they stand to capture value being so different than OpenAI and Anthropic?\n\n#Gemini #ai #artificialintelligence \n\nX: https://x.com/calebfoundry\nLinkedIn: https://www.linked"
   },
   {
@@ -3398,7 +5270,7 @@
    "published": "2026-10-01T22:25:56+00:00",
    "url": "https://www.youtube.com/watch?v=h2p9rPWef_o",
    "isShort": false,
-   "views": 150754,
+   "views": 155068,
    "description": "https://100xdevs.com"
   },
   {
@@ -3410,7 +5282,7 @@
    "published": "2026-10-01T21:20:12+00:00",
    "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
    "isShort": false,
-   "views": 297874,
+   "views": 301306,
    "description": "This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House commitments, new hacks emerging, ‘deep personas’, biology Kasparov competitions, and so much more, ending with an epic Opus outro.\n\n\nPatreon Exclusives: https://www.patreon.com/AIExplained\n\nChapters:\n00:00 - Introduction\n01:32 - Wrong about Op"
   },
   {
@@ -3518,7 +5390,7 @@
    "published": "2026-09-30T03:53:53+00:00",
    "url": "https://www.youtube.com/watch?v=_xM8scs4_x4",
    "isShort": false,
-   "views": 83425,
+   "views": 95501,
    "description": "Try Zapier: https://bit.ly/4yVvOtV\nZapier helps you build custom automation and we're looking at how Zapier CLI can help me build news scanner app that keeps me up to date with AI.\n\n#ad #ZapierPartner #ai\n\n@Zapier\n\nInference Engines explained in under 10 minutes as more capable engines continue to support growing supply of models.\nllama.cpp, vLLM, SGLang, TensorRT-LLM, TGI are all great examples o"
   },
   {
@@ -3542,7 +5414,7 @@
    "published": "2026-09-29T13:01:06+00:00",
    "url": "https://www.youtube.com/watch?v=f0PvEs5l1qs",
    "isShort": false,
-   "views": 355468,
+   "views": 364331,
    "description": "https://100xdevs.com is the only OFFICIAL website to purchase our cohorts.\n\nIn this video, Harkirat takes us through the future of software development and coding\n\n📚 𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹𝘀/𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀:\nLive Link → \nGitHub Repository (give it a star ⭐) → \n\n🔗 𝗟𝗶𝗻𝗸𝘀:\nCohort → https://100xdevs.com\nTwitter → https://twitter.com/kirat_tw\nLinkedin → https://linkedin.com/in/kirat-li\nInstagram → https://www.instagram.co"
   },
   {
@@ -3674,7 +5546,7 @@
    "published": "2026-09-24T22:51:54+00:00",
    "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
    "isShort": false,
-   "views": 310049,
+   "views": 312318,
    "description": "Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recursive Self Improvement, aka automated AI research. I cover the model (digging into its 230 page paper), labs’ mixed record on promises, why following what is happening in AI is getting almost impossible, and just so much more that even a summ"
   },
   {
@@ -3710,7 +5582,7 @@
    "published": "2026-09-24T14:29:45+00:00",
    "url": "https://www.youtube.com/watch?v=gQmPD4I62rU",
    "isShort": false,
-   "views": 94584,
+   "views": 94982,
    "description": "Try Hyperagent: https://www.hyperagent.com/caleb\nSign up for a paid plan and get $100 in bonus credits.\n#HyperagentPartner #Anthropic #OpenAI\n\nAnthropic released Opus 5.5 on the same day as OpenAI releasing GPT-6 Sol and GPT-6 Luna. Competition is growing even more among labs and we need to understand how cost, token and intelligence is moving along in our innovation.\n\nFollow me:\nX: https://x.com/"
   },
   {
@@ -3722,7 +5594,7 @@
    "published": "2026-09-24T08:40:55+00:00",
    "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
    "isShort": false,
-   "views": 379727,
+   "views": 380969,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\nNote: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations.\n\nClaude Opus 5.5: https://www.anthropic.com/claude-opus-5-5\n\nWalking creatures video and paper:\nhttps://www.youtube.com/watch?v=kQ2bq"
   },
   {
@@ -3758,7 +5630,7 @@
    "published": "2026-09-23T17:04:06+00:00",
    "url": "https://www.youtube.com/watch?v=wyx1cbYbJTQ",
    "isShort": false,
-   "views": 57584,
+   "views": 58108,
    "description": "https://100xdevs.com"
   },
   {
@@ -3842,7 +5714,7 @@
    "published": "2026-09-22T09:32:13+00:00",
    "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
    "isShort": false,
-   "views": 293080,
+   "views": 293615,
    "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 Jev:\nhttps://typesafe.ai/blog/introducing-system-one-models-and-jev\n\nFull song: https://www.youtube.com/watch?v=4RtUJkjrKMI\n\nPrevious papers, implementations, models:\nhttps://huggingface.co/convaiinnovations/laya\nhttps://arxiv.org/abs/2503.23303\nhttps://huggingface.co/DeepMostInnovations/sales-conversion-model-re"
   },
   {
@@ -3902,7 +5774,7 @@
    "published": "2026-09-19T04:42:35+00:00",
    "url": "https://www.youtube.com/watch?v=vj7hysh0mOI",
    "isShort": false,
-   "views": 829374,
+   "views": 845490,
    "description": "Try Junie: https://jb.gg/CalebCode\n\nJev, a model from TypeSafe AI is a new paradigm with strong opinion around how RLHF and RLVR has completely taken over the public discourse and now it's going back to its roots to question whether new use cases can emerge from what they call RLCD.\n\nCan a model that thinks in probability distribution, at least in its output, create that much hype to actually gene"
   },
   {
@@ -3916,54 +5788,6 @@
    "isShort": false,
    "views": 89097,
    "description": "https://100xdevs.com"
-  },
-  {
-   "id": "vIHw_2VjSUw",
-   "channel": "Two Minute Papers",
-   "channelId": "UCbfYPyITQ-7l4upoX8nvctg",
-   "lang": "en",
-   "title": "DeepSeek’s Insane New Architecture",
-   "published": "2026-09-18T07:03:46+00:00",
-   "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-   "isShort": false,
-   "views": 343039,
-   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers\n\n📝 The DeepSeek V4.1 Flash paper is available here:\nhttps://www.deepseek.com/en/news/deepseek-v4-1-flash/\n\nErratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies!\n\nSources:\nhttps://x.com/flowith/status/2099446892174406055/video/1\nhttps://x.com/loktar00/status/2097761803291726137\nhttps://x.com/loktar00/st"
-  },
-  {
-   "id": "NUKgas9Fd5g",
-   "channel": "ByteMonk",
-   "channelId": "UCzCsyvyrq38R6TnztEzOmgg",
-   "lang": "en",
-   "title": "Recursive Self-Improvement Is Already Happening?",
-   "published": "2026-09-18T02:30:09+00:00",
-   "url": "https://www.youtube.com/watch?v=NUKgas9Fd5g",
-   "isShort": false,
-   "views": 94300,
-   "description": "Groups of AI agents explored different approaches. Codex consolidated their findings. And partway through the 88-hour effort, OpenAI swapped in a better model and kept going without stopping the research.\n\nThat's not recursive self-improvement yet. But the pieces of the loop are starting to show up. This video connects that story to two others: OpenAI's own research organization now getting roughl"
-  },
-  {
-   "id": "MltkRz94SWA",
-   "channel": "Aish Reganti",
-   "channelId": "UCf9CdAgj8AHmpMwyoe67w7w",
-   "lang": "en",
-   "title": "The Most Important Skill for AI Engineers: Evals Explained",
-   "published": "2026-09-17T15:53:28+00:00",
-   "url": "https://www.youtube.com/watch?v=MltkRz94SWA",
-   "isShort": false,
-   "views": 153665,
-   "description": "Free AI Evals Course : https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/free_courses/ai_evals_for_everyone/README.md\n\n🚀Get 3 months of Arize AX Pro Free: https://app.arize.com/auth/join?utm_source=youtube&utm_medium=video&utm_campaign=ai-evals-video&utm_content=aishwarya-nr\n\n\n\nBuilding an agent is the easy part! Anyone can get one working in a day. The hard part is making it ho"
-  },
-  {
-   "id": "nNGW5l65fuY",
-   "channel": "CodeWithHarry",
-   "channelId": "UCeVMnSShP_Iviwkknt83cww",
-   "lang": "hi",
-   "title": "Tell me about yourself | Interview Question",
-   "published": "2026-09-17T11:30:01+00:00",
-   "url": "https://www.youtube.com/shorts/nNGW5l65fuY",
-   "isShort": true,
-   "views": 146103,
-   "description": ""
   }
  ]
 }
